@@ -4,6 +4,7 @@ import es_core_news_sm
 import random
 from googletrans import Translator
 from  spanish_dict.dictdlib import DictDB
+import json 
 
 
 class SpanishTutor:
@@ -52,9 +53,41 @@ class SpanishTutor:
         tagged_words = self.nlp(spanish_text)
         return self.make_noun_equals_caption(spanish_text,translated_text,tagged_words)
 
-    def make_captions(self,spanish_text,translated_text):
+    def make_caption(self,spanish_text,translated_text):
         tagged_words = self.nlp(spanish_text)
-
+        part_of_speeches =  [word.pos_ for word in tagged_words]
+        nouns = []
+        verbs = []
+        punctuation = []
+        for word in tagged_words:
+            if word.pos_ == 'NOUN':
+                nouns.append(word.text)
+            if word.pos_ == 'VERB':
+                verbs.append(word.text)
+            if word.pos_ == 'PUNCT':
+                punctuation.append(word.text)
+        if nouns:
+            word_list = nouns
+        else:
+            word_list = verbs
+        if not word_list:
+            return " "
+        chosen_word = random.choice(word_list)
+        translated_word = self.translator.translate(chosen_word,dest='en').text
+        caption = ''
+        substring_starting_index = spanish_text.find(chosen_word)
+        substring_ending_index = substring_starting_index + len(chosen_word)
+        for i in range(0,len(spanish_text)):
+            char = spanish_text[i]
+            if i >= substring_starting_index and i < substring_ending_index:
+                caption += char
+            elif char in punctuation:
+                caption += char
+            else:
+                caption += '_'
+        caption = caption[:substring_ending_index] + " (" + translated_word + ")" + caption[substring_ending_index:]
+        print(caption)
+        return caption
 
 
     def populate_spanish_and_translation_text(self):
@@ -108,4 +141,4 @@ class SpanishTutor:
 
 
 if __name__ == "__main__":
-    SpanishTutor('subtitles/s1e1spanish.xml','subtitles/output.xml').main()
+    SpanishTutor('subtitles/s1e1spanish.xml','subtitles/hangman.xml').main()
