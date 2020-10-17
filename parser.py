@@ -3,6 +3,7 @@ from collections.abc import Mapping
 import es_core_news_sm
 import random
 from googletrans import Translator
+from  spanish_dict.dictdlib import DictDB
 
 
 class SpanishTutor:
@@ -15,24 +16,46 @@ class SpanishTutor:
         self.spanish_text = ''
         self.translation_text = ''
         self.paragraphs = []
+        self.spanish_dict = DictDB()
+        self.cached_spanish_dict = {}
 
-    def make_equals_caption(self,spanish_text,translated_text,tagged_words):
+    def make_noun_equals_caption(self,spanish_text,translated_text,tagged_words):
         nouns = []
         for word in tagged_words:
             if word.pos_ == 'NOUN':
                 nouns.append(word.text)
-        if not nouns:
-            return " "
-        chosen_word = random.choice(nouns)
-        return_str = " " + chosen_word + " = " + translated_text + " "
-        print(return_str)
-        return return_str
+
+        for noun in nouns:
+            lowered_noun = noun.lower()
+            if not self.spanish_dict.hasdef(lowered_noun):
+                print(noun, " NOT IN MAIN DICTIONARY")
+                if lowered_noun in self.cached_spanish_dict:
+                    definitions = self.cached_spanish_dict[lowered_noun]
+                else:
+                    print(noun, " NOT IN CACHED DICTIONARY")
+                    definitions = [self.translator.translate(lowered_noun,dest='en').text]
+                    self.cached_spanish_dict[lowered_noun] = definitions
+            else:
+                definitions = self.spanish_dict.getdef(lowered_noun)
+
+            for definition in definitions: 
+                if definition.lower() in translated_text.lower():
+                    return_str = " " + noun + " = " + definition + "|"
+                    print(return_str)
+                    return return_str
+                else:
+                    print(definition, "NOT IN TEXT ", translated_text)                
+        return " "
         
 
-    def make_caption(self,spanish_text,translated_text):
-        import pdb; pdb.set_trace()
+    def make_caption_efficient(self,spanish_text,translated_text):
         tagged_words = self.nlp(spanish_text)
-        return self.make_equals_caption(spanish_text,translated_text,tagged_words)
+        return self.make_noun_equals_caption(spanish_text,translated_text,tagged_words)
+
+    def make_captions(self,spanish_text,translated_text):
+        tagged_words = self.nlp(spanish_text)
+
+
 
     def populate_spanish_and_translation_text(self):
             paragraphs = self.doc['tt']['body']['div']['p']
@@ -68,6 +91,12 @@ class SpanishTutor:
         self.populate_spanish_and_translation_text()
         self.transform_doc()
         self.write_file.write(xmltodict.unparse(self.doc))
+
+
+        json_dict = json.dumps(dict)
+        f = open("spanish_dict.json","w+")
+        f.write(json_dict)
+        f.close()
         self.read_file.close()
         self.write_file.close()  
 
@@ -79,4 +108,4 @@ class SpanishTutor:
 
 
 if __name__ == "__main__":
-    SpanishTutor('s1e1spanish.xml','custom.xml').main()
+    SpanishTutor('subtitles/s1e1spanish.xml','subtitles/output.xml').main()
