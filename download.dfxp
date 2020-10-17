@@ -1,0 +1,666 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <head>
+    <metadata>
+      <ttm:title>Netflix Subtitle for php1FzqSA</ttm:title>
+    </metadata>
+    <styling>
+      <style tts:fontStyle="normal" tts:fontWeight="normal" xml:id="s1" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%"></style>
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+    </layout>
+  </head>
+  <body>
+    <div style="s1" xml:id="d1">
+      <p xml:id="p1" begin="00:00:06.520" end="00:00:07.760" region="bottomCenter">(HOMBRE) ¡Quieto o disparo!</p>
+      <p xml:id="p2" begin="00:00:07.840" end="00:00:08.840" region="topCenter">(Disparo)</p>
+      <p xml:id="p3" begin="00:00:08.920" end="00:00:09.760" region="bottomCenter">(MUJER) ¡No!</p>
+      <p xml:id="p4" begin="00:00:25.160" end="00:00:26.360" region="bottomCenter">"Me llamo Tokio.</p>
+      <p xml:id="p5" begin="00:00:28.520" end="00:00:31.800" region="topCenter">Pero cuando comenzó esta historia,<br/>no me llamaba así.</p>
+      <p xml:id="p6" begin="00:00:33.680" end="00:00:34.720" region="topCenter">Esta era yo.</p>
+      <p xml:id="p7" begin="00:00:38.040" end="00:00:39.960" region="topCenter">Y este, el amor de mi vida.</p>
+      <p xml:id="p8" begin="00:00:40.040" end="00:00:42.400" region="topCenter">La última vez que lo vi<br/>lo dejé en un charco de sangre</p>
+      <p xml:id="p9" begin="00:00:42.480" end="00:00:44.240" region="bottomCenter">con los ojos abiertos.</p>
+      <p xml:id="p10" begin="00:00:45.640" end="00:00:47.680" region="bottomCenter">Hicimos 15 atracos limpios,</p>
+      <p xml:id="p11" begin="00:00:48.160" end="00:00:50.560" region="bottomCenter">pero mezclar amor y trabajo<br/>nunca funciona.</p>
+      <p xml:id="p12" begin="00:00:50.640" end="00:00:54.400" region="bottomCenter">Así que, cuando el segurata disparó,<br/>tuve que cambiar de profesión.</p>
+      <p xml:id="p13" begin="00:00:56.000" end="00:00:57.960" region="bottomCenter">De ladrona a asesina.</p>
+      <p xml:id="p14" begin="00:00:59.000" end="00:01:00.440" region="bottomCenter">Y así fue como empecé a huir.</p>
+      <p xml:id="p15" begin="00:01:01.840" end="00:01:04.120" region="bottomCenter">De alguna manera,<br/>yo también estaba muerta.</p>
+      <p xml:id="p16" begin="00:01:06.240" end="00:01:07.840" region="bottomCenter">O casi muerta.</p>
+      <p xml:id="p17" begin="00:01:26.800" end="00:01:28.560" region="topCenter">Llevaba 11 días escondida</p>
+      <p xml:id="p18" begin="00:01:28.840" end="00:01:32.040" region="topCenter">y mi foto empapelaba<br/>las comisarías de toda España.</p>
+      <p xml:id="p19" begin="00:01:32.120" end="00:01:33.600" region="topCenter">Me caerían 30 años.</p>
+      <p xml:id="p20" begin="00:01:33.680" end="00:01:36.120" region="topCenter">Y, la verdad,<br/>no soy de llegar a viejecita</p>
+      <p xml:id="p21" begin="00:01:36.200" end="00:01:37.360" region="topCenter">en la celda de un penal.</p>
+      <p xml:id="p22" begin="00:01:39.120" end="00:01:40.400" region="topCenter">Soy más bien de huir.</p>
+      <p xml:id="p23" begin="00:01:41.120" end="00:01:42.440" region="topCenter">En cuerpo y alma.</p>
+      <p xml:id="p24" begin="00:01:43.320" end="00:01:45.040" region="topCenter">Y si no puedo llevar mi cuerpo,</p>
+      <p xml:id="p25" begin="00:01:46.560" end="00:01:48.080" region="topCenter">al menos que escape mi alma".</p>
+      <p xml:id="p26" begin="00:01:48.440" end="00:01:50.800" region="topCenter">(Tono de llamada)</p>
+      <p xml:id="p27" begin="00:01:50.880" end="00:01:53.760" region="topCenter">"No me quedaba tiempo y había<br/>cosas importantes que debía hacer.</p>
+      <p xml:id="p28" begin="00:01:55.080" end="00:01:56.280" region="topCenter">En realidad, solo una".</p>
+      <p xml:id="p29" begin="00:01:57.240" end="00:01:58.640" region="topCenter">(Teléfono)</p>
+      <p xml:id="p30" begin="00:02:05.000" end="00:02:06.120" region="topCenter">Sí.</p>
+      <p xml:id="p31" begin="00:02:08.160" end="00:02:09.200" region="topCenter">"¿Mamá?".</p>
+      <p xml:id="p32" begin="00:02:09.720" end="00:02:10.720" region="topCenter">Ay, mi niña.</p>
+      <p xml:id="p33" begin="00:02:12.000" end="00:02:13.680" region="topCenter">"¿Cómo estás, cariño?".</p>
+      <p xml:id="p34" begin="00:02:15.160" end="00:02:16.440" region="topCenter">¿Qué está pasando?</p>
+      <p xml:id="p35" begin="00:02:16.920" end="00:02:18.560" region="topCenter">"¿No viste las noticias?".</p>
+      <p xml:id="p36" begin="00:02:19.080" end="00:02:20.800" region="bottomCenter">Todas esas cosas que dicen de mí.</p>
+      <p xml:id="p37" begin="00:02:21.440" end="00:02:23.400" region="bottomCenter">Sí, claro que las he visto.</p>
+      <p xml:id="p38" begin="00:02:25.800" end="00:02:27.080" region="bottomCenter">¿Sabes qué?</p>
+      <p xml:id="p39" begin="00:02:28.800" end="00:02:30.440" region="bottomCenter">Estoy pensando en irme de viaje.</p>
+      <p xml:id="p40" begin="00:02:30.520" end="00:02:32.720" region="bottomCenter">"A lo mejor me enrolo<br/>en un barco chino.</p>
+      <p xml:id="p41" begin="00:02:32.800" end="00:02:33.960" region="bottomCenter">De cocinera.</p>
+      <p xml:id="p42" begin="00:02:34.040" end="00:02:36.080" region="bottomCenter">¿No decías<br/>que no sabía hacer una tortilla?</p>
+      <p xml:id="p43" begin="00:02:36.160" end="00:02:37.800" region="bottomCenter">Así aprendo. ¿Qué te parece?".</p>
+      <p xml:id="p44" begin="00:02:38.440" end="00:02:40.040" region="bottomCenter">No sé, cariño.</p>
+      <p xml:id="p45" begin="00:02:40.320" end="00:02:42.080" region="bottomCenter">¿Y si comen todo chino, qué?</p>
+      <p xml:id="p46" begin="00:02:44.880" end="00:02:48.120" region="bottomCenter">¿Ese viaje qué significa,</p>
+      <p xml:id="p47" begin="00:02:48.200" end="00:02:50.040" region="bottomCenter">"que no voy a volver a verte más?".</p>
+      <p xml:id="p48" begin="00:02:51.360" end="00:02:52.920" region="bottomCenter">Qué tonterías dices.</p>
+      <p xml:id="p49" begin="00:02:53.520" end="00:02:54.800" region="bottomCenter">Pues claro que me verás.</p>
+      <p xml:id="p50" begin="00:02:54.880" end="00:02:57.240" region="bottomCenter">"Te compraré un billete<br/>para que vengas a visitarme".</p>
+      <p xml:id="p51" begin="00:02:59.080" end="00:03:00.400" region="bottomCenter">¿Visitarte dónde?</p>
+      <p xml:id="p52" begin="00:03:01.840" end="00:03:02.880" region="bottomCenter">¿Al cementerio?</p>
+      <p xml:id="p53" begin="00:03:07.240" end="00:03:08.320" region="bottomCenter">¿Estás sola?</p>
+      <p xml:id="p54" begin="00:03:10.880" end="00:03:12.000" region="bottomCenter">"Mamá, ¿estás sola?".</p>
+      <p xml:id="p55" begin="00:03:12.360" end="00:03:13.400" region="bottomCenter">Sí.</p>
+      <p xml:id="p56" begin="00:03:13.480" end="00:03:16.440" region="bottomCenter">"Pues baja a la calle,<br/>como si fueses al mercado.</p>
+      <p xml:id="p57" begin="00:03:17.680" end="00:03:18.920" region="bottomCenter">Yo te encontraré".</p>
+      <p xml:id="p58" begin="00:03:22.240" end="00:03:24.880" region="bottomCenter">"Y ese día,<br/>el día que iba al matadero,</p>
+      <p xml:id="p59" begin="00:03:24.960" end="00:03:27.200" region="bottomCenter">apareció mi ángel de la guarda.</p>
+      <p xml:id="p60" begin="00:03:28.160" end="00:03:31.240" region="bottomCenter">Pero una nunca sabe a ciencia cierta<br/>cómo es un ángel de la guarda</p>
+      <p xml:id="p61" begin="00:03:31.320" end="00:03:34.640" region="bottomCenter">y lo que menos te puedes imaginar<br/>es que aparezca en un Seat Ibiza</p>
+      <p xml:id="p62" begin="00:03:34.720" end="00:03:35.920" region="bottomCenter">del 92".</p>
+      <p xml:id="p63" begin="00:03:36.000" end="00:03:37.760" region="bottomCenter">Perdona, ¿tienes un minuto?</p>
+      <p xml:id="p64" begin="00:03:39.840" end="00:03:40.840" region="bottomCenter">No.</p>
+      <p xml:id="p65" begin="00:03:44.720" end="00:03:47.200" region="bottomCenter">Lo de cocinar en un barco chino<br/>solo tiene una ventaja,</p>
+      <p xml:id="p66" begin="00:03:51.160" end="00:03:53.000" region="bottomCenter">que no tienes que fregar los platos.</p>
+      <p xml:id="p67" begin="00:03:53.920" end="00:03:56.080" region="bottomCenter">"Por un momento<br/>pensé en los chinos</p>
+      <p xml:id="p68" begin="00:03:56.560" end="00:03:58.680" region="bottomCenter">y en que odio a la gente<br/>que escupe".</p>
+      <p xml:id="p69" begin="00:04:05.960" end="00:04:07.960" region="bottomCenter">¿Quién eres, policía?<br/>Espera, espera.</p>
+      <p xml:id="p70" begin="00:04:08.040" end="00:04:10.640" region="bottomCenter">Vas de camino al matadero,<br/>tienes a un equipo esperándote</p>
+      <p xml:id="p71" begin="00:04:10.720" end="00:04:12.640" region="bottomCenter">y tienen un coche<br/>desde hace seis días...</p>
+      <p xml:id="p72" begin="00:04:12.720" end="00:04:13.840" region="bottomCenter">¿Por qué te voy a creer?</p>
+      <p xml:id="p73" begin="00:04:14.920" end="00:04:16.760" region="bottomCenter">"Y así conocí al Profesor,</p>
+      <p xml:id="p74" begin="00:04:16.840" end="00:04:19.200" region="bottomCenter">apuntándole con una pistola<br/>en las pelotas".</p>
+      <p xml:id="p75" begin="00:04:19.280" end="00:04:20.160" region="bottomCenter">¿Puedo?</p>
+      <p xml:id="p76" begin="00:04:20.240" end="00:04:21.720" region="bottomCenter">"Lo bueno de las relaciones</p>
+      <p xml:id="p77" begin="00:04:21.800" end="00:04:24.280" region="bottomCenter">es que uno termina olvidándose<br/>de cómo empezaron".</p>
+      <p xml:id="p78" begin="00:04:24.440" end="00:04:25.560" region="bottomCenter">¿Puedo?</p>
+      <p xml:id="p79" begin="00:04:40.360" end="00:04:42.120" region="bottomCenter">Están ya en casa de tu madre.</p>
+      <p xml:id="p80" begin="00:04:48.480" end="00:04:50.240" region="bottomCenter">Por eso he venido a ayudarte.</p>
+      <p xml:id="p81" begin="00:04:52.360" end="00:04:54.800" region="bottomCenter">Quiero proponerte un negocio,</p>
+      <p xml:id="p82" begin="00:04:56.280" end="00:04:58.200" region="bottomCenter">un atraco, un atraco...</p>
+      <p xml:id="p83" begin="00:05:01.080" end="00:05:02.560" region="bottomCenter">singular.</p>
+      <p xml:id="p84" begin="00:05:03.840" end="00:05:05.320" region="bottomCenter">Estoy buscando a gente que...</p>
+      <p xml:id="p85" begin="00:05:06.080" end="00:05:08.200" region="bottomCenter">Bueno,<br/>que no tenga mucho que perder.</p>
+      <p xml:id="p86" begin="00:05:11.080" end="00:05:16.240" region="bottomCenter">¿Cómo te suenan...<br/>2400 millones de euros?</p>
+      <p xml:id="p87" begin="00:05:19.800" end="00:05:22.040" region="bottomCenter">"Nadie había dado un palo así,</p>
+      <p xml:id="p88" begin="00:05:22.120" end="00:05:25.160" region="bottomCenter">ni en Nueva York,<br/>ni en Londres, ni en Montecarlo;</p>
+      <p xml:id="p89" begin="00:05:25.240" end="00:05:27.400" region="bottomCenter">así que si mi foto<br/>volvía a los periódicos,</p>
+      <p xml:id="p90" begin="00:05:27.480" end="00:05:30.440" region="bottomCenter">al menos que fuera por el atraco<br/>más grande de la historia".</p>
+      <p xml:id="p91" begin="00:06:12.880" end="00:06:14.120" region="bottomCenter">Os doy la bienvenida...</p>
+      <p xml:id="p92" begin="00:06:15.960" end="00:06:20.120" region="bottomCenter">y... las gracias<br/>por haber aceptado esta...</p>
+      <p xml:id="p93" begin="00:06:22.080" end="00:06:23.400" region="bottomCenter">Esta oferta de trabajo.</p>
+      <p xml:id="p94" begin="00:06:23.480" end="00:06:24.480" region="topCenter">(Risas)</p>
+      <p xml:id="p95" begin="00:06:27.440" end="00:06:31.000" region="bottomCenter">Viviremos aquí,<br/>alejados del mundanal ruido.</p>
+      <p xml:id="p96" begin="00:06:31.200" end="00:06:33.960" region="bottomCenter">Cinco meses, los cinco meses<br/>que pasaremos estudiando</p>
+      <p xml:id="p97" begin="00:06:34.040" end="00:06:36.640" region="bottomCenter">cómo dar el golpe.<br/>¿Cómo que cinco meses?</p>
+      <p xml:id="p98" begin="00:06:36.840" end="00:06:38.480" region="bottomCenter">¿Estamos locos o qué?</p>
+      <p xml:id="p99" begin="00:06:41.000" end="00:06:44.880" region="bottomCenter">Mira, la gente pasa años estudiando</p>
+      <p xml:id="p100" begin="00:06:46.200" end="00:06:49.120" region="bottomCenter">para tener un sueldo, un sueldo<br/>que, en el mejor de los casos,</p>
+      <p xml:id="p101" begin="00:06:49.200" end="00:06:52.080" region="bottomCenter">no deja de ser un sueldo,<br/>un sueldo de mierda.</p>
+      <p xml:id="p102" begin="00:06:53.680" end="00:06:55.280" region="bottomCenter">¿Qué son cinco meses?</p>
+      <p xml:id="p103" begin="00:06:57.320" end="00:07:03.040" region="bottomCenter">Yo llevo pensando en esto...<br/>mucho más tiempo.</p>
+      <p xml:id="p104" begin="00:07:07.320" end="00:07:09.040" region="bottomCenter">Para no volver a trabajar<br/>en mi vida.</p>
+      <p xml:id="p105" begin="00:07:10.000" end="00:07:11.560" region="bottomCenter">Ni vosotros...</p>
+      <p xml:id="p106" begin="00:07:13.280" end="00:07:14.880" region="bottomCenter">ni vuestros hijos.</p>
+      <p xml:id="p107" begin="00:07:22.920" end="00:07:23.920" region="bottomCenter">Bien.</p>
+      <p xml:id="p108" begin="00:07:24.000" end="00:07:26.680" region="bottomCenter">De momento no os conocéis<br/>y quiero que siga siendo así.</p>
+      <p xml:id="p109" begin="00:07:26.760" end="00:07:31.000" region="bottomCenter">No quiero nada de nombres,<br/>ni preguntas personales,</p>
+      <p xml:id="p110" begin="00:07:32.560" end="00:07:35.160" region="bottomCenter">ni, por supuesto,<br/>relaciones personales.</p>
+      <p xml:id="p111" begin="00:07:36.880" end="00:07:39.640" region="bottomCenter">Quiero que cada uno elija<br/>un nombre, algo sencillo.</p>
+      <p xml:id="p112" begin="00:07:39.720" end="00:07:41.760" region="bottomCenter">Puede ser números,<br/>planetas, ciudades...</p>
+      <p xml:id="p113" begin="00:07:41.840" end="00:07:46.240" region="bottomCenter">-Rollo "Señor 17, la señorita 23".<br/>-Ya empezamos mal. Yo no sé</p>
+      <p xml:id="p114" begin="00:07:46.320" end="00:07:49.320" region="bottomCenter">recordar mi número de teléfono.<br/>-Por eso te lo digo.</p>
+      <p xml:id="p115" begin="00:07:51.040" end="00:07:54.440" region="bottomCenter">-¿Y planetas?<br/>Yo puedo ser Marte, este Urano.</p>
+      <p xml:id="p116" begin="00:07:54.840" end="00:07:56.800" region="bottomCenter">-Yo Urano no seré,<br/>así que te olvidas.</p>
+      <p xml:id="p117" begin="00:07:57.440" end="00:07:59.600" region="bottomCenter">-¿Qué le pasa a Urano?<br/>-Que tiene mala rima.</p>
+      <p xml:id="p118" begin="00:07:59.680" end="00:08:02.840" region="bottomCenter">Van a ser ciudades, ciudades.<br/>Quedamos con ciudades.</p>
+      <p xml:id="p119" begin="00:08:03.360" end="00:08:04.440" region="bottomCenter">Bien.</p>
+      <p xml:id="p120" begin="00:08:04.520" end="00:08:06.760" region="bottomCenter">"Y así terminé llamándome Tokio.</p>
+      <p xml:id="p121" begin="00:08:07.600" end="00:08:09.840" region="bottomCenter">Ese que me mira el culo<br/>es el señor Berlín.</p>
+      <p xml:id="p122" begin="00:08:10.400" end="00:08:11.520" region="bottomCenter">En busca y captura.</p>
+      <p xml:id="p123" begin="00:08:12.720" end="00:08:16.360" region="topCenter">27 atracos. Joyerías,<br/>casas de subastas y furgones.</p>
+      <p xml:id="p124" begin="00:08:16.440" end="00:08:18.920" region="bottomCenter">Su mayor golpe,<br/>los Campos Elíseos, en París.</p>
+      <p xml:id="p125" begin="00:08:19.000" end="00:08:21.120" region="bottomCenter">434 diamantes.</p>
+      <p xml:id="p126" begin="00:08:22.040" end="00:08:23.920" region="bottomCenter">Es como un tiburón en una piscina.</p>
+      <p xml:id="p127" begin="00:08:24.000" end="00:08:26.600" region="bottomCenter">Puedes bañarte con él,<br/>pero nunca estás tranquila.</p>
+      <p xml:id="p128" begin="00:08:26.680" end="00:08:28.200" region="bottomCenter">Y era el jefe al mando del asalto".</p>
+      <p xml:id="p129" begin="00:08:28.280" end="00:08:29.280" region="topCenter">(Tosidos)</p>
+      <p xml:id="p130" begin="00:08:29.360" end="00:08:31.000" region="bottomCenter">"El que tose es el señor Moscú.</p>
+      <p xml:id="p131" begin="00:08:32.240" end="00:08:34.400" region="topCenter">Lo primero que cavó fue una mina,<br/>en Asturias.</p>
+      <p xml:id="p132" begin="00:08:35.520" end="00:08:38.840" region="bottomCenter">Después comprendió que cavando<br/>hacia arriba llegaría más lejos.</p>
+      <p xml:id="p133" begin="00:08:38.920" end="00:08:41.920" region="bottomCenter">Seis peleterías, tres relojerías<br/>y la Caja Rural de Avilés.</p>
+      <p xml:id="p134" begin="00:08:42.880" end="00:08:45.800" region="bottomCenter">Maneja lanza térmica<br/>y cualquier herramienta industrial.</p>
+      <p xml:id="p135" begin="00:08:45.880" end="00:08:49.120" region="bottomCenter">El que está sentado<br/>tras Moscú es Denver, su hijo.</p>
+      <p xml:id="p136" begin="00:08:50.680" end="00:08:53.160" region="topCenter">Drogas, dientes, costillas rotas.</p>
+      <p xml:id="p137" begin="00:08:53.600" end="00:08:55.360" region="bottomCenter">Es el rey de las peleas<br/>de discoteca.</p>
+      <p xml:id="p138" begin="00:08:55.440" end="00:08:56.800" region="bottomCenter">Pura sangre caliente.</p>
+      <p xml:id="p139" begin="00:08:56.880" end="00:08:59.680" region="bottomCenter">En un plan perfecto,<br/>una bomba de relojería.</p>
+      <p xml:id="p140" begin="00:09:03.520" end="00:09:05.200" region="bottomCenter">Río. Es mi debilidad.</p>
+      <p xml:id="p141" begin="00:09:05.560" end="00:09:07.800" region="topCenter">Es como un Mozart,<br/>pero con los ordenadores.</p>
+      <p xml:id="p142" begin="00:09:08.800" end="00:09:12.120" region="bottomCenter">Programa desde los 6 años y lo sabe<br/>todo de alarmas y electrónica.</p>
+      <p xml:id="p143" begin="00:09:12.200" end="00:09:15.280" region="bottomCenter">Para el resto de cosas de la vida<br/>es como si hubiera nacido ayer.</p>
+      <p xml:id="p144" begin="00:09:16.160" end="00:09:19.000" region="bottomCenter">Y ahí están los siameses,<br/>Helsinki y Oslo.</p>
+      <p xml:id="p145" begin="00:09:19.080" end="00:09:21.600" region="topCenter">Hasta en el plan más sofisticado<br/>hacen falta soldados</p>
+      <p xml:id="p146" begin="00:09:21.760" end="00:09:23.200" region="bottomCenter">y qué mejor que dos serbios.</p>
+      <p xml:id="p147" begin="00:09:23.280" end="00:09:26.680" region="bottomCenter">Puede que piensen, pero,<br/>francamente, nunca lo sabremos.</p>
+      <p xml:id="p148" begin="00:09:27.960" end="00:09:29.480" region="bottomCenter">Nairobi,</p>
+      <p xml:id="p149" begin="00:09:29.560" end="00:09:31.160" region="topCenter">optimista empedernida.</p>
+      <p xml:id="p150" begin="00:09:31.240" end="00:09:33.800" region="topCenter">Ha falsificado billetes<br/>desde los 13 años.</p>
+      <p xml:id="p151" begin="00:09:33.880" end="00:09:35.920" region="bottomCenter">Y ahora es<br/>nuestra encargada de calidad.</p>
+      <p xml:id="p152" begin="00:09:36.800" end="00:09:40.120" region="bottomCenter">Es posible que esté loca,<br/>pero tiene tanta gracia la 'jodía'".</p>
+      <p xml:id="p153" begin="00:09:41.200" end="00:09:45.840" region="bottomCenter">Pensad que cada día los telediarios<br/>estarán hablando de nosotros,</p>
+      <p xml:id="p154" begin="00:09:45.920" end="00:09:49.040" region="bottomCenter">que cada familia de este país<br/>se estará preguntando</p>
+      <p xml:id="p155" begin="00:09:49.560" end="00:09:50.840" region="bottomCenter">qué estamos haciendo.</p>
+      <p xml:id="p156" begin="00:09:52.200" end="00:09:53.720" region="bottomCenter">¿Y sabéis lo que van a pensar?</p>
+      <p xml:id="p157" begin="00:09:56.800" end="00:09:59.640" region="bottomCenter">Van a pensar: "Qué cabrones,<br/>ojalá se me hubiera ocurrido a mí".</p>
+      <p xml:id="p158" begin="00:09:59.840" end="00:10:02.880" region="bottomCenter">"El Profesor,<br/>sin antecedentes, sin registro.</p>
+      <p xml:id="p159" begin="00:10:02.960" end="00:10:05.920" region="bottomCenter">La última vez<br/>que renovó el DNI fue con 19 años.</p>
+      <p xml:id="p160" begin="00:10:06.240" end="00:10:10.600" region="bottomCenter">A todos los efectos, un fantasma,<br/>pero un fantasma muy inteligente".</p>
+      <p xml:id="p161" begin="00:10:10.680" end="00:10:14.440" region="bottomCenter">No vamos a robar...<br/>el dinero de nadie,</p>
+      <p xml:id="p162" begin="00:10:16.040" end="00:10:18.280" region="bottomCenter">porque les vamos a caer<br/>hasta simpáticos.</p>
+      <p xml:id="p163" begin="00:10:19.200" end="00:10:22.480" region="bottomCenter">Y eso es fundamental, es fundamental<br/>que tengamos la opinión pública</p>
+      <p xml:id="p164" begin="00:10:22.560" end="00:10:23.800" region="bottomCenter">de nuestra parte.</p>
+      <p xml:id="p165" begin="00:10:27.960" end="00:10:30.600" region="bottomCenter">Vamos a ser los puñeteros héroes<br/>de toda esta gente.</p>
+      <p xml:id="p166" begin="00:10:32.440" end="00:10:35.560" region="bottomCenter">Pero mucho cuidado,<br/>porque en el momento en que haya</p>
+      <p xml:id="p167" begin="00:10:35.640" end="00:10:38.360" region="bottomCenter">una sola gota de sangre,<br/>esto es muy importante,</p>
+      <p xml:id="p168" begin="00:10:38.640" end="00:10:40.360" region="bottomCenter">como haya una sola víctima,</p>
+      <p xml:id="p169" begin="00:10:41.040" end="00:10:42.720" region="bottomCenter">dejaremos de ser unos Robin Hood</p>
+      <p xml:id="p170" begin="00:10:42.800" end="00:10:45.480" region="bottomCenter">para convertirnos simplemente<br/>en unos hijos de puta.</p>
+      <p xml:id="p171" begin="00:10:46.560" end="00:10:47.640" region="bottomCenter">Profesor.</p>
+      <p xml:id="p172" begin="00:10:49.240" end="00:10:50.600" region="bottomCenter">Señorita Tokio.</p>
+      <p xml:id="p173" begin="00:10:52.280" end="00:10:53.760" region="bottomCenter">¿Qué vamos a robar?</p>
+      <p xml:id="p174" begin="00:11:00.720" end="00:11:02.800" region="bottomCenter">La Fábrica Nacional<br/>de Moneda y Timbre.</p>
+      <p xml:id="p175" begin="00:12:27.720" end="00:12:29.080" region="bottomCenter">¿Quién eligió la careta?</p>
+      <p xml:id="p176" begin="00:12:29.160" end="00:12:31.640" region="bottomCenter">(BERLÍN) ¿Qué le pasa a la careta?<br/>-Que no da miedo.</p>
+      <p xml:id="p177" begin="00:12:31.920" end="00:12:34.640" region="topCenter">Tú ves las pelis de atracadores<br/>y las caretas dan miedo.</p>
+      <p xml:id="p178" begin="00:12:35.040" end="00:12:38.040" region="topCenter">Son zombis, esqueletos,<br/>la muerte, yo qué sé, sientes...</p>
+      <p xml:id="p179" begin="00:12:39.360" end="00:12:40.720" region="topCenter">(BERLÍN) Con un arma en la mano</p>
+      <p xml:id="p180" begin="00:12:40.800" end="00:12:43.160" region="topCenter">te aseguro que da más miedo<br/>un loco que un esqueleto.</p>
+      <p xml:id="p181" begin="00:12:43.240" end="00:12:45.880" region="topCenter">-Venga ya.<br/>-¿Quién era el payo este del bigote?</p>
+      <p xml:id="p182" begin="00:12:47.280" end="00:12:50.840" region="topCenter">-Dalí, hijo, un pintor español.<br/>Era muy bueno.</p>
+      <p xml:id="p183" begin="00:12:51.160" end="00:12:52.720" region="topCenter">-Un pintor.<br/>-Sí.</p>
+      <p xml:id="p184" begin="00:12:52.920" end="00:12:55.520" region="topCenter">-Un pintor de pintar.<br/>-Sí.</p>
+      <p xml:id="p185" begin="00:12:55.600" end="00:12:56.640" region="topCenter">-(RESOPLA)</p>
+      <p xml:id="p186" begin="00:12:56.720" end="00:13:00.080" region="topCenter">¿Tú sabes lo que da miedo de<br/>cojones? Los muñecos de los críos.</p>
+      <p xml:id="p187" begin="00:13:00.160" end="00:13:01.520" region="bottomCenter">Eso sí que da miedo.</p>
+      <p xml:id="p188" begin="00:13:02.560" end="00:13:03.720" region="bottomCenter">-¿Qué muñecos?</p>
+      <p xml:id="p189" begin="00:13:03.800" end="00:13:05.920" region="bottomCenter">-El Goofy, el Pluto,<br/>el Mickey Mouse, todos estos.</p>
+      <p xml:id="p190" begin="00:13:06.000" end="00:13:08.280" region="bottomCenter">-¿Un ratón con orejas da más miedo,<br/>eso me dices?</p>
+      <p xml:id="p191" begin="00:13:08.360" end="00:13:10.640" region="bottomCenter">-Pues sí, gilipollas.<br/>¿Quieres que te dé un guantazo?</p>
+      <p xml:id="p192" begin="00:13:10.720" end="00:13:12.520" region="bottomCenter">-¡Eh!<br/>-Que tengo razón. Vamos a ver.</p>
+      <p xml:id="p193" begin="00:13:12.760" end="00:13:15.800" region="bottomCenter">Si un payo a punta de pistola<br/>entra con una careta de Mickey Mouse</p>
+      <p xml:id="p194" begin="00:13:15.880" end="00:13:18.480" region="bottomCenter">a cualquier lado,<br/>le peña pensará que está colgado,</p>
+      <p xml:id="p195" begin="00:13:18.560" end="00:13:20.400" region="bottomCenter">que liará una carnicería.<br/>¿Sabes por qué?</p>
+      <p xml:id="p196" begin="00:13:20.480" end="00:13:22.560" region="bottomCenter">Porque las armas y los niños</p>
+      <p xml:id="p197" begin="00:13:22.920" end="00:13:24.800" region="bottomCenter">son una cosa<br/>que no se juntan nunca, papa.</p>
+      <p xml:id="p198" begin="00:13:24.880" end="00:13:27.720" region="bottomCenter">¿Sí o no?<br/>-Visto así, sería más peligroso,</p>
+      <p xml:id="p199" begin="00:13:28.880" end="00:13:29.920" region="bottomCenter">más retorcido.</p>
+      <p xml:id="p200" begin="00:13:30.000" end="00:13:33.120" region="bottomCenter">-Entonces una careta de Jesucristo<br/>acojonaría más, es más inocente.</p>
+      <p xml:id="p201" begin="00:13:33.200" end="00:13:35.920" region="bottomCenter">-Por eso dice que pega menos<br/>que a un Cristo dos pistolas.</p>
+      <p xml:id="p202" begin="00:13:36.000" end="00:13:38.160" region="bottomCenter">-Como a un santo dos pistolas.<br/>(MOSCÚ) ¿Qué más da?</p>
+      <p xml:id="p203" begin="00:13:38.240" end="00:13:40.520" region="bottomCenter">"Era evidente<br/>que en la banda faltaban mujeres".</p>
+      <p xml:id="p204" begin="00:13:40.600" end="00:13:41.440" region="topCenter">(Frenazo)</p>
+      <p xml:id="p205" begin="00:13:41.520" end="00:13:44.720" region="bottomCenter">"Una mujer puede tirarse dos días<br/>eligiendo zapatos para una boda,</p>
+      <p xml:id="p206" begin="00:13:44.800" end="00:13:48.480" region="bottomCenter">pero jamás emplearía un minuto<br/>en elegir caretas para un atraco.</p>
+      <p xml:id="p207" begin="00:14:07.480" end="00:14:10.600" region="bottomCenter">Todo lo que habíamos planeado<br/>empezaba ahora</p>
+      <p xml:id="p208" begin="00:14:10.680" end="00:14:14.120" region="bottomCenter">y en esas décimas de segundo<br/>pensé en toda la gente inocente</p>
+      <p xml:id="p209" begin="00:14:14.200" end="00:14:16.480" region="bottomCenter">a la que detendríamos en seco<br/>su vida.</p>
+      <p xml:id="p210" begin="00:14:26.960" end="00:14:29.480" region="topCenter">El Profesor sabía<br/>que solo había una manera de entrar</p>
+      <p xml:id="p211" begin="00:14:29.560" end="00:14:32.000" region="topCenter">en la Fábrica de Moneda y Timbre<br/>con tres toneladas</p>
+      <p xml:id="p212" begin="00:14:32.080" end="00:14:34.800" region="bottomCenter">de artefactos de arsenal.<br/>Iba a hacerlo dentro del camión</p>
+      <p xml:id="p213" begin="00:14:34.880" end="00:14:36.520" region="bottomCenter">que entraba cada semana<br/>en el edificio</p>
+      <p xml:id="p214" begin="00:14:36.600" end="00:14:39.720" region="bottomCenter">con las nuevas bobinas de papel<br/>moneda listas para imprimir.</p>
+      <p xml:id="p215" begin="00:14:41.640" end="00:14:43.320" region="bottomCenter">Y eso era lo que íbamos a hacer,</p>
+      <p xml:id="p216" begin="00:14:43.400" end="00:14:47.040" region="bottomCenter">entrar hasta la cocina y escoltados<br/>por la mismísima Policía Nacional.</p>
+      <p xml:id="p217" begin="00:14:53.880" end="00:14:57.080" region="topCenter">En España, cualquier cosa<br/>custodiada por dos zetas</p>
+      <p xml:id="p218" begin="00:14:57.160" end="00:14:59.320" region="bottomCenter">es algo fuertemente protegido".</p>
+      <p xml:id="p219" begin="00:14:59.400" end="00:15:01.120" region="topCenter">(Sirenas)</p>
+      <p xml:id="p220" begin="00:15:02.040" end="00:15:03.960" region="bottomCenter">"Pero si inhibes<br/>cualquier posibilidad</p>
+      <p xml:id="p221" begin="00:15:04.040" end="00:15:06.240" region="bottomCenter">de que se comuniquen<br/>por radio o telefonía</p>
+      <p xml:id="p222" begin="00:15:06.320" end="00:15:08.400" region="bottomCenter">y si apuntas<br/>a unos chavales de 26 años</p>
+      <p xml:id="p223" begin="00:15:08.480" end="00:15:10.440" region="bottomCenter">con cinco fusiles de asalto<br/>a la cabeza,</p>
+      <p xml:id="p224" begin="00:15:10.520" end="00:15:11.800" region="bottomCenter">por más armados que vayan,</p>
+      <p xml:id="p225" begin="00:15:11.880" end="00:15:14.920" region="bottomCenter">les ocurre lo mismo que nos pasaría<br/>a cualquiera de nosotros".</p>
+      <p xml:id="p226" begin="00:15:15.000" end="00:15:17.680" region="bottomCenter">¡He dicho que bajes, coño,<br/>del puto coche!</p>
+      <p xml:id="p227" begin="00:15:17.760" end="00:15:20.400" region="bottomCenter">"Que se cagan de miedo".<br/>¡Vas a hacer lo que te digo!</p>
+      <p xml:id="p228" begin="00:15:20.480" end="00:15:22.560" region="bottomCenter">"El valor y el heroísmo<br/>tienen un precio</p>
+      <p xml:id="p229" begin="00:15:22.640" end="00:15:24.600" region="bottomCenter">y es mayor<br/>que los 1.600 euros al mes</p>
+      <p xml:id="p230" begin="00:15:24.680" end="00:15:27.840" region="bottomCenter">que cobra un chaval con uniforme..."<br/>Abre la puerta del camión, ¿me oyes?</p>
+      <p xml:id="p231" begin="00:15:27.920" end="00:15:29.520" region="bottomCenter">"...o un camionero".</p>
+      <p xml:id="p232" begin="00:15:29.720" end="00:15:31.400" region="bottomCenter">¡Venga, coño, abre!</p>
+      <p xml:id="p233" begin="00:15:34.560" end="00:15:36.480" region="bottomCenter">"Si esos hombres<br/>hubieran tenido a su hija</p>
+      <p xml:id="p234" begin="00:15:36.560" end="00:15:38.920" region="bottomCenter">en la trasera del camión,<br/>nunca hubieran abierto,</p>
+      <p xml:id="p235" begin="00:15:39.000" end="00:15:40.040" region="bottomCenter">pero ¿a quién le importan</p>
+      <p xml:id="p236" begin="00:15:40.120" end="00:15:42.240" region="bottomCenter">unas bobinas de papel moneda<br/>con marca de agua?".</p>
+      <p xml:id="p237" begin="00:15:45.480" end="00:15:47.440" region="bottomCenter">¡Deprisa, deprisa!</p>
+      <p xml:id="p238" begin="00:15:48.000" end="00:15:50.080" region="bottomCenter">¡Joder, macho! ¡Venga!</p>
+      <p xml:id="p239" begin="00:15:52.760" end="00:15:54.160" region="bottomCenter">(NAIROBI) ¡Tira, tira, tira!</p>
+      <p xml:id="p240" begin="00:15:54.240" end="00:15:56.640" region="bottomCenter">Ahí sentado.<br/>Y ahora tranquilitos los tres;</p>
+      <p xml:id="p241" begin="00:15:56.720" end="00:15:58.680" region="bottomCenter">si no, culatazo en la cabeza.</p>
+      <p xml:id="p242" begin="00:16:00.640" end="00:16:03.280" region="bottomCenter">(BERLÍN) Conduciréis<br/>con una pistola en los riñones.</p>
+      <p xml:id="p243" begin="00:16:03.360" end="00:16:05.880" region="bottomCenter">Cuando llamen por radio<br/>para saber qué tal va todo,</p>
+      <p xml:id="p244" begin="00:16:05.960" end="00:16:09.000" region="bottomCenter">contestareis con tranquilidad,<br/>como si todo fuera sobre ruedas.</p>
+      <p xml:id="p245" begin="00:16:09.880" end="00:16:10.880" region="bottomCenter">¿Está claro?</p>
+      <p xml:id="p246" begin="00:16:15.120" end="00:16:17.160" region="bottomCenter">"Y en mitad<br/>de aquel caos con pistolas</p>
+      <p xml:id="p247" begin="00:16:17.240" end="00:16:20.080" region="bottomCenter">recordé que la noche anterior<br/>me habían pedido matrimonio</p>
+      <p xml:id="p248" begin="00:16:20.160" end="00:16:22.840" region="bottomCenter">y que hubiera preferido<br/>otros planes.</p>
+      <p xml:id="p249" begin="00:16:22.920" end="00:16:24.080" region="bottomCenter">Pero si lo piensas,</p>
+      <p xml:id="p250" begin="00:16:24.160" end="00:16:26.720" region="bottomCenter">nunca encuentras un buen día<br/>para un atraco".</p>
+      <p xml:id="p251" begin="00:16:27.920" end="00:16:29.920" region="bottomCenter">Ahora ya sabes<br/>lo que tienes que hacer.</p>
+      <p xml:id="p252" begin="00:16:30.760" end="00:16:32.200" region="bottomCenter">No le quites ojo a la niña.</p>
+      <p xml:id="p253" begin="00:16:32.640" end="00:16:34.920" region="bottomCenter">No puede haber errores, ¿estamos?</p>
+      <p xml:id="p254" begin="00:16:35.000" end="00:16:36.560" region="bottomCenter">Tiene 17 años.</p>
+      <p xml:id="p255" begin="00:16:37.880" end="00:16:39.440" region="bottomCenter">Creo que podré con ella.</p>
+      <p xml:id="p256" begin="00:16:45.040" end="00:16:47.840" region="topCenter">(Voces a lo lejos)</p>
+      <p xml:id="p257" begin="00:16:51.280" end="00:16:52.840" region="topCenter">(Risas)</p>
+      <p xml:id="p258" begin="00:17:09.920" end="00:17:11.280" region="topCenter">(Mensaje de móvil)</p>
+      <p xml:id="p259" begin="00:17:39.240" end="00:17:40.360" region="bottomCenter">Hola.</p>
+      <p xml:id="p260" begin="00:17:43.040" end="00:17:44.040" region="bottomCenter">-Hola.</p>
+      <p xml:id="p261" begin="00:17:49.280" end="00:17:50.760" region="bottomCenter">-¿Quieres salir conmigo?</p>
+      <p xml:id="p262" begin="00:17:55.920" end="00:17:57.280" region="bottomCenter">Vale. Te dejo.</p>
+      <p xml:id="p263" begin="00:17:57.920" end="00:17:59.200" region="bottomCenter">-No, no, no.</p>
+      <p xml:id="p264" begin="00:18:01.120" end="00:18:06.160" region="bottomCenter">Que no me lo tengo que pensar.<br/>O sea, que sí.</p>
+      <p xml:id="p265" begin="00:18:36.560" end="00:18:38.760" region="bottomCenter">(MUJER) Bueno, chicos,<br/>ya hemos llegado.</p>
+      <p xml:id="p266" begin="00:18:38.840" end="00:18:41.760" region="bottomCenter">Vamos a ir directamente<br/>al vestíbulo del museo, donde...</p>
+      <p xml:id="p267" begin="00:18:41.840" end="00:18:43.840" region="bottomCenter">Pedro, haz el favor,<br/>no hagas como en clase.</p>
+      <p xml:id="p268" begin="00:18:43.920" end="00:18:46.800" region="bottomCenter">Vamos a salir ordenadamente<br/>por las dos puertas...</p>
+      <p xml:id="p269" begin="00:18:55.560" end="00:18:58.880" region="bottomCenter">Y esta es la fachada<br/>de la Fábrica de la Moneda y Timbre.</p>
+      <p xml:id="p270" begin="00:19:05.880" end="00:19:07.480" region="bottomCenter">El corderito está entrando.</p>
+      <p xml:id="p271" begin="00:19:09.800" end="00:19:11.120" region="bottomCenter">Perfecto.</p>
+      <p xml:id="p272" begin="00:19:12.440" end="00:19:13.800" region="bottomCenter">Berlín, tu turno.</p>
+      <p xml:id="p273" begin="00:19:14.880" end="00:19:17.880" region="topCenter">(Sirena)</p>
+      <p xml:id="p274" begin="00:19:19.960" end="00:19:22.440" region="bottomCenter">(BERLÍN) Y ahora,<br/>mucho cuidadito con lo que haces.</p>
+      <p xml:id="p275" begin="00:19:24.960" end="00:19:27.000" region="bottomCenter">-¿Qué tal, Javi?<br/>¿Dónde está Rafita?</p>
+      <p xml:id="p276" begin="00:19:27.560" end="00:19:31.000" region="bottomCenter">-Cambio de turno.<br/>(TOSE)</p>
+      <p xml:id="p277" begin="00:19:31.800" end="00:19:33.320" region="bottomCenter">(ESTORNUDA)</p>
+      <p xml:id="p278" begin="00:19:36.720" end="00:19:39.360" region="bottomCenter">-Eso está muy bien. Tranquilo.</p>
+      <p xml:id="p279" begin="00:19:41.560" end="00:19:43.840" region="bottomCenter">(PROFESORA)<br/>Vale, chicos, vamos entrando.</p>
+      <p xml:id="p280" begin="00:19:44.040" end="00:19:45.120" region="bottomCenter">Despacito.</p>
+      <p xml:id="p281" begin="00:19:45.200" end="00:19:48.760" region="bottomCenter">(HABLA SIN QUE APENAS SE OIGA)</p>
+      <p xml:id="p282" begin="00:19:49.720" end="00:19:52.560" region="bottomCenter">Esto es importante. En cuanto<br/>nos den las acreditaciones...</p>
+      <p xml:id="p283" begin="00:19:54.600" end="00:19:56.640" region="bottomCenter">Las acreditaciones<br/>colgadas del cuello.</p>
+      <p xml:id="p284" begin="00:19:56.720" end="00:19:59.560" region="bottomCenter">Tienen que estar visibles<br/>durante toda la visita, ¿vale?</p>
+      <p xml:id="p285" begin="00:20:12.960" end="00:20:14.440" region="bottomCenter">No te vuelvas.</p>
+      <p xml:id="p286" begin="00:20:15.480" end="00:20:18.200" region="bottomCenter">Cuando estás cerca,<br/>a mí me cuesta hasta respirar.</p>
+      <p xml:id="p287" begin="00:20:18.520" end="00:20:20.000" region="bottomCenter">Pues respira,</p>
+      <p xml:id="p288" begin="00:20:20.360" end="00:20:23.320" region="bottomCenter">porque dentro de nueve meses sí que<br/>se te va a cortar la respiración.</p>
+      <p xml:id="p289" begin="00:20:31.040" end="00:20:32.320" region="bottomCenter">Adelante.</p>
+      <p xml:id="p290" begin="00:20:37.240" end="00:20:40.160" region="bottomCenter">(PROFESORA) Bien visible<br/>durante toda la visita, chicos.</p>
+      <p xml:id="p291" begin="00:20:40.240" end="00:20:44.000" region="bottomCenter">Acreditación colgada al cuello.<br/>Bajad la voz.</p>
+      <p xml:id="p292" begin="00:20:50.720" end="00:20:53.280" region="bottomCenter">Berlín,<br/>la primera cámara, a tu izquierda.</p>
+      <p xml:id="p293" begin="00:21:19.600" end="00:21:21.040" region="bottomCenter">¿No me vas a decir nada? ¿Te digo</p>
+      <p xml:id="p294" begin="00:21:21.120" end="00:21:23.240" region="bottomCenter">que estoy embarazada<br/>y te quedas tan tranquilo?</p>
+      <p xml:id="p295" begin="00:21:23.320" end="00:21:25.800" region="bottomCenter">¿Qué hago, llamo a mi mujer,<br/>le digo que recoja a los niños</p>
+      <p xml:id="p296" begin="00:21:25.880" end="00:21:28.000" region="bottomCenter">y nos vamos todos a celebrarlo?<br/>Por amor de Dios.</p>
+      <p xml:id="p297" begin="00:21:29.600" end="00:21:32.480" region="bottomCenter">(POLICÍA) Tira, tira. Dale, dale.</p>
+      <p xml:id="p298" begin="00:21:38.360" end="00:21:39.800" region="bottomCenter">(RÍO) Entrando.</p>
+      <p xml:id="p299" begin="00:21:40.920" end="00:21:42.360" region="bottomCenter">Atenta, Tokio.</p>
+      <p xml:id="p300" begin="00:21:50.880" end="00:21:51.840" region="bottomCenter">¡Bien!</p>
+      <p xml:id="p301" begin="00:21:52.120" end="00:21:54.240" region="bottomCenter">"Alarmas desconectadas".<br/>Ahora.</p>
+      <p xml:id="p302" begin="00:21:58.680" end="00:22:00.360" region="bottomCenter">Sigue, dale, dale.</p>
+      <p xml:id="p303" begin="00:22:01.440" end="00:22:03.480" region="bottomCenter">Eras tú ayer<br/>el que decías que estabais mal,</p>
+      <p xml:id="p304" begin="00:22:03.560" end="00:22:05.600" region="bottomCenter">que no la aguantas,<br/>que tenéis problemas.</p>
+      <p xml:id="p305" begin="00:22:05.680" end="00:22:07.560" region="bottomCenter">Problemas como cualquier pareja,<br/>Mónica,</p>
+      <p xml:id="p306" begin="00:22:07.640" end="00:22:09.760" region="bottomCenter">como cualquier matrimonio<br/>que tiene tres hijos,</p>
+      <p xml:id="p307" begin="00:22:09.840" end="00:22:10.960" region="bottomCenter">no que me fuera a separar.</p>
+      <p xml:id="p308" begin="00:22:20.920" end="00:22:25.120" region="bottomCenter">Mónica, he tenido tres hijos,<br/>los tres por fecundación in vitro,</p>
+      <p xml:id="p309" begin="00:22:25.200" end="00:22:28.040" region="bottomCenter">llevo más de 20 años manteniendo<br/>relaciones estériles con mi mujer</p>
+      <p xml:id="p310" begin="00:22:28.120" end="00:22:29.480" region="bottomCenter">y ahora vienes a contarme esto.</p>
+      <p xml:id="p311" begin="00:22:30.720" end="00:22:33.680" region="bottomCenter">Tú debes de ser Shiva,<br/>la diosa de la fertilidad.</p>
+      <p xml:id="p312" begin="00:22:51.880" end="00:22:53.320" region="bottomCenter">"¿Qué estás insinuando?".</p>
+      <p xml:id="p313" begin="00:22:53.400" end="00:22:55.800" region="bottomCenter">Yo no he venido aquí<br/>a por una pensión, ¿sabes?</p>
+      <p xml:id="p314" begin="00:22:57.040" end="00:22:58.440" region="bottomCenter">Ni a por un divorcio,</p>
+      <p xml:id="p315" begin="00:22:59.240" end="00:23:01.840" region="bottomCenter">y mucho menos<br/>a por una prueba de paternidad.</p>
+      <p xml:id="p316" begin="00:23:09.760" end="00:23:11.160" region="bottomCenter">Creía que tú me querías.</p>
+      <p xml:id="p317" begin="00:23:12.240" end="00:23:13.240" region="bottomCenter">Y...</p>
+      <p xml:id="p318" begin="00:23:14.520" end="00:23:16.320" region="bottomCenter">Y me parece una idea bonita.</p>
+      <p xml:id="p319" begin="00:23:20.480" end="00:23:22.960" region="bottomCenter">Difícil de encajar<br/>en nuestras vidas, pero...</p>
+      <p xml:id="p320" begin="00:23:24.240" end="00:23:25.800" region="bottomCenter">Pero una idea maravillosa.</p>
+      <p xml:id="p321" begin="00:23:44.280" end="00:23:45.160" region="bottomCenter">¡Escucha!</p>
+      <p xml:id="p322" begin="00:23:45.880" end="00:23:48.440" region="bottomCenter">¿Qué, quieres saber<br/>qué voy a hacer con tu niño?</p>
+      <p xml:id="p323" begin="00:23:49.080" end="00:23:51.720" region="bottomCenter">Eso es lo que quieres, ¿no?<br/>Escúchame, no te precipites.</p>
+      <p xml:id="p324" begin="00:23:52.720" end="00:23:54.920" region="bottomCenter">(GRITA)</p>
+      <p xml:id="p325" begin="00:23:55.000" end="00:23:56.000" region="bottomCenter">¡Quietos!</p>
+      <p xml:id="p326" begin="00:23:59.080" end="00:24:00.400" region="bottomCenter">(BERLÍN) Quieto.</p>
+      <p xml:id="p327" begin="00:24:05.360" end="00:24:07.920" region="bottomCenter">¡Quieto!<br/>¡No te muevas o te reviento!</p>
+      <p xml:id="p328" begin="00:24:08.000" end="00:24:10.640" region="bottomCenter">¿Qué pasa? ¡Haz algo!<br/>-¡Arriba, arriba!</p>
+      <p xml:id="p329" begin="00:24:11.480" end="00:24:12.760" region="bottomCenter">-¡Salgan!</p>
+      <p xml:id="p330" begin="00:24:14.280" end="00:24:15.720" region="bottomCenter">(GRITAN)</p>
+      <p xml:id="p331" begin="00:24:15.800" end="00:24:17.600" region="topCenter">(Gritos)</p>
+      <p xml:id="p332" begin="00:24:17.960" end="00:24:19.800" region="bottomCenter">"¡Vamos, vamos!".</p>
+      <p xml:id="p333" begin="00:24:20.680" end="00:24:22.160" region="bottomCenter">¡Rápido! ¡Quietos!</p>
+      <p xml:id="p334" begin="00:24:23.160" end="00:24:24.760" region="bottomCenter">¡Vamos, vamos!</p>
+      <p xml:id="p335" begin="00:24:24.840" end="00:24:26.160" region="bottomCenter">¡Vamos!</p>
+      <p xml:id="p336" begin="00:24:26.400" end="00:24:27.440" region="bottomCenter">¡Sí, sí!</p>
+      <p xml:id="p337" begin="00:24:34.000" end="00:24:34.920" region="bottomCenter">Mierda.</p>
+      <p xml:id="p338" begin="00:24:40.920" end="00:24:42.280" region="bottomCenter">Vamos, vamos.</p>
+      <p xml:id="p339" begin="00:24:42.960" end="00:24:44.520" region="bottomCenter">Por aquí. Vamos.</p>
+      <p xml:id="p340" begin="00:24:49.240" end="00:24:53.240" region="bottomCenter">Y esta escalera maravillosa,<br/>de mármol y granito...</p>
+      <p xml:id="p341" begin="00:24:53.320" end="00:24:55.040" region="bottomCenter">-¡Quietos!</p>
+      <p xml:id="p342" begin="00:24:55.120" end="00:24:56.560" region="bottomCenter">(GRITAN)</p>
+      <p xml:id="p343" begin="00:24:57.720" end="00:24:59.040" region="bottomCenter">¡Quietos!</p>
+      <p xml:id="p344" begin="00:24:59.120" end="00:25:00.360" region="bottomCenter">(GRITAN)</p>
+      <p xml:id="p345" begin="00:25:05.520" end="00:25:06.800" region="bottomCenter">¡Quietos, quietos! ¡Vamos!</p>
+      <p xml:id="p346" begin="00:25:06.880" end="00:25:08.440" region="bottomCenter">¡Atrás!</p>
+      <p xml:id="p347" begin="00:25:09.080" end="00:25:11.680" region="bottomCenter">-¡Por favor, no!<br/>Profesor, tenemos un problema.</p>
+      <p xml:id="p348" begin="00:25:11.760" end="00:25:13.800" region="bottomCenter">¡Ah!<br/>No veo al corderito.</p>
+      <p xml:id="p349" begin="00:25:13.880" end="00:25:15.760" region="bottomCenter">¡No lo veo, coño!</p>
+      <p xml:id="p350" begin="00:25:15.960" end="00:25:20.480" region="bottomCenter">Señorita Parker,<br/>¿adónde se ha metido?</p>
+      <p xml:id="p351" begin="00:25:29.360" end="00:25:30.960" region="topCenter">(Gritos)</p>
+      <p xml:id="p352" begin="00:25:40.320" end="00:25:41.520" region="bottomCenter">Espera.</p>
+      <p xml:id="p353" begin="00:25:46.480" end="00:25:49.760" region="bottomCenter">¡Por favor!<br/>-¡Vámonos! ¡Para allá!</p>
+      <p xml:id="p354" begin="00:25:58.280" end="00:26:00.440" region="bottomCenter">Para, para. Para.</p>
+      <p xml:id="p355" begin="00:26:01.000" end="00:26:02.120" region="bottomCenter">-Vale.</p>
+      <p xml:id="p356" begin="00:26:04.080" end="00:26:05.280" region="bottomCenter">Vale, vale.</p>
+      <p xml:id="p357" begin="00:26:05.360" end="00:26:07.440" region="bottomCenter">Estoy yendo muy deprisa. Lo sé.</p>
+      <p xml:id="p358" begin="00:26:07.520" end="00:26:11.160" region="topCenter">(Voces y sollozos)</p>
+      <p xml:id="p359" begin="00:26:12.200" end="00:26:14.320" region="bottomCenter">Vamos a inmortalizar esto, ¿no?</p>
+      <p xml:id="p360" begin="00:26:20.120" end="00:26:21.920" region="bottomCenter">Vamos a hacer<br/>una foto con tu móvil.</p>
+      <p xml:id="p361" begin="00:26:23.000" end="00:26:24.120" region="bottomCenter">Joder...</p>
+      <p xml:id="p362" begin="00:26:25.920" end="00:26:28.360" region="bottomCenter">¿Aquí? Es un poco cutre, ¿no?</p>
+      <p xml:id="p363" begin="00:26:28.520" end="00:26:30.280" region="bottomCenter">-Es nuestro primer día.</p>
+      <p xml:id="p364" begin="00:26:37.760" end="00:26:39.160" region="bottomCenter">Estás muy guapa.</p>
+      <p xml:id="p365" begin="00:26:40.880" end="00:26:43.480" region="bottomCenter">No veo a la niña. No la veo, joder.</p>
+      <p xml:id="p366" begin="00:26:43.560" end="00:26:45.440" region="bottomCenter">Ábrete.<br/>Ábrete y ponte un poco sexi.</p>
+      <p xml:id="p367" begin="00:26:51.760" end="00:26:54.000" region="bottomCenter">Que es tu móvil.<br/>Que si quieres, la borras.</p>
+      <p xml:id="p368" begin="00:26:54.080" end="00:26:56.200" region="bottomCenter">Que esto es para nosotros,<br/>para ti y para mí.</p>
+      <p xml:id="p369" begin="00:26:58.800" end="00:27:00.400" region="bottomCenter">Va, va, va.</p>
+      <p xml:id="p370" begin="00:27:16.200" end="00:27:18.720" region="bottomCenter">Con esta foto<br/>lo vas a petar en Internet.</p>
+      <p xml:id="p371" begin="00:27:18.800" end="00:27:21.400" region="bottomCenter">-¡Dame el móvil!<br/>¡Que me des el móvil!</p>
+      <p xml:id="p372" begin="00:27:22.160" end="00:27:23.480" region="bottomCenter">¡Dame el móvil!</p>
+      <p xml:id="p373" begin="00:27:23.560" end="00:27:24.600" region="bottomCenter">¡Dámelo!</p>
+      <p xml:id="p374" begin="00:27:24.680" end="00:27:27.680" region="bottomCenter">¡Que me des el móvil, joder!<br/>¡Que me des el móvil!</p>
+      <p xml:id="p375" begin="00:27:27.760" end="00:27:29.400" region="bottomCenter">¡Dame el móvil!</p>
+      <p xml:id="p376" begin="00:27:29.480" end="00:27:30.960" region="bottomCenter">¡Que me des el móvil!</p>
+      <p xml:id="p377" begin="00:27:31.720" end="00:27:32.880" region="bottomCenter">¡Ah!</p>
+      <p xml:id="p378" begin="00:28:06.360" end="00:28:07.760" region="topCenter">(Llantos)</p>
+      <p xml:id="p379" begin="00:28:15.520" end="00:28:17.040" region="bottomCenter">Lo primero...</p>
+      <p xml:id="p380" begin="00:28:19.640" end="00:28:21.080" region="bottomCenter">Buenos días.</p>
+      <p xml:id="p381" begin="00:28:26.680" end="00:28:28.640" region="bottomCenter">Soy la persona que está al mando.</p>
+      <p xml:id="p382" begin="00:28:32.200" end="00:28:34.320" region="bottomCenter">Y, antes de nada, quiero...</p>
+      <p xml:id="p383" begin="00:28:35.160" end="00:28:37.720" region="bottomCenter">presentarles mis disculpas.</p>
+      <p xml:id="p384" begin="00:28:40.680" end="00:28:42.880" region="bottomCenter">Realmente,<br/>no son formas de terminar la semana.</p>
+      <p xml:id="p385" begin="00:28:42.960" end="00:28:44.160" region="bottomCenter">(DENVER) Móvil.</p>
+      <p xml:id="p386" begin="00:28:44.240" end="00:28:46.760" region="bottomCenter">-Pero ustedes están aquí<br/>en calidad de rehenes.</p>
+      <p xml:id="p387" begin="00:28:50.200" end="00:28:51.200" region="bottomCenter">(DENVER) Móvil.</p>
+      <p xml:id="p388" begin="00:28:51.280" end="00:28:53.720" region="bottomCenter">-Si obedecen,<br/>les garantizo que saldrán con vida.</p>
+      <p xml:id="p389" begin="00:28:53.800" end="00:28:55.800" region="bottomCenter">(DENVER) Nombre.<br/>-Alison Parker.</p>
+      <p xml:id="p390" begin="00:28:56.440" end="00:28:58.440" region="bottomCenter">(DENVER) PIN.<br/>(ALISON) 2078.</p>
+      <p xml:id="p391" begin="00:29:01.400" end="00:29:02.600" region="bottomCenter">-Móvil.</p>
+      <p xml:id="p392" begin="00:29:05.680" end="00:29:07.160" region="bottomCenter">-Tranquila, tranquila.</p>
+      <p xml:id="p393" begin="00:29:07.680" end="00:29:09.280" region="bottomCenter">Tranquila.</p>
+      <p xml:id="p394" begin="00:29:09.360" end="00:29:10.520" region="bottomCenter">-PIN.</p>
+      <p xml:id="p395" begin="00:29:10.600" end="00:29:12.520" region="bottomCenter">¿Para qué necesita el PIN?</p>
+      <p xml:id="p396" begin="00:29:13.840" end="00:29:16.760" region="bottomCenter">O me das el puñetero PIN<br/>o te lo saco a culatazos. Tú verás.</p>
+      <p xml:id="p397" begin="00:29:17.760" end="00:29:19.000" region="bottomCenter">-¿De cuánto estás?</p>
+      <p xml:id="p398" begin="00:29:19.080" end="00:29:20.920" region="bottomCenter">-(ATERRADA) De ocho meses.</p>
+      <p xml:id="p399" begin="00:29:21.000" end="00:29:22.280" region="bottomCenter">-De ocho meses.</p>
+      <p xml:id="p400" begin="00:29:22.360" end="00:29:25.120" region="bottomCenter">-PIN.<br/>1234.</p>
+      <p xml:id="p401" begin="00:29:28.080" end="00:29:29.680" region="bottomCenter">Con toda<br/>la cara de listo que tienes</p>
+      <p xml:id="p402" begin="00:29:29.760" end="00:29:32.280" region="bottomCenter">y pones esa mierda de PIN.<br/>Menudo gilipollas. Tu nombre.</p>
+      <p xml:id="p403" begin="00:29:32.360" end="00:29:33.520" region="bottomCenter">Arturo.<br/>-¿Arturo qué?</p>
+      <p xml:id="p404" begin="00:29:33.600" end="00:29:36.320" region="bottomCenter">Arturo Román.<br/>-Arturo Román, muy bien. Arturito.</p>
+      <p xml:id="p405" begin="00:29:36.680" end="00:29:38.960" region="bottomCenter">(BERLÍN) Ustedes son<br/>nuestro salvoconducto aquí,</p>
+      <p xml:id="p406" begin="00:29:39.040" end="00:29:40.640" region="bottomCenter">así que yo les voy a proteger.</p>
+      <p xml:id="p407" begin="00:29:45.040" end="00:29:46.200" region="bottomCenter">-Eh...</p>
+      <p xml:id="p408" begin="00:29:48.960" end="00:29:51.040" region="bottomCenter">Dame las manos. Suelta.</p>
+      <p xml:id="p409" begin="00:29:51.120" end="00:29:53.680" region="bottomCenter">Suelta. Suelta.</p>
+      <p xml:id="p410" begin="00:29:57.120" end="00:29:58.520" region="bottomCenter">¿Cómo te llamas?</p>
+      <p xml:id="p411" begin="00:30:00.600" end="00:30:01.880" region="bottomCenter">-Ariadna.</p>
+      <p xml:id="p412" begin="00:30:03.640" end="00:30:05.000" region="bottomCenter">-Ariadna.</p>
+      <p xml:id="p413" begin="00:30:06.680" end="00:30:08.360" region="bottomCenter">Ven conmigo. Ven.</p>
+      <p xml:id="p414" begin="00:30:08.440" end="00:30:09.880" region="bottomCenter">Tranquila.</p>
+      <p xml:id="p415" begin="00:30:09.960" end="00:30:11.400" region="bottomCenter">Siente mis manos.</p>
+      <p xml:id="p416" begin="00:30:12.520" end="00:30:15.160" region="bottomCenter">¿Son las manos de un monstruo?<br/>-No, no.</p>
+      <p xml:id="p417" begin="00:30:15.240" end="00:30:16.920" region="bottomCenter">-Porque no soy un monstruo.</p>
+      <p xml:id="p418" begin="00:30:18.600" end="00:30:20.600" region="bottomCenter">Sé perfectamente cómo te sientes.</p>
+      <p xml:id="p419" begin="00:30:21.400" end="00:30:23.040" region="bottomCenter">La boca seca, sensación de ahogo...</p>
+      <p xml:id="p420" begin="00:30:23.120" end="00:30:25.840" region="bottomCenter">Tienes que intentar tranquilizarte.<br/>Inspira.</p>
+      <p xml:id="p421" begin="00:30:25.920" end="00:30:27.120" region="bottomCenter">Inspira.</p>
+      <p xml:id="p422" begin="00:30:28.440" end="00:30:29.560" region="bottomCenter">Inspira.</p>
+      <p xml:id="p423" begin="00:30:30.920" end="00:30:33.040" region="bottomCenter">Eso es.<br/>Por favor, respiren todos conmigo.</p>
+      <p xml:id="p424" begin="00:30:33.120" end="00:30:34.360" region="bottomCenter">Inspiren.</p>
+      <p xml:id="p425" begin="00:30:35.640" end="00:30:37.920" region="bottomCenter">Suave, suave.</p>
+      <p xml:id="p426" begin="00:30:39.040" end="00:30:42.200" region="bottomCenter">Hazte responsable<br/>de tu respiración. Espira.</p>
+      <p xml:id="p427" begin="00:30:43.160" end="00:30:45.960" region="bottomCenter">Eso es. Eso es.</p>
+      <p xml:id="p428" begin="00:30:47.880" end="00:30:49.280" region="topCenter">(Teléfono)</p>
+      <p xml:id="p429" begin="00:30:51.520" end="00:30:54.000" region="bottomCenter">¿La señorita Mónica Gaztambide,<br/>por favor?</p>
+      <p xml:id="p430" begin="00:30:54.080" end="00:30:56.160" region="bottomCenter">(SUSURRA) No te muevas.<br/>Por favor, no te muevas.</p>
+      <p xml:id="p431" begin="00:30:56.240" end="00:30:59.240" region="bottomCenter">Calla.<br/>Que no te muevas.</p>
+      <p xml:id="p432" begin="00:30:59.320" end="00:31:00.400" region="bottomCenter">Calla.</p>
+      <p xml:id="p433" begin="00:31:00.480" end="00:31:03.640" region="bottomCenter">La señorita Mónica Gaztambide,</p>
+      <p xml:id="p434" begin="00:31:03.720" end="00:31:05.760" region="bottomCenter">¿sería tan amable<br/>de dar un paso al frente?</p>
+      <p xml:id="p435" begin="00:31:08.840" end="00:31:09.880" region="bottomCenter">Soy yo.</p>
+      <p xml:id="p436" begin="00:31:22.520" end="00:31:24.440" region="topCenter">(Pieza de metal cayendo)</p>
+      <p xml:id="p437" begin="00:32:01.080" end="00:32:02.920" region="bottomCenter">(DENVER) Eres un crack, papa.</p>
+      <p xml:id="p438" begin="00:32:03.000" end="00:32:04.360" region="bottomCenter">Eres "mu" grande.</p>
+      <p xml:id="p439" begin="00:32:36.160" end="00:32:38.680" region="bottomCenter">(GRITA ENLOQUECIDO)</p>
+      <p xml:id="p440" begin="00:32:41.640" end="00:32:43.800" region="bottomCenter">Aquí se tiene que dormir muy bien,<br/>papa.</p>
+      <p xml:id="p441" begin="00:32:43.880" end="00:32:46.320" region="bottomCenter">Aquí se tiene que dormir de lujo.</p>
+      <p xml:id="p442" begin="00:32:46.400" end="00:32:48.280" region="bottomCenter">¡Oh! ¡Papa, papa, papa, papa!</p>
+      <p xml:id="p443" begin="00:32:48.880" end="00:32:51.600" region="bottomCenter">Follar. Aquí, pum.</p>
+      <p xml:id="p444" begin="00:32:51.680" end="00:32:52.920" region="bottomCenter">Pum, pum...</p>
+      <p xml:id="p445" begin="00:32:53.000" end="00:32:55.880" region="bottomCenter">-Venga, déjate de hacer el tonto<br/>y a trabajar. Venga, coño.</p>
+      <p xml:id="p446" begin="00:32:57.120" end="00:32:58.480" region="bottomCenter">-Esto huele de puta madre.</p>
+      <p xml:id="p447" begin="00:32:58.560" end="00:33:01.360" region="bottomCenter">Huele mejor que el cordero asado,<br/>papa, que el cordero asado.</p>
+      <p xml:id="p448" begin="00:33:01.440" end="00:33:03.440" region="bottomCenter">Túmbate aquí, cojones.<br/>-Venga, coño.</p>
+      <p xml:id="p449" begin="00:33:03.520" end="00:33:05.480" region="bottomCenter">-¿Cuándo has tenido tú<br/>una cama como esta?</p>
+      <p xml:id="p450" begin="00:33:05.560" end="00:33:06.720" region="bottomCenter">En el talego no la tenías.</p>
+      <p xml:id="p451" begin="00:33:06.800" end="00:33:09.560" region="bottomCenter">¿Has visto dónde estamos, papa?<br/>Que somos muy grandes.</p>
+      <p xml:id="p452" begin="00:33:09.640" end="00:33:10.960" region="bottomCenter">Que somos muy grandes.</p>
+      <p xml:id="p453" begin="00:33:11.040" end="00:33:12.440" region="bottomCenter">-Chaval, no te equivoques.</p>
+      <p xml:id="p454" begin="00:33:14.360" end="00:33:15.720" region="bottomCenter">Somos pequeños.</p>
+      <p xml:id="p455" begin="00:33:18.000" end="00:33:19.400" region="bottomCenter">¿Tú sabes hacer algo?</p>
+      <p xml:id="p456" begin="00:33:20.080" end="00:33:21.440" region="bottomCenter">¿Has trabajado alguna vez?</p>
+      <p xml:id="p457" begin="00:33:21.520" end="00:33:23.840" region="bottomCenter">¿Has presentado<br/>el currículum en algún sitio?</p>
+      <p xml:id="p458" begin="00:33:24.520" end="00:33:26.240" region="bottomCenter">Ah. Venga, coño.</p>
+      <p xml:id="p459" begin="00:33:29.680" end="00:33:31.000" region="bottomCenter">-El currículum.</p>
+      <p xml:id="p460" begin="00:33:32.640" end="00:33:34.240" region="bottomCenter">¿El currículum para qué?</p>
+      <p xml:id="p461" begin="00:33:35.200" end="00:33:37.200" region="bottomCenter">¿Para sacarte a ti de Alcalá Meco?</p>
+      <p xml:id="p462" begin="00:33:47.960" end="00:33:49.880" region="bottomCenter">-¿Crees que me siento<br/>orgulloso de eso?</p>
+      <p xml:id="p463" begin="00:33:52.120" end="00:33:54.800" region="bottomCenter">12 años de mi vida<br/>entrando y saliendo de la cárcel.</p>
+      <p xml:id="p464" begin="00:33:55.400" end="00:33:56.760" region="bottomCenter">¿Y sabes por qué?</p>
+      <p xml:id="p465" begin="00:33:57.600" end="00:33:58.920" region="bottomCenter">-¿Por qué?</p>
+      <p xml:id="p466" begin="00:34:02.160" end="00:34:04.160" region="bottomCenter">-Porque no soy muy listo, hijo.</p>
+      <p xml:id="p467" begin="00:34:04.720" end="00:34:06.000" region="bottomCenter">Y tú tampoco.</p>
+      <p xml:id="p468" begin="00:34:07.280" end="00:34:10.680" region="bottomCenter">Pero en este golpe<br/>el cerebro lo pone otro.</p>
+      <p xml:id="p469" begin="00:34:11.440" end="00:34:13.840" region="bottomCenter">Y si tenemos suerte<br/>y no haces mucho el gilipollas,</p>
+      <p xml:id="p470" begin="00:34:13.920" end="00:34:15.560" region="bottomCenter">saldrás de aquí<br/>con la vida resuelta.</p>
+      <p xml:id="p471" begin="00:34:15.640" end="00:34:18.080" region="bottomCenter">-No voy a hacer el gilipollas.<br/>-Venga, coño.</p>
+      <p xml:id="p472" begin="00:34:19.120" end="00:34:20.240" region="bottomCenter">Llena esto.</p>
+      <p xml:id="p473" begin="00:34:22.080" end="00:34:23.160" region="topCenter">(Teléfono)</p>
+      <p xml:id="p474" begin="00:34:25.240" end="00:34:26.720" region="bottomCenter">Quiero que conteste al teléfono</p>
+      <p xml:id="p475" begin="00:34:26.800" end="00:34:28.880" region="bottomCenter">y convenza a quien sea<br/>de que estamos cerrados</p>
+      <p xml:id="p476" begin="00:34:28.960" end="00:34:30.720" region="bottomCenter">por un problema técnico. ¿Entendido?</p>
+      <p xml:id="p477" begin="00:34:30.800" end="00:34:31.920" region="bottomCenter">Sí.</p>
+      <p xml:id="p478" begin="00:34:35.320" end="00:34:38.240" region="bottomCenter">No me va a quedar más remedio<br/>que apuntarle con una pistola.</p>
+      <p xml:id="p479" begin="00:34:38.320" end="00:34:40.280" region="bottomCenter">¿La siente?<br/>Sí.</p>
+      <p xml:id="p480" begin="00:34:41.280" end="00:34:42.320" region="bottomCenter">Bien.</p>
+      <p xml:id="p481" begin="00:34:42.640" end="00:34:44.400" region="topCenter">(Teléfono)</p>
+      <p xml:id="p482" begin="00:34:44.480" end="00:34:45.640" region="bottomCenter">Ahora.</p>
+      <p xml:id="p483" begin="00:34:53.240" end="00:34:55.440" region="bottomCenter">Fábrica Nacional<br/>de Moneda y Timbre, dígame.</p>
+      <p xml:id="p484" begin="00:34:56.360" end="00:34:59.520" region="bottomCenter">No, lo siento, no le puedo pasar<br/>con don Arturo en este momento.</p>
+      <p xml:id="p485" begin="00:35:01.240" end="00:35:02.800" region="bottomCenter">Se ha caído el sistema.</p>
+      <p xml:id="p486" begin="00:35:03.560" end="00:35:05.200" region="bottomCenter">No, no puedo hacerle que suba.</p>
+      <p xml:id="p487" begin="00:35:05.880" end="00:35:08.040" region="bottomCenter">No, no puede subir<br/>a coger el teléfono, no.</p>
+      <p xml:id="p488" begin="00:35:09.880" end="00:35:11.240" region="bottomCenter">No, no va a poder ser.</p>
+      <p xml:id="p489" begin="00:35:11.600" end="00:35:12.600" region="bottomCenter">No, por...</p>
+      <p xml:id="p490" begin="00:35:14.800" end="00:35:17.880" region="bottomCenter">¡Pues porque no,<br/>porque no sé dónde está ahora mismo,</p>
+      <p xml:id="p491" begin="00:35:17.960" end="00:35:20.880" region="bottomCenter">porque no sé si está en la fábrica,<br/>en el museo, en la cafetería</p>
+      <p xml:id="p492" begin="00:35:20.960" end="00:35:23.440" region="bottomCenter">o donde esté! ¡Y, además,<br/>no es mi trabajo, señorita!</p>
+      <p xml:id="p493" begin="00:35:30.640" end="00:35:33.080" region="bottomCenter">Esa ha sido<br/>una interpretación de Oscar,</p>
+      <p xml:id="p494" begin="00:35:33.600" end="00:35:35.000" region="bottomCenter">señorita Gaztambide.</p>
+      <p xml:id="p495" begin="00:35:35.080" end="00:35:37.240" region="bottomCenter">(RESPIRA ENTRECORTADAMENTE)</p>
+      <p xml:id="p496" begin="00:35:49.120" end="00:35:51.880" region="bottomCenter">"A los 20 minutos de entrar,<br/>comenzamos a cablear el sistema</p>
+      <p xml:id="p497" begin="00:35:51.960" end="00:35:54.400" region="bottomCenter">de comunicación analógica<br/>para hablar con el Profesor".</p>
+      <p xml:id="p498" begin="00:35:54.680" end="00:35:56.920" region="bottomCenter">(CANTA EN SU IDIOMA)</p>
+      <p xml:id="p499" begin="00:35:57.000" end="00:36:01.120" region="bottomCenter">"Sin móviles, sin radiofrecuencia,<br/>sin que nadie pudiera oírnos.</p>
+      <p xml:id="p500" begin="00:36:01.200" end="00:36:05.080" region="bottomCenter">Habíamos sellado las puertas<br/>y las alarmas no habían saltado.</p>
+      <p xml:id="p501" begin="00:36:05.160" end="00:36:08.240" region="bottomCenter">Estábamos como en un limbo<br/>del tiempo, sin que nadie supiera</p>
+      <p xml:id="p502" begin="00:36:08.320" end="00:36:10.960" region="bottomCenter">que habíamos tomado<br/>la Fábrica de Moneda y Timbre.</p>
+      <p xml:id="p503" begin="00:36:12.320" end="00:36:14.280" region="bottomCenter">Y en esa dulce paz,<br/>antes de la tormenta,</p>
+      <p xml:id="p504" begin="00:36:14.360" end="00:36:18.960" region="bottomCenter">parecía, sencillamente,<br/>un día corriente".</p>
+      <p xml:id="p505" begin="00:36:32.840" end="00:36:34.440" region="bottomCenter">Estás guapo tú, ¿eh?</p>
+      <p xml:id="p506" begin="00:36:47.320" end="00:36:48.400" region="topCenter">(Puerta)</p>
+      <p xml:id="p507" begin="00:36:55.960" end="00:36:57.040" region="bottomCenter">¿Quién es?</p>
+      <p xml:id="p508" begin="00:36:57.120" end="00:36:58.760" region="bottomCenter">(RÍO) Soy yo, déjame pasar.</p>
+      <p xml:id="p509" begin="00:37:10.880" end="00:37:14.240" region="bottomCenter">Río, tío, nos pilla el Profesor<br/>y nos mata, ¿lo sabes?</p>
+      <p xml:id="p510" begin="00:37:14.320" end="00:37:17.040" region="bottomCenter">Lo sé, lo sé, lo sé.<br/>Tengo que hablar contigo. Siéntate.</p>
+      <p xml:id="p511" begin="00:37:17.120" end="00:37:18.840" region="bottomCenter">¿Qué pasa?<br/>Siéntate, coño.</p>
+      <p xml:id="p512" begin="00:37:18.920" end="00:37:20.240" region="bottomCenter">(RESOPLA)</p>
+      <p xml:id="p513" begin="00:37:20.320" end="00:37:21.440" region="bottomCenter">¿Qué pasa?</p>
+      <p xml:id="p514" begin="00:37:21.720" end="00:37:23.360" region="bottomCenter">Mañana es el atraco.</p>
+      <p xml:id="p515" begin="00:37:24.920" end="00:37:27.240" region="bottomCenter">Y no tenemos ni puta idea<br/>de lo que va a pasar.</p>
+      <p xml:id="p516" begin="00:37:30.040" end="00:37:33.200" region="bottomCenter">Por eso quiero que sepas<br/>que voy en serio contigo</p>
+      <p xml:id="p517" begin="00:37:33.280" end="00:37:35.640" region="bottomCenter">y entiendo perfectamente<br/>que, bueno,</p>
+      <p xml:id="p518" begin="00:37:35.720" end="00:37:37.840" region="bottomCenter">que tú ya tienes una edad y...</p>
+      <p xml:id="p519" begin="00:37:38.960" end="00:37:42.040" region="bottomCenter">y que puede que busques un...<br/>un compromiso más serio.</p>
+      <p xml:id="p520" begin="00:37:44.720" end="00:37:46.400" region="bottomCenter">Por eso quiero darte algo.</p>
+      <p xml:id="p521" begin="00:37:51.040" end="00:37:53.640" region="bottomCenter">No te he comprado un anillo<br/>porque estamos encerrados,</p>
+      <p xml:id="p522" begin="00:37:53.720" end="00:37:56.280" region="bottomCenter">pero, en cuanto salga,<br/>te voy a regalar un pedruscazo</p>
+      <p xml:id="p523" begin="00:37:56.360" end="00:37:59.360" region="bottomCenter">que vas a tener que llevar la mano<br/>en una puta carretilla.</p>
+      <p xml:id="p524" begin="00:38:00.400" end="00:38:01.720" region="bottomCenter">¿Qué es esto?</p>
+      <p xml:id="p525" begin="00:38:02.760" end="00:38:05.720" region="bottomCenter">¿Una chapa de pedida?</p>
+      <p xml:id="p526" begin="00:38:05.800" end="00:38:08.000" region="bottomCenter">Ahora por lo menos<br/>sabrás mi nombre de verdad.</p>
+      <p xml:id="p527" begin="00:38:09.120" end="00:38:11.680" region="bottomCenter">Ya, pero es que está prohibido<br/>saber nuestros nombres.</p>
+      <p xml:id="p528" begin="00:38:11.880" end="00:38:13.800" region="bottomCenter">Bueno, pues no lo mires.</p>
+      <p xml:id="p529" begin="00:38:14.960" end="00:38:16.040" region="bottomCenter">Pero es tuyo.</p>
+      <p xml:id="p530" begin="00:38:18.840" end="00:38:21.080" region="bottomCenter">A ver cómo te cuento esto.</p>
+      <p xml:id="p531" begin="00:38:23.760" end="00:38:27.600" region="bottomCenter">Lo nuestro ha estado muy bien,<br/>¿vale? Genial.</p>
+      <p xml:id="p532" begin="00:38:29.000" end="00:38:31.200" region="bottomCenter">Nos hemos enrollado<br/>algunas noches...</p>
+      <p xml:id="p533" begin="00:38:31.280" end="00:38:35.240" region="bottomCenter">¿Cómo que algunas? Joder, todas,<br/>todas. Menos cuatro o cinco...</p>
+      <p xml:id="p534" begin="00:38:36.520" end="00:38:40.720" region="bottomCenter">Sinceramente,<br/>no creo que seamos la pareja ideal.</p>
+      <p xml:id="p535" begin="00:38:41.160" end="00:38:44.560" region="bottomCenter">¿No follamos bien?<br/>Sí, sí follamos bien, fantástico.</p>
+      <p xml:id="p536" begin="00:38:44.640" end="00:38:45.960" region="bottomCenter">Por algo se empieza, ¿no?</p>
+      <p xml:id="p537" begin="00:38:46.040" end="00:38:48.080" region="bottomCenter">Pero hace falta<br/>algo más que follar bien</p>
+      <p xml:id="p538" begin="00:38:48.160" end="00:38:49.800" region="bottomCenter">para ser una pareja, ¿no?</p>
+      <p xml:id="p539" begin="00:38:51.600" end="00:38:53.800" region="bottomCenter">¿Lo dices porque soy<br/>12 años más joven que tú?</p>
+      <p xml:id="p540" begin="00:38:55.360" end="00:38:57.160" region="bottomCenter">Voy a tener<br/>300 millones de euros, ¿eh?</p>
+      <p xml:id="p541" begin="00:38:57.240" end="00:38:59.440" region="bottomCenter">No soy ningún chaval,<br/>tengo la vida resuelta.</p>
+      <p xml:id="p542" begin="00:38:59.520" end="00:39:02.320" region="bottomCenter">De verdad, Río, ojalá hubiéramos...<br/>Eh, ¿cómo que hubiéramos?</p>
+      <p xml:id="p543" begin="00:39:03.440" end="00:39:06.040" region="bottomCenter">Amor había.<br/>Amor había, que estaba yo ahí.</p>
+      <p xml:id="p544" begin="00:39:14.680" end="00:39:15.760" region="bottomCenter">Hay otro, ¿no?</p>
+      <p xml:id="p545" begin="00:39:19.080" end="00:39:20.240" region="bottomCenter">Ya no.</p>
+      <p xml:id="p546" begin="00:39:21.920" end="00:39:23.080" region="bottomCenter">Mira, Río,</p>
+      <p xml:id="p547" begin="00:39:24.440" end="00:39:27.960" region="bottomCenter">cuando todo esto termine,<br/>igual tú y yo nos vamos a Tahití</p>
+      <p xml:id="p548" begin="00:39:28.040" end="00:39:31.760" region="bottomCenter">y vemos si funciona, pero mañana<br/>yo solo quiero pensar en una cosa:</p>
+      <p xml:id="p549" begin="00:39:31.840" end="00:39:33.120" region="bottomCenter">que no me maten.</p>
+      <p xml:id="p550" begin="00:39:44.280" end="00:39:45.320" region="bottomCenter">Río.</p>
+      <p xml:id="p551" begin="00:40:21.400" end="00:40:23.480" region="bottomCenter">Río, no.</p>
+      <p xml:id="p552" begin="00:40:24.240" end="00:40:25.440" region="bottomCenter">No, no.</p>
+      <p xml:id="p553" begin="00:40:25.520" end="00:40:27.480" region="bottomCenter">Te has dejado un móvil encendido.</p>
+      <p xml:id="p554" begin="00:40:28.440" end="00:40:29.720" region="bottomCenter">Pues apágalo.</p>
+      <p xml:id="p555" begin="00:40:43.240" end="00:40:45.040" region="bottomCenter">-Cámara acorazada abierta.</p>
+      <p xml:id="p556" begin="00:40:47.560" end="00:40:49.960" region="bottomCenter">-Poneos los chalecos<br/>y preparaos para salir.</p>
+      <p xml:id="p557" begin="00:40:50.040" end="00:40:52.040" region="bottomCenter">En cuanto estéis,<br/>activaremos la alarma.</p>
+      <p xml:id="p558" begin="00:40:54.320" end="00:40:57.080" region="bottomCenter">Berlín,<br/>preparados para abrir las puertas.</p>
+      <p xml:id="p559" begin="00:40:57.160" end="00:41:01.520" region="bottomCenter">¡Rehenes, por su seguridad,<br/>todos tres pasos para atrás!</p>
+      <p xml:id="p560" begin="00:41:02.400" end="00:41:05.160" region="bottomCenter">Un poquito más por aquí. Eso es.</p>
+      <p xml:id="p561" begin="00:41:05.240" end="00:41:07.320" region="bottomCenter">Ahí estamos. Todo va a salir bien.</p>
+      <p xml:id="p562" begin="00:41:09.880" end="00:41:11.480" region="bottomCenter">Un poquito más juntos.</p>
+      <p xml:id="p563" begin="00:41:22.240" end="00:41:24.840" region="bottomCenter">Chist. Tranquilos.</p>
+      <p xml:id="p564" begin="00:41:25.760" end="00:41:27.840" region="bottomCenter">Tranquilos. Estoy viendo las bolsas.</p>
+      <p xml:id="p565" begin="00:41:27.920" end="00:41:29.360" region="bottomCenter">Las tienen llenas de dinero.</p>
+      <p xml:id="p566" begin="00:41:29.440" end="00:41:31.520" region="bottomCenter">Ahora se largarán<br/>y aquí no ha pasado nada.</p>
+      <p xml:id="p567" begin="00:41:34.600" end="00:41:37.560" region="topCenter">(Radio)</p>
+      <p xml:id="p568" begin="00:41:43.640" end="00:41:46.920" region="topCenter">(Alarma)</p>
+      <p xml:id="p569" begin="00:41:54.440" end="00:41:55.960" region="bottomCenter">(EMISORA) "Tenemos un 10-33</p>
+      <p xml:id="p570" begin="00:41:56.040" end="00:41:58.200" region="bottomCenter">en la Fábrica Nacional<br/>de Moneda y Timbre.</p>
+      <p xml:id="p571" begin="00:41:58.280" end="00:42:00.680" region="bottomCenter">-Z24 en camino.<br/>Estamos allí en dos minutos".</p>
+      <p xml:id="p572" begin="00:42:00.760" end="00:42:01.680" region="bottomCenter">Dos minutos.</p>
+      <p xml:id="p573" begin="00:42:01.760" end="00:42:03.560" region="bottomCenter">-Dos minutos.</p>
+      <p xml:id="p574" begin="00:42:03.640" end="00:42:07.680" region="topCenter">(Alarma)</p>
+      <p xml:id="p575" begin="00:42:07.840" end="00:42:11.200" region="bottomCenter">¿Por qué ha saltado la alarma?<br/>No lo sé.</p>
+      <p xml:id="p576" begin="00:42:12.760" end="00:42:14.760" region="bottomCenter">Están parados sin hacer nada,<br/>no lo entiendo.</p>
+      <p xml:id="p577" begin="00:42:14.840" end="00:42:16.760" region="bottomCenter">¿Por qué no cogen el dinero<br/>y se van?</p>
+      <p xml:id="p578" begin="00:42:16.840" end="00:42:17.960" region="bottomCenter">¡No lo sé!</p>
+      <p xml:id="p579" begin="00:42:20.280" end="00:42:22.400" region="bottomCenter">Un minuto, 40 segundos.</p>
+      <p xml:id="p580" begin="00:42:23.400" end="00:42:24.960" region="bottomCenter">-Un minuto...</p>
+      <p xml:id="p581" begin="00:42:29.840" end="00:42:31.200" region="bottomCenter">¿Cómo te llamas?</p>
+      <p xml:id="p582" begin="00:42:32.600" end="00:42:33.720" region="bottomCenter">Arturo.</p>
+      <p xml:id="p583" begin="00:42:34.400" end="00:42:35.480" region="bottomCenter">Arturo, ¿verdad?</p>
+      <p xml:id="p584" begin="00:42:35.560" end="00:42:36.760" region="bottomCenter">Sí. ¡No, no he visto nada!</p>
+      <p xml:id="p585" begin="00:42:36.840" end="00:42:39.920" region="bottomCenter">¡No he visto nada, lo juro,<br/>no he visto nada, no he visto nada!</p>
+      <p xml:id="p586" begin="00:42:40.000" end="00:42:41.600" region="bottomCenter">Mírame.<br/>No he visto nada.</p>
+      <p xml:id="p587" begin="00:42:41.680" end="00:42:42.880" region="bottomCenter">Venga, Arturo, mírame.</p>
+      <p xml:id="p588" begin="00:42:43.320" end="00:42:45.360" region="bottomCenter">Mírame, mírame.</p>
+      <p xml:id="p589" begin="00:42:45.520" end="00:42:48.400" region="bottomCenter">Eh, eh, venga, va.</p>
+      <p xml:id="p590" begin="00:42:48.480" end="00:42:49.840" region="bottomCenter">(LLORA)</p>
+      <p xml:id="p591" begin="00:42:50.720" end="00:42:51.680" region="bottomCenter">Eh.</p>
+      <p xml:id="p592" begin="00:42:54.200" end="00:42:55.520" region="bottomCenter">¿Te gusta el cine?</p>
+      <p xml:id="p593" begin="00:42:59.240" end="00:43:00.320" region="bottomCenter">¿Te gusta?</p>
+      <p xml:id="p594" begin="00:43:01.960" end="00:43:04.960" region="bottomCenter">(SOLLOZANDO) Soy...<br/>Soy muy aficionado.</p>
+      <p xml:id="p595" begin="00:43:08.560" end="00:43:11.120" region="bottomCenter">¿Y tú te has dado cuenta<br/>que en las películas de miedo</p>
+      <p xml:id="p596" begin="00:43:11.200" end="00:43:14.640" region="bottomCenter">siempre sale uno al principio,<br/>así, majete como tú,</p>
+      <p xml:id="p597" begin="00:43:14.720" end="00:43:17.960" region="bottomCenter">que tú dices: "Este huele a muerto",</p>
+      <p xml:id="p598" begin="00:43:21.600" end="00:43:23.400" region="bottomCenter">y luego no falla?<br/>No...</p>
+      <p xml:id="p599" begin="00:43:23.480" end="00:43:24.760" region="bottomCenter">Siempre cae.</p>
+      <p xml:id="p600" begin="00:43:28.640" end="00:43:32.240" region="bottomCenter">Arturo, créeme, hueles a muerto.</p>
+      <p xml:id="p601" begin="00:43:32.320" end="00:43:34.200" region="bottomCenter">(LLORA)</p>
+      <p xml:id="p602" begin="00:43:35.240" end="00:43:37.680" region="bottomCenter">(EMISORA) "Z24 a central,<br/>estamos en 30 segundos".</p>
+      <p xml:id="p603" begin="00:43:37.760" end="00:43:38.920" region="bottomCenter">30 segundos.</p>
+      <p xml:id="p604" begin="00:43:40.440" end="00:43:41.440" region="bottomCenter">30 segundos.</p>
+      <p xml:id="p605" begin="00:43:44.200" end="00:43:45.880" region="bottomCenter">"Es fundamental que la policía"</p>
+      <p xml:id="p606" begin="00:43:45.960" end="00:43:49.000" region="bottomCenter">no tenga ni la más mínima idea<br/>de lo que estamos haciendo.</p>
+      <p xml:id="p607" begin="00:43:49.920" end="00:43:52.840" region="bottomCenter">Vamos a hacerles creer<br/>que entramos a robar,</p>
+      <p xml:id="p608" begin="00:43:52.920" end="00:43:55.720" region="bottomCenter">que nos sorprendieron huyendo<br/>con el dinero y que todo se jodió,</p>
+      <p xml:id="p609" begin="00:43:55.800" end="00:43:57.920" region="bottomCenter">que sacamos las armas,<br/>disparamos a bocajarro</p>
+      <p xml:id="p610" begin="00:43:58.000" end="00:44:01.560" region="bottomCenter">y no tuvimos más remedio...<br/>que recular.</p>
+      <p xml:id="p611" begin="00:44:03.960" end="00:44:07.000" region="bottomCenter">"Y entonces, sin haber herido"</p>
+      <p xml:id="p612" begin="00:44:07.080" end="00:44:08.320" region="bottomCenter">a nadie,</p>
+      <p xml:id="p613" begin="00:44:10.800" end="00:44:12.200" region="bottomCenter">nos metemos dentro.</p>
+      <p xml:id="p614" begin="00:44:13.600" end="00:44:16.960" region="bottomCenter">"Que piensen<br/>que estamos acorralados como ratas".</p>
+      <p xml:id="p615" begin="00:44:17.040" end="00:44:18.040" region="topCenter">(Sirena)</p>
+      <p xml:id="p616" begin="00:44:18.120" end="00:44:20.040" region="bottomCenter">"Que piensen<br/>que estamos improvisando".</p>
+      <p xml:id="p617" begin="00:44:20.120" end="00:44:21.200" region="bottomCenter">¡Ahora!</p>
+      <p xml:id="p618" begin="00:44:22.040" end="00:44:24.720" region="bottomCenter">-¡Tokio!<br/>¡Tokio, espera, joder, vas antes!</p>
+      <p xml:id="p619" begin="00:44:24.800" end="00:44:26.000" region="bottomCenter">¡Tokio!</p>
+      <p xml:id="p620" begin="00:44:26.080" end="00:44:28.160" region="topCenter">(Sirena)</p>
+      <p xml:id="p621" begin="00:44:28.240" end="00:44:33.000" region="bottomCenter">"Salir, tirar el dinero,<br/>disparar al suelo y volver".</p>
+      <p xml:id="p622" begin="00:44:33.080" end="00:44:34.760" region="bottomCenter">(GRITAN)</p>
+      <p xml:id="p623" begin="00:44:34.840" end="00:44:36.800" region="bottomCenter">"Lo había escuchado<br/>más de 30 veces".</p>
+      <p xml:id="p624" begin="00:44:36.880" end="00:44:38.760" region="topCenter">(Disparos)</p>
+      <p xml:id="p625" begin="00:44:39.840" end="00:44:41.680" region="bottomCenter">"Pero lo que no nos dijo<br/>el Profesor</p>
+      <p xml:id="p626" begin="00:44:41.760" end="00:44:43.960" region="bottomCenter">es que ellos<br/>también dispararían a bocajarro".</p>
+      <p xml:id="p627" begin="00:44:44.640" end="00:44:46.120" region="bottomCenter">¡Río, Río!</p>
+      <p xml:id="p628" begin="00:44:47.880" end="00:44:50.440" region="topCenter">(Disparos)</p>
+      <p xml:id="p629" begin="00:44:53.640" end="00:44:55.080" region="bottomCenter">¡Cago en la puta, tío!</p>
+      <p xml:id="p630" begin="00:44:55.160" end="00:44:57.920" region="topCenter">(Disparos)</p>
+      <p xml:id="p631" begin="00:45:02.280" end="00:45:04.960" region="topCenter">(Disparos)</p>
+      <p xml:id="p632" begin="00:45:39.400" end="00:45:41.200" region="bottomCenter">(HABLA ENTRE SOLLOZOS)</p>
+      <p xml:id="p633" begin="00:45:41.280" end="00:45:42.240" region="bottomCenter">¡Me cago en la puta!</p>
+      <p xml:id="p634" begin="00:45:42.320" end="00:45:45.280" region="bottomCenter">¡La primera en la frente, tío,<br/>la puta primera en la frente!</p>
+      <p xml:id="p635" begin="00:46:05.160" end="00:46:06.520" region="bottomCenter">¡Joder!</p>
+      <p xml:id="p636" begin="00:46:07.680" end="00:46:10.080" region="bottomCenter">(RADIO) "Apoyo urgente.<br/>Solicito apoyo urgente.</p>
+      <p xml:id="p637" begin="00:46:10.160" end="00:46:11.840" region="bottomCenter">En la Fábrica de Moneda y Timbre.</p>
+      <p xml:id="p638" begin="00:46:11.920" end="00:46:14.200" region="bottomCenter">Hemos recibido fuego hostil.<br/>Agente herido.</p>
+      <p xml:id="p639" begin="00:46:14.280" end="00:46:15.640" region="bottomCenter">Repito, agente herido".</p>
+      <p xml:id="p640" begin="00:46:15.720" end="00:46:20.320" region="bottomCenter">"La bala de un M16<br/>sale disparada a 3510 km/h.</p>
+      <p xml:id="p641" begin="00:46:20.840" end="00:46:23.120" region="bottomCenter">Vuela más rápido<br/>que la velocidad del sonido.</p>
+      <p xml:id="p642" begin="00:46:24.880" end="00:46:26.960" region="bottomCenter">Así que si te disparan al corazón</p>
+      <p xml:id="p643" begin="00:46:27.480" end="00:46:29.680" region="bottomCenter">ni siquiera oirás<br/>la bala que te ha matado.</p>
+      <p xml:id="p644" begin="00:46:31.080" end="00:46:33.720" region="bottomCenter">De esa manera supe<br/>que lo había jodido todo,</p>
+      <p xml:id="p645" begin="00:46:33.800" end="00:46:35.600" region="bottomCenter">en una milésima de segundo</p>
+      <p xml:id="p646" begin="00:46:36.240" end="00:46:38.440" region="bottomCenter">y de la misma forma que siempre".</p>
+      <p xml:id="p647" begin="00:46:40.240" end="00:46:41.840" region="topCenter">(Trueno)</p>
+    </div>
+  </body>
+</tt>

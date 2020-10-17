@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:textAlign="center" xml:id="style_0"/>
+<style tts:color="white" xml:id="style_1"/>
+<style tts:textAlign="right" xml:id="style_2"/>
+<style tts:color="yellow" xml:id="style_3"/>
+<style tts:color="magenta" xml:id="style_4"/>
+<style tts:color="cyan" xml:id="style_5"/>
+<style tts:color="green" xml:id="style_6"/>
+</styling>
+<layout>
+<region xml:id="Region_00">
+<style tts:textAlign="center"/>
+<style tts:displayAlign="after"/>
+<style tts:origin="10.00% 84.67%"/>
+<style tts:extent="80.00% 5.33%"/>
+</region>
+<region xml:id="Region_01">
+<style tts:textAlign="right"/>
+<style tts:displayAlign="before"/>
+<style tts:origin="10.00% 10.00%"/>
+<style tts:extent="80.00% 5.33%"/>
+</region>
+<region xml:id="Region_02">
+<style tts:textAlign="center"/>
+<style tts:displayAlign="before"/>
+<style tts:origin="10.00% 10.00%"/>
+<style tts:extent="80.00% 10.66%"/>
+</region>
+<region xml:id="Region_03">
+<style tts:textAlign="center"/>
+<style tts:displayAlign="before"/>
+<style tts:origin="10.00% 10.00%"/>
+<style tts:extent="80.00% 5.33%"/>
+</region>
+<region xml:id="Region_04">
+<style tts:textAlign="center"/>
+<style tts:displayAlign="after"/>
+<style tts:origin="10.00% 79.34%"/>
+<style tts:extent="80.00% 10.66%"/>
+</region>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="65200000t" end="77600000t" region="Region_00" xml:id="subtitle0"><span style="style_1">(HOMBRE) ¡Quieto o disparo!</span></p>
+<p begin="78400000t" end="88400000t" region="Region_01" xml:id="subtitle1"><span style="style_1">(Disparo)</span></p>
+<p begin="89200000t" end="97600000t" region="Region_00" xml:id="subtitle2"><span style="style_1">(MUJER) ¡No!</span></p>
+<p begin="251600000t" end="263600000t" region="Region_00" xml:id="subtitle3"><span style="style_3">"Me llamo Tokio.</span></p>
+<p begin="285200000t" end="318000000t" region="Region_02" xml:id="subtitle4"><span style="style_3">Pero cuando comenzó esta historia,</span><br/><span style="style_3">no me llamaba así.</span></p>
+<p begin="336800000t" end="347200000t" region="Region_03" xml:id="subtitle5"><span style="style_3">Esta era yo.</span></p>
+<p begin="380400000t" end="399600000t" region="Region_03" xml:id="subtitle6"><span style="style_3">Y este, el amor de mi vida.</span></p>
+<p begin="400400000t" end="424000000t" region="Region_02" xml:id="subtitle7"><span style="style_3">La última vez que lo vi</span><br/><span style="style_3">lo dejé en un charco de sangre</span></p>
+<p begin="424800000t" end="442400000t" region="Region_00" xml:id="subtitle8"><span style="style_3">con los ojos abiertos.</span></p>
+<p begin="456400000t" end="476800000t" region="Region_00" xml:id="subtitle9"><span style="style_3">Hicimos 15 atracos limpios,</span></p>
+<p begin="481600000t" end="505600000t" region="Region_04" xml:id="subtitle10"><span style="style_3">pero mezclar amor y trabajo</span><br/><span style="style_3">nunca funciona.</span></p>
+<p begin="506400000t" end="544000000t" region="Region_04" xml:id="subtitle11"><span style="style_3">Así que, cuando el segurata disparó,</span><br/><span style="style_3">tuve que cambiar de profesión.</span></p>
+<p begin="560000000t" end="579600000t" region="Region_00" xml:id="subtitle12"><span style="style_3">De ladrona a asesina.</span></p>
+<p begin="590000000t" end="604400000t" region="Region_00" xml:id="subtitle13"><span style="style_3">Y así fue como empecé a huir.</span></p>
+<p begin="618400000t" end="641200000t" region="Region_04" xml:id="subtitle14"><span style="style_3">De alguna manera,</span><br/><span style="style_3">yo también estaba muerta.</span></p>
+<p begin="662400000t" end="678400000t" region="Region_00" xml:id="subtitle15"><span style="style_3">O casi muerta.</span></p>
+<p begin="868000000t" end="885600000t" region="Region_03" xml:id="subtitle16"><span style="style_3">Llevaba 11 días escondida</span></p>
+<p begin="888400000t" end="920400000t" region="Region_02" xml:id="subtitle17"><span style="style_3">y mi foto empapelaba</span><br/><span style="style_3">las comisarías de toda España.</span></p>
+<p begin="921200000t" end="936000000t" region="Region_03" xml:id="subtitle18"><span style="style_3">Me caerían 30 años.</span></p>
+<p begin="936800000t" end="961200000t" region="Region_02" xml:id="subtitle19"><span style="style_3">Y, la verdad,</span><br/><span style="style_3">no soy de llegar a viejecita</span></p>
+<p begin="962000000t" end="973600000t" region="Region_03" xml:id="subtitle20"><span style="style_3">en la celda de un penal.</span></p>
+<p begin="991200000t" end="1004000000t" region="Region_03" xml:id="subtitle21"><span style="style_3">Soy más bien de huir.</span></p>
+<p begin="1011200000t" end="1024400000t" region="Region_03" xml:id="subtitle22"><span style="style_3">En cuerpo y alma.</span></p>
+<p begin="1033200000t" end="1050400000t" region="Region_03" xml:id="subtitle23"><span style="style_3">Y si no puedo llevar mi cuerpo,</span></p>
+<p begin="1065600000t" end="1080800000t" region="Region_03" xml:id="subtitle24"><span style="style_3">al menos que escape mi alma".</span></p>
+<p begin="1084400000t" end="1108000000t" region="Region_01" xml:id="subtitle25"><span style="style_1">(Tono de llamada)</span></p>
+<p begin="1108800000t" end="1137600000t" region="Region_02" xml:id="subtitle26"><span style="style_3">"No me quedaba tiempo y había</span><br/><span style="style_3">cosas importantes que debía hacer.</span></p>
+<p begin="1150800000t" end="1162800000t" region="Region_03" xml:id="subtitle27"><span style="style_3">En realidad, solo una".</span></p>
+<p begin="1172400000t" end="1186400000t" region="Region_01" xml:id="subtitle28"><span style="style_1">(Teléfono)</span></p>
+<p begin="1250000000t" end="1261200000t" region="Region_03" xml:id="subtitle29"><span style="style_1">Sí.</span></p>
+<p begin="1281600000t" end="1292000000t" region="Region_03" xml:id="subtitle30"><span style="style_3">"¿Mamá?".</span></p>
+<p begin="1297200000t" end="1307200000t" region="Region_03" xml:id="subtitle31"><span style="style_1">Ay, mi niña.</span></p>
+<p begin="1320000000t" end="1336800000t" region="Region_03" xml:id="subtitle32"><span style="style_1">"¿Cómo estás, cariño?".</span></p>
+<p begin="1351600000t" end="1364400000t" region="Region_03" xml:id="subtitle33"><span style="style_1">¿Qué está pasando?</span></p>
+<p begin="1369200000t" end="1385600000t" region="Region_03" xml:id="subtitle34"><span style="style_3">"¿No viste las noticias?".</span></p>
+<p begin="1390800000t" end="1408000000t" region="Region_00" xml:id="subtitle35"><span style="style_3">Todas esas cosas que dicen de mí.</span></p>
+<p begin="1414400000t" end="1434000000t" region="Region_00" xml:id="subtitle36"><span style="style_1">Sí, claro que las he visto.</span></p>
+<p begin="1458000000t" end="1470800000t" region="Region_00" xml:id="subtitle37"><span style="style_3">¿Sabes qué?</span></p>
+<p begin="1488000000t" end="1504400000t" region="Region_00" xml:id="subtitle38"><span style="style_3">Estoy pensando en irme de viaje.</span></p>
+<p begin="1505200000t" end="1527200000t" region="Region_04" xml:id="subtitle39"><span style="style_3">"A lo mejor me enrolo</span><br/><span style="style_3">en un barco chino.</span></p>
+<p begin="1528000000t" end="1539600000t" region="Region_00" xml:id="subtitle40"><span style="style_3">De cocinera.</span></p>
+<p begin="1540400000t" end="1560800000t" region="Region_04" xml:id="subtitle41"><span style="style_3">¿No decías</span><br/><span style="style_3">que no sabía hacer una tortilla?</span></p>
+<p begin="1561600000t" end="1578000000t" region="Region_00" xml:id="subtitle42"><span style="style_3">Así aprendo. ¿Qué te parece?".</span></p>
+<p begin="1584400000t" end="1600400000t" region="Region_00" xml:id="subtitle43"><span style="style_1">No sé, cariño.</span></p>
+<p begin="1603200000t" end="1620800000t" region="Region_00" xml:id="subtitle44"><span style="style_1">¿Y si comen todo chino, qué?</span></p>
+<p begin="1648800000t" end="1681200000t" region="Region_00" xml:id="subtitle45"><span style="style_1">¿Ese viaje qué significa,</span></p>
+<p begin="1682000000t" end="1700400000t" region="Region_00" xml:id="subtitle46"><span style="style_1">"que no voy a volver a verte más?".</span></p>
+<p begin="1713600000t" end="1729200000t" region="Region_00" xml:id="subtitle47"><span style="style_3">Qué tonterías dices.</span></p>
+<p begin="1735200000t" end="1748000000t" region="Region_00" xml:id="subtitle48"><span style="style_3">Pues claro que me verás.</span></p>
+<p begin="1748800000t" end="1772400000t" region="Region_04" xml:id="subtitle49"><span style="style_3">"Te compraré un billete</span><br/><span style="style_3">para que vengas a visitarme".</span></p>
+<p begin="1790800000t" end="1804000000t" region="Region_00" xml:id="subtitle50"><span style="style_1">¿Visitarte dónde?</span></p>
+<p begin="1818400000t" end="1828800000t" region="Region_00" xml:id="subtitle51"><span style="style_1">¿Al cementerio?</span></p>
+<p begin="1872400000t" end="1883200000t" region="Region_00" xml:id="subtitle52"><span style="style_3">¿Estás sola?</span></p>
+<p begin="1908800000t" end="1920000000t" region="Region_00" xml:id="subtitle53"><span style="style_3">"Mamá, ¿estás sola?".</span></p>
+<p begin="1923600000t" end="1934000000t" region="Region_00" xml:id="subtitle54"><span style="style_1">Sí.</span></p>
+<p begin="1934800000t" end="1964400000t" region="Region_04" xml:id="subtitle55"><span style="style_3">"Pues baja a la calle,</span><br/><span style="style_3">como si fueses al mercado.</span></p>
+<p begin="1976800000t" end="1989200000t" region="Region_00" xml:id="subtitle56"><span style="style_3">Yo te encontraré".</span></p>
+<p begin="2022400000t" end="2048800000t" region="Region_04" xml:id="subtitle57"><span style="style_3">"Y ese día,</span><br/><span style="style_3">el día que iba al matadero,</span></p>
+<p begin="2049600000t" end="2072000000t" region="Region_00" xml:id="subtitle58"><span style="style_3">apareció mi ángel de la guarda.</span></p>
+<p begin="2081600000t" end="2112400000t" region="Region_04" xml:id="subtitle59"><span style="style_3">Pero una nunca sabe a ciencia cierta</span><br/><span style="style_3">cómo es un ángel de la guarda</span></p>
+<p begin="2113200000t" end="2146400000t" region="Region_04" xml:id="subtitle60"><span style="style_3">y lo que menos te puedes imaginar</span><br/><span style="style_3">es que aparezca en un Seat Ibiza</span></p>
+<p begin="2147200000t" end="2159200000t" region="Region_00" xml:id="subtitle61"><span style="style_3">del 92".</span></p>
+<p begin="2160000000t" end="2177600000t" region="Region_00" xml:id="subtitle62"><span style="style_4">Perdona, ¿tienes un minuto?</span></p>
+<p begin="2198400000t" end="2208400000t" region="Region_00" xml:id="subtitle63"><span style="style_3">No.</span></p>
+<p begin="2247200000t" end="2272000000t" region="Region_04" xml:id="subtitle64"><span style="style_4">Lo de cocinar en un barco chino</span><br/><span style="style_4">solo tiene una ventaja,</span></p>
+<p begin="2311600000t" end="2330000000t" region="Region_00" xml:id="subtitle65"><span style="style_4">que no tienes que fregar los platos.</span></p>
+<p begin="2339200000t" end="2360800000t" region="Region_04" xml:id="subtitle66"><span style="style_3">"Por un momento</span><br/><span style="style_3">pensé en los chinos</span></p>
+<p begin="2365600000t" end="2386800000t" region="Region_04" xml:id="subtitle67"><span style="style_3">y en que odio a la gente</span><br/><span style="style_3">que escupe".</span></p>
+<p begin="2459600000t" end="2479600000t" region="Region_04" xml:id="subtitle68"><span style="style_3">¿Quién eres, policía?</span><br/><span style="style_4">Espera, espera.</span></p>
+<p begin="2480400000t" end="2506400000t" region="Region_04" xml:id="subtitle69"><span style="style_4">Vas de camino al matadero,</span><br/><span style="style_4">tienes a un equipo esperándote</span></p>
+<p begin="2507200000t" end="2526400000t" region="Region_04" xml:id="subtitle70"><span style="style_4">y tienen un coche</span><br/><span style="style_4">desde hace seis días...</span></p>
+<p begin="2527200000t" end="2538400000t" region="Region_00" xml:id="subtitle71"><span style="style_3">¿Por qué te voy a creer?</span></p>
+<p begin="2549200000t" end="2567600000t" region="Region_00" xml:id="subtitle72"><span style="style_3">"Y así conocí al Profesor,</span></p>
+<p begin="2568400000t" end="2592000000t" region="Region_04" xml:id="subtitle73"><span style="style_3">apuntándole con una pistola</span><br/><span style="style_3">en las pelotas".</span></p>
+<p begin="2592800000t" end="2601600000t" region="Region_00" xml:id="subtitle74"><span style="style_4">¿Puedo?</span></p>
+<p begin="2602400000t" end="2617200000t" region="Region_00" xml:id="subtitle75"><span style="style_3">"Lo bueno de las relaciones</span></p>
+<p begin="2618000000t" end="2642800000t" region="Region_04" xml:id="subtitle76"><span style="style_3">es que uno termina olvidándose</span><br/><span style="style_3">de cómo empezaron".</span></p>
+<p begin="2644400000t" end="2655600000t" region="Region_00" xml:id="subtitle77"><span style="style_4">¿Puedo?</span></p>
+<p begin="2803600000t" end="2821200000t" region="Region_00" xml:id="subtitle78"><span style="style_4">Están ya en casa de tu madre.</span></p>
+<p begin="2884800000t" end="2902400000t" region="Region_00" xml:id="subtitle79"><span style="style_4">Por eso he venido a ayudarte.</span></p>
+<p begin="2923600000t" end="2948000000t" region="Region_00" xml:id="subtitle80"><span style="style_4">Quiero proponerte un negocio,</span></p>
+<p begin="2962800000t" end="2982000000t" region="Region_00" xml:id="subtitle81"><span style="style_4">un atraco, un atraco...</span></p>
+<p begin="3010800000t" end="3025600000t" region="Region_00" xml:id="subtitle82"><span style="style_4">singular.</span></p>
+<p begin="3038400000t" end="3053200000t" region="Region_00" xml:id="subtitle83"><span style="style_4">Estoy buscando a gente que...</span></p>
+<p begin="3060800000t" end="3082000000t" region="Region_04" xml:id="subtitle84"><span style="style_4">Bueno,</span><br/><span style="style_4">que no tenga mucho que perder.</span></p>
+<p begin="3110800000t" end="3162400000t" region="Region_04" xml:id="subtitle85"><span style="style_4">¿Cómo te suenan...</span><br/><span style="style_4">2400 millones de euros?</span></p>
+<p begin="3198000000t" end="3220400000t" region="Region_00" xml:id="subtitle86"><span style="style_3">"Nadie había dado un palo así,</span></p>
+<p begin="3221200000t" end="3251600000t" region="Region_04" xml:id="subtitle87"><span style="style_3">ni en Nueva York,</span><br/><span style="style_3">ni en Londres, ni en Montecarlo;</span></p>
+<p begin="3252400000t" end="3274000000t" region="Region_04" xml:id="subtitle88"><span style="style_3">así que si mi foto</span><br/><span style="style_3">volvía a los periódicos,</span></p>
+<p begin="3274800000t" end="3304400000t" region="Region_04" xml:id="subtitle89"><span style="style_3">al menos que fuera por el atraco</span><br/><span style="style_3">más grande de la historia".</span></p>
+<p begin="3728800000t" end="3741200000t" region="Region_00" xml:id="subtitle90"><span style="style_4">Os doy la bienvenida...</span></p>
+<p begin="3759600000t" end="3801200000t" region="Region_04" xml:id="subtitle91"><span style="style_4">y... las gracias</span><br/><span style="style_4">por haber aceptado esta...</span></p>
+<p begin="3820800000t" end="3834000000t" region="Region_00" xml:id="subtitle92"><span style="style_4">Esta oferta de trabajo.</span></p>
+<p begin="3834800000t" end="3844800000t" region="Region_01" xml:id="subtitle93"><span style="style_1">(Risas)</span></p>
+<p begin="3874400000t" end="3910000000t" region="Region_04" xml:id="subtitle94"><span style="style_4">Viviremos aquí,</span><br/><span style="style_4">alejados del mundanal ruido.</span></p>
+<p begin="3912000000t" end="3939600000t" region="Region_04" xml:id="subtitle95"><span style="style_4">Cinco meses, los cinco meses</span><br/><span style="style_4">que pasaremos estudiando</span></p>
+<p begin="3940400000t" end="3966400000t" region="Region_04" xml:id="subtitle96"><span style="style_4">cómo dar el golpe.</span><br/><span style="style_1">¿Cómo que cinco meses?</span></p>
+<p begin="3968400000t" end="3984800000t" region="Region_00" xml:id="subtitle97"><span style="style_1">¿Estamos locos o qué?</span></p>
+<p begin="4010000000t" end="4048800000t" region="Region_00" xml:id="subtitle98"><span style="style_4">Mira, la gente pasa años estudiando</span></p>
+<p begin="4062000000t" end="4091200000t" region="Region_04" xml:id="subtitle99"><span style="style_4">para tener un sueldo, un sueldo</span><br/><span style="style_4">que, en el mejor de los casos,</span></p>
+<p begin="4092000000t" end="4120800000t" region="Region_04" xml:id="subtitle100"><span style="style_4">no deja de ser un sueldo,</span><br/><span style="style_4">un sueldo de mierda.</span></p>
+<p begin="4136800000t" end="4152800000t" region="Region_00" xml:id="subtitle101"><span style="style_4">¿Qué son cinco meses?</span></p>
+<p begin="4173200000t" end="4230400000t" region="Region_04" xml:id="subtitle102"><span style="style_4">Yo llevo pensando en esto...</span><br/><span style="style_4">mucho más tiempo.</span></p>
+<p begin="4273200000t" end="4290400000t" region="Region_04" xml:id="subtitle103"><span style="style_4">Para no volver a trabajar</span><br/><span style="style_4">en mi vida.</span></p>
+<p begin="4300000000t" end="4315600000t" region="Region_00" xml:id="subtitle104"><span style="style_4">Ni vosotros...</span></p>
+<p begin="4332800000t" end="4348800000t" region="Region_00" xml:id="subtitle105"><span style="style_4">ni vuestros hijos.</span></p>
+<p begin="4429200000t" end="4439200000t" region="Region_00" xml:id="subtitle106"><span style="style_4">Bien.</span></p>
+<p begin="4440000000t" end="4466800000t" region="Region_04" xml:id="subtitle107"><span style="style_4">De momento no os conocéis</span><br/><span style="style_4">y quiero que siga siendo así.</span></p>
+<p begin="4467600000t" end="4510000000t" region="Region_04" xml:id="subtitle108"><span style="style_4">No quiero nada de nombres,</span><br/><span style="style_4">ni preguntas personales,</span></p>
+<p begin="4525600000t" end="4551600000t" region="Region_04" xml:id="subtitle109"><span style="style_4">ni, por supuesto,</span><br/><span style="style_4">relaciones personales.</span></p>
+<p begin="4568800000t" end="4596400000t" region="Region_04" xml:id="subtitle110"><span style="style_4">Quiero que cada uno elija</span><br/><span style="style_4">un nombre, algo sencillo.</span></p>
+<p begin="4597200000t" end="4617600000t" region="Region_04" xml:id="subtitle111"><span style="style_4">Puede ser números,</span><br/><span style="style_4">planetas, ciudades...</span></p>
+<p begin="4618400000t" end="4662400000t" region="Region_04" xml:id="subtitle112"><span style="style_1">-Rollo "Señor 17, la señorita 23".</span><br/><span style="style_1">-Ya empezamos mal. Yo no sé</span></p>
+<p begin="4663200000t" end="4693200000t" region="Region_04" xml:id="subtitle113"><span style="style_1">recordar mi número de teléfono.</span><br/><span style="style_1">-Por eso te lo digo.</span></p>
+<p begin="4710400000t" end="4744400000t" region="Region_04" xml:id="subtitle114"><span style="style_1">-¿Y planetas?</span><br/><span style="style_1">Yo puedo ser Marte, este Urano.</span></p>
+<p begin="4748400000t" end="4768000000t" region="Region_04" xml:id="subtitle115"><span style="style_1">-Yo Urano no seré,</span><br/><span style="style_1">así que te olvidas.</span></p>
+<p begin="4774400000t" end="4796000000t" region="Region_04" xml:id="subtitle116"><span style="style_1">-¿Qué le pasa a Urano?</span><br/><span style="style_1">-Que tiene mala rima.</span></p>
+<p begin="4796800000t" end="4828400000t" region="Region_04" xml:id="subtitle117"><span style="style_4">Van a ser ciudades, ciudades.</span><br/><span style="style_1">Quedamos con ciudades.</span></p>
+<p begin="4833600000t" end="4844400000t" region="Region_00" xml:id="subtitle118"><span style="style_4">Bien.</span></p>
+<p begin="4845200000t" end="4867600000t" region="Region_00" xml:id="subtitle119"><span style="style_3">"Y así terminé llamándome Tokio.</span></p>
+<p begin="4876000000t" end="4898400000t" region="Region_04" xml:id="subtitle120"><span style="style_3">Ese que me mira el culo</span><br/><span style="style_3">es el señor Berlín.</span></p>
+<p begin="4904000000t" end="4915200000t" region="Region_00" xml:id="subtitle121"><span style="style_3">En busca y captura.</span></p>
+<p begin="4927200000t" end="4963600000t" region="Region_02" xml:id="subtitle122"><span style="style_3">27 atracos. Joyerías,</span><br/><span style="style_3">casas de subastas y furgones.</span></p>
+<p begin="4964400000t" end="4989200000t" region="Region_04" xml:id="subtitle123"><span style="style_3">Su mayor golpe,</span><br/><span style="style_3">los Campos Elíseos, en París.</span></p>
+<p begin="4990000000t" end="5011200000t" region="Region_00" xml:id="subtitle124"><span style="style_3">434 diamantes.</span></p>
+<p begin="5020400000t" end="5039200000t" region="Region_00" xml:id="subtitle125"><span style="style_3">Es como un tiburón en una piscina.</span></p>
+<p begin="5040000000t" end="5066000000t" region="Region_04" xml:id="subtitle126"><span style="style_3">Puedes bañarte con él,</span><br/><span style="style_3">pero nunca estás tranquila.</span></p>
+<p begin="5066800000t" end="5082000000t" region="Region_00" xml:id="subtitle127"><span style="style_3">Y era el jefe al mando del asalto".</span></p>
+<p begin="5082800000t" end="5092800000t" region="Region_01" xml:id="subtitle128"><span style="style_1">(Tosidos)</span></p>
+<p begin="5093600000t" end="5110000000t" region="Region_00" xml:id="subtitle129"><span style="style_3">"El que tose es el señor Moscú.</span></p>
+<p begin="5122400000t" end="5144000000t" region="Region_02" xml:id="subtitle130"><span style="style_3">Lo primero que cavó fue una mina,</span><br/><span style="style_3">en Asturias.</span></p>
+<p begin="5155200000t" end="5188400000t" region="Region_04" xml:id="subtitle131"><span style="style_3">Después comprendió que cavando</span><br/><span style="style_3">hacia arriba llegaría más lejos.</span></p>
+<p begin="5189200000t" end="5219200000t" region="Region_04" xml:id="subtitle132"><span style="style_3">Seis peleterías, tres relojerías</span><br/><span style="style_3">y la Caja Rural de Avilés.</span></p>
+<p begin="5228800000t" end="5258000000t" region="Region_04" xml:id="subtitle133"><span style="style_3">Maneja lanza térmica</span><br/><span style="style_3">y cualquier herramienta industrial.</span></p>
+<p begin="5258800000t" end="5291200000t" region="Region_04" xml:id="subtitle134"><span style="style_3">El que está sentado</span><br/><span style="style_3">tras Moscú es Denver, su hijo.</span></p>
+<p begin="5306800000t" end="5331600000t" region="Region_03" xml:id="subtitle135"><span style="style_3">Drogas, dientes, costillas rotas.</span></p>
+<p begin="5336000000t" end="5353600000t" region="Region_04" xml:id="subtitle136"><span style="style_3">Es el rey de las peleas</span><br/><span style="style_3">de discoteca.</span></p>
+<p begin="5354400000t" end="5368000000t" region="Region_00" xml:id="subtitle137"><span style="style_3">Pura sangre caliente.</span></p>
+<p begin="5368800000t" end="5396800000t" region="Region_04" xml:id="subtitle138"><span style="style_3">En un plan perfecto,</span><br/><span style="style_3">una bomba de relojería.</span></p>
+<p begin="5435200000t" end="5452000000t" region="Region_00" xml:id="subtitle139"><span style="style_3">Río. Es mi debilidad.</span></p>
+<p begin="5455600000t" end="5478000000t" region="Region_02" xml:id="subtitle140"><span style="style_3">Es como un Mozart,</span><br/><span style="style_3">pero con los ordenadores.</span></p>
+<p begin="5488000000t" end="5521200000t" region="Region_04" xml:id="subtitle141"><span style="style_3">Programa desde los 6 años y lo sabe</span><br/><span style="style_3">todo de alarmas y electrónica.</span></p>
+<p begin="5522000000t" end="5552800000t" region="Region_04" xml:id="subtitle142"><span style="style_3">Para el resto de cosas de la vida</span><br/><span style="style_3">es como si hubiera nacido ayer.</span></p>
+<p begin="5561600000t" end="5590000000t" region="Region_04" xml:id="subtitle143"><span style="style_3">Y ahí están los siameses,</span><br/><span style="style_3">Helsinki y Oslo.</span></p>
+<p begin="5590800000t" end="5616000000t" region="Region_02" xml:id="subtitle144"><span style="style_3">Hasta en el plan más sofisticado</span><br/><span style="style_3">hacen falta soldados</span></p>
+<p begin="5617600000t" end="5632000000t" region="Region_00" xml:id="subtitle145"><span style="style_3">y qué mejor que dos serbios.</span></p>
+<p begin="5632800000t" end="5666800000t" region="Region_04" xml:id="subtitle146"><span style="style_3">Puede que piensen, pero,</span><br/><span style="style_3">francamente, nunca lo sabremos.</span></p>
+<p begin="5679600000t" end="5694800000t" region="Region_00" xml:id="subtitle147"><span style="style_3">Nairobi,</span></p>
+<p begin="5695600000t" end="5711600000t" region="Region_03" xml:id="subtitle148"><span style="style_3">optimista empedernida.</span></p>
+<p begin="5712400000t" end="5738000000t" region="Region_02" xml:id="subtitle149"><span style="style_3">Ha falsificado billetes</span><br/><span style="style_3">desde los 13 años.</span></p>
+<p begin="5738800000t" end="5759200000t" region="Region_04" xml:id="subtitle150"><span style="style_3">Y ahora es</span><br/><span style="style_3">nuestra encargada de calidad.</span></p>
+<p begin="5768000000t" end="5801200000t" region="Region_04" xml:id="subtitle151"><span style="style_3">Es posible que esté loca,</span><br/><span style="style_3">pero tiene tanta gracia la 'jodía'".</span></p>
+<p begin="5812000000t" end="5858400000t" region="Region_04" xml:id="subtitle152"><span style="style_4">Pensad que cada día los telediarios</span><br/><span style="style_4">estarán hablando de nosotros,</span></p>
+<p begin="5859200000t" end="5890400000t" region="Region_04" xml:id="subtitle153"><span style="style_4">que cada familia de este país</span><br/><span style="style_4">se estará preguntando</span></p>
+<p begin="5895600000t" end="5908400000t" region="Region_00" xml:id="subtitle154"><span style="style_4">qué estamos haciendo.</span></p>
+<p begin="5922000000t" end="5937200000t" region="Region_00" xml:id="subtitle155"><span style="style_4">¿Y sabéis lo que van a pensar?</span></p>
+<p begin="5968000000t" end="5996400000t" region="Region_04" xml:id="subtitle156"><span style="style_4">Van a pensar: "Qué cabrones,</span><br/><span style="style_4">ojalá se me hubiera ocurrido a mí".</span></p>
+<p begin="5998400000t" end="6028800000t" region="Region_04" xml:id="subtitle157"><span style="style_3">"El Profesor,</span><br/><span style="style_3">sin antecedentes, sin registro.</span></p>
+<p begin="6029600000t" end="6059200000t" region="Region_04" xml:id="subtitle158"><span style="style_3">La última vez</span><br/><span style="style_3">que renovó el DNI fue con 19 años.</span></p>
+<p begin="6062400000t" end="6106000000t" region="Region_04" xml:id="subtitle159"><span style="style_3">A todos los efectos, un fantasma,</span><br/><span style="style_3">pero un fantasma muy inteligente".</span></p>
+<p begin="6106800000t" end="6144400000t" region="Region_04" xml:id="subtitle160"><span style="style_4">No vamos a robar...</span><br/><span style="style_4">el dinero de nadie,</span></p>
+<p begin="6160400000t" end="6182800000t" region="Region_04" xml:id="subtitle161"><span style="style_4">porque les vamos a caer</span><br/><span style="style_4">hasta simpáticos.</span></p>
+<p begin="6192000000t" end="6224800000t" region="Region_04" xml:id="subtitle162"><span style="style_4">Y eso es fundamental, es fundamental</span><br/><span style="style_4">que tengamos la opinión pública</span></p>
+<p begin="6225600000t" end="6238000000t" region="Region_00" xml:id="subtitle163"><span style="style_4">de nuestra parte.</span></p>
+<p begin="6279600000t" end="6306000000t" region="Region_04" xml:id="subtitle164"><span style="style_4">Vamos a ser los puñeteros héroes</span><br/><span style="style_4">de toda esta gente.</span></p>
+<p begin="6324400000t" end="6355600000t" region="Region_04" xml:id="subtitle165"><span style="style_4">Pero mucho cuidado,</span><br/><span style="style_4">porque en el momento en que haya</span></p>
+<p begin="6356400000t" end="6383600000t" region="Region_04" xml:id="subtitle166"><span style="style_4">una sola gota de sangre,</span><br/><span style="style_4">esto es muy importante,</span></p>
+<p begin="6386400000t" end="6403600000t" region="Region_00" xml:id="subtitle167"><span style="style_4">como haya una sola víctima,</span></p>
+<p begin="6410400000t" end="6427200000t" region="Region_00" xml:id="subtitle168"><span style="style_4">dejaremos de ser unos Robin Hood</span></p>
+<p begin="6428000000t" end="6454800000t" region="Region_04" xml:id="subtitle169"><span style="style_4">para convertirnos simplemente</span><br/><span style="style_4">en unos hijos de puta.</span></p>
+<p begin="6465600000t" end="6476400000t" region="Region_00" xml:id="subtitle170"><span style="style_3">Profesor.</span></p>
+<p begin="6492400000t" end="6506000000t" region="Region_00" xml:id="subtitle171"><span style="style_4">Señorita Tokio.</span></p>
+<p begin="6522800000t" end="6537600000t" region="Region_00" xml:id="subtitle172"><span style="style_3">¿Qué vamos a robar?</span></p>
+<p begin="6607200000t" end="6628000000t" region="Region_04" xml:id="subtitle173"><span style="style_4">La Fábrica Nacional</span><br/><span style="style_4">de Moneda y Timbre.</span></p>
+<p begin="7477200000t" end="7490800000t" region="Region_00" xml:id="subtitle174"><span style="style_1">¿Quién eligió la careta?</span></p>
+<p begin="7491600000t" end="7516400000t" region="Region_04" xml:id="subtitle175"><span style="style_1">(BERLÍN) ¿Qué le pasa a la careta?</span><br/><span style="style_1">-Que no da miedo.</span></p>
+<p begin="7519200000t" end="7546400000t" region="Region_02" xml:id="subtitle176"><span style="style_1">Tú ves las pelis de atracadores</span><br/><span style="style_1">y las caretas dan miedo.</span></p>
+<p begin="7550400000t" end="7580400000t" region="Region_02" xml:id="subtitle177"><span style="style_1">Son zombis, esqueletos,</span><br/><span style="style_1">la muerte, yo qué sé, sientes...</span></p>
+<p begin="7593600000t" end="7607200000t" region="Region_03" xml:id="subtitle178"><span style="style_1">(BERLÍN) Con un arma en la mano</span></p>
+<p begin="7608000000t" end="7631600000t" region="Region_02" xml:id="subtitle179"><span style="style_1">te aseguro que da más miedo</span><br/><span style="style_1">un loco que un esqueleto.</span></p>
+<p begin="7632400000t" end="7658800000t" region="Region_02" xml:id="subtitle180"><span style="style_1">-Venga ya.</span><br/><span style="style_1">-¿Quién era el payo este del bigote?</span></p>
+<p begin="7672800000t" end="7708400000t" region="Region_02" xml:id="subtitle181"><span style="style_1">-Dalí, hijo, un pintor español.</span><br/><span style="style_1">Era muy bueno.</span></p>
+<p begin="7711600000t" end="7727200000t" region="Region_02" xml:id="subtitle182"><span style="style_1">-Un pintor.</span><br/><span style="style_1">-Sí.</span></p>
+<p begin="7729200000t" end="7755200000t" region="Region_02" xml:id="subtitle183"><span style="style_1">-Un pintor de pintar.</span><br/><span style="style_1">-Sí.</span></p>
+<p begin="7756000000t" end="7766400000t" region="Region_03" xml:id="subtitle184"><span style="style_1">-(RESOPLA)</span></p>
+<p begin="7767200000t" end="7800800000t" region="Region_02" xml:id="subtitle185"><span style="style_1">¿Tú sabes lo que da miedo de</span><br/><span style="style_1">cojones? Los muñecos de los críos.</span></p>
+<p begin="7801600000t" end="7815200000t" region="Region_00" xml:id="subtitle186"><span style="style_1">Eso sí que da miedo.</span></p>
+<p begin="7825600000t" end="7837200000t" region="Region_00" xml:id="subtitle187"><span style="style_1">-¿Qué muñecos?</span></p>
+<p begin="7838000000t" end="7859200000t" region="Region_04" xml:id="subtitle188"><span style="style_1">-El Goofy, el Pluto,</span><br/><span style="style_1">el Mickey Mouse, todos estos.</span></p>
+<p begin="7860000000t" end="7882800000t" region="Region_04" xml:id="subtitle189"><span style="style_1">-¿Un ratón con orejas da más miedo,</span><br/><span style="style_1">eso me dices?</span></p>
+<p begin="7883600000t" end="7906400000t" region="Region_04" xml:id="subtitle190"><span style="style_1">-Pues sí, gilipollas.</span><br/><span style="style_1">¿Quieres que te dé un guantazo?</span></p>
+<p begin="7907200000t" end="7925200000t" region="Region_04" xml:id="subtitle191"><span style="style_1">-¡Eh!</span><br/><span style="style_1">-Que tengo razón. Vamos a ver.</span></p>
+<p begin="7927600000t" end="7958000000t" region="Region_04" xml:id="subtitle192"><span style="style_1">Si un payo a punta de pistola</span><br/><span style="style_1">entra con una careta de Mickey Mouse</span></p>
+<p begin="7958800000t" end="7984800000t" region="Region_04" xml:id="subtitle193"><span style="style_1">a cualquier lado,</span><br/><span style="style_1">le peña pensará que está colgado,</span></p>
+<p begin="7985600000t" end="8004000000t" region="Region_04" xml:id="subtitle194"><span style="style_1">que liará una carnicería.</span><br/><span style="style_1">¿Sabes por qué?</span></p>
+<p begin="8004800000t" end="8025600000t" region="Region_00" xml:id="subtitle195"><span style="style_1">Porque las armas y los niños</span></p>
+<p begin="8029200000t" end="8048000000t" region="Region_04" xml:id="subtitle196"><span style="style_1">son una cosa</span><br/><span style="style_1">que no se juntan nunca, papa.</span></p>
+<p begin="8048800000t" end="8077200000t" region="Region_04" xml:id="subtitle197"><span style="style_1">¿Sí o no?</span><br/><span style="style_1">-Visto así, sería más peligroso,</span></p>
+<p begin="8088800000t" end="8099200000t" region="Region_00" xml:id="subtitle198"><span style="style_1">más retorcido.</span></p>
+<p begin="8100000000t" end="8131200000t" region="Region_04" xml:id="subtitle199"><span style="style_1">-Entonces una careta de Jesucristo</span><br/><span style="style_1">acojonaría más, es más inocente.</span></p>
+<p begin="8132000000t" end="8159200000t" region="Region_04" xml:id="subtitle200"><span style="style_1">-Por eso dice que pega menos</span><br/><span style="style_1">que a un Cristo dos pistolas.</span></p>
+<p begin="8160000000t" end="8181600000t" region="Region_04" xml:id="subtitle201"><span style="style_1">-Como a un santo dos pistolas.</span><br/><span style="style_1">(MOSCÚ) ¿Qué más da?</span></p>
+<p begin="8182400000t" end="8205200000t" region="Region_04" xml:id="subtitle202"><span style="style_3">"Era evidente</span><br/><span style="style_3">que en la banda faltaban mujeres".</span></p>
+<p begin="8206000000t" end="8214400000t" region="Region_01" xml:id="subtitle203"><span style="style_1">(Frenazo)</span></p>
+<p begin="8215200000t" end="8247200000t" region="Region_04" xml:id="subtitle204"><span style="style_3">"Una mujer puede tirarse dos días</span><br/><span style="style_3">eligiendo zapatos para una boda,</span></p>
+<p begin="8248000000t" end="8284800000t" region="Region_04" xml:id="subtitle205"><span style="style_3">pero jamás emplearía un minuto</span><br/><span style="style_3">en elegir caretas para un atraco.</span></p>
+<p begin="8474800000t" end="8506000000t" region="Region_04" xml:id="subtitle206"><span style="style_3">Todo lo que habíamos planeado</span><br/><span style="style_3">empezaba ahora</span></p>
+<p begin="8506800000t" end="8541200000t" region="Region_04" xml:id="subtitle207"><span style="style_3">y en esas décimas de segundo</span><br/><span style="style_3">pensé en toda la gente inocente</span></p>
+<p begin="8542000000t" end="8564800000t" region="Region_04" xml:id="subtitle208"><span style="style_3">a la que detendríamos en seco</span><br/><span style="style_3">su vida.</span></p>
+<p begin="8669600000t" end="8694800000t" region="Region_02" xml:id="subtitle209"><span style="style_3">El Profesor sabía</span><br/><span style="style_3">que solo había una manera de entrar</span></p>
+<p begin="8695600000t" end="8720000000t" region="Region_02" xml:id="subtitle210"><span style="style_3">en la Fábrica de Moneda y Timbre</span><br/><span style="style_3">con tres toneladas</span></p>
+<p begin="8720800000t" end="8748000000t" region="Region_04" xml:id="subtitle211"><span style="style_3">de artefactos de arsenal.</span><br/><span style="style_3">Iba a hacerlo dentro del camión</span></p>
+<p begin="8748800000t" end="8765200000t" region="Region_04" xml:id="subtitle212"><span style="style_3">que entraba cada semana</span><br/><span style="style_3">en el edificio</span></p>
+<p begin="8766000000t" end="8797200000t" region="Region_04" xml:id="subtitle213"><span style="style_3">con las nuevas bobinas de papel</span><br/><span style="style_3">moneda listas para imprimir.</span></p>
+<p begin="8816400000t" end="8833200000t" region="Region_00" xml:id="subtitle214"><span style="style_3">Y eso era lo que íbamos a hacer,</span></p>
+<p begin="8834000000t" end="8870400000t" region="Region_04" xml:id="subtitle215"><span style="style_3">entrar hasta la cocina y escoltados</span><br/><span style="style_3">por la mismísima Policía Nacional.</span></p>
+<p begin="8938800000t" end="8970800000t" region="Region_02" xml:id="subtitle216"><span style="style_3">En España, cualquier cosa</span><br/><span style="style_3">custodiada por dos zetas</span></p>
+<p begin="8971600000t" end="8993200000t" region="Region_00" xml:id="subtitle217"><span style="style_3">es algo fuertemente protegido".</span></p>
+<p begin="8994000000t" end="9011200000t" region="Region_01" xml:id="subtitle218"><span style="style_1">(Sirenas)</span></p>
+<p begin="9020400000t" end="9039600000t" region="Region_04" xml:id="subtitle219"><span style="style_3">"Pero si inhibes</span><br/><span style="style_3">cualquier posibilidad</span></p>
+<p begin="9040400000t" end="9062400000t" region="Region_04" xml:id="subtitle220"><span style="style_3">de que se comuniquen</span><br/><span style="style_3">por radio o telefonía</span></p>
+<p begin="9063200000t" end="9084000000t" region="Region_04" xml:id="subtitle221"><span style="style_3">y si apuntas</span><br/><span style="style_3">a unos chavales de 26 años</span></p>
+<p begin="9084800000t" end="9104400000t" region="Region_04" xml:id="subtitle222"><span style="style_3">con cinco fusiles de asalto</span><br/><span style="style_3">a la cabeza,</span></p>
+<p begin="9105200000t" end="9118000000t" region="Region_00" xml:id="subtitle223"><span style="style_3">por más armados que vayan,</span></p>
+<p begin="9118800000t" end="9149200000t" region="Region_04" xml:id="subtitle224"><span style="style_3">les ocurre lo mismo que nos pasaría</span><br/><span style="style_3">a cualquiera de nosotros".</span></p>
+<p begin="9150000000t" end="9176800000t" region="Region_04" xml:id="subtitle225"><span style="style_1">¡He dicho que bajes, coño,</span><br/><span style="style_1">del puto coche!</span></p>
+<p begin="9177600000t" end="9204000000t" region="Region_04" xml:id="subtitle226"><span style="style_3">"Que se cagan de miedo".</span><br/><span style="style_1">¡Vas a hacer lo que te digo!</span></p>
+<p begin="9204800000t" end="9225600000t" region="Region_04" xml:id="subtitle227"><span style="style_3">"El valor y el heroísmo</span><br/><span style="style_3">tienen un precio</span></p>
+<p begin="9226400000t" end="9246000000t" region="Region_04" xml:id="subtitle228"><span style="style_3">y es mayor</span><br/><span style="style_3">que los 1.600 euros al mes</span></p>
+<p begin="9246800000t" end="9278400000t" region="Region_04" xml:id="subtitle229"><span style="style_3">que cobra un chaval con uniforme..."</span><br/><span style="style_1">Abre la puerta del camión, ¿me oyes?</span></p>
+<p begin="9279200000t" end="9295200000t" region="Region_00" xml:id="subtitle230"><span style="style_3">"...o un camionero".</span></p>
+<p begin="9297200000t" end="9314000000t" region="Region_00" xml:id="subtitle231"><span style="style_1">¡Venga, coño, abre!</span></p>
+<p begin="9345600000t" end="9364800000t" region="Region_04" xml:id="subtitle232"><span style="style_3">"Si esos hombres</span><br/><span style="style_3">hubieran tenido a su hija</span></p>
+<p begin="9365600000t" end="9389200000t" region="Region_04" xml:id="subtitle233"><span style="style_3">en la trasera del camión,</span><br/><span style="style_3">nunca hubieran abierto,</span></p>
+<p begin="9390000000t" end="9400400000t" region="Region_00" xml:id="subtitle234"><span style="style_3">pero ¿a quién le importan</span></p>
+<p begin="9401200000t" end="9422400000t" region="Region_04" xml:id="subtitle235"><span style="style_3">unas bobinas de papel moneda</span><br/><span style="style_3">con marca de agua?".</span></p>
+<p begin="9454800000t" end="9474400000t" region="Region_00" xml:id="subtitle236"><span style="style_1">¡Deprisa, deprisa!</span></p>
+<p begin="9480000000t" end="9500800000t" region="Region_00" xml:id="subtitle237"><span style="style_1">¡Joder, macho! ¡Venga!</span></p>
+<p begin="9527600000t" end="9541600000t" region="Region_00" xml:id="subtitle238"><span style="style_1">(NAIROBI) ¡Tira, tira, tira!</span></p>
+<p begin="9542400000t" end="9566400000t" region="Region_04" xml:id="subtitle239"><span style="style_1">Ahí sentado.</span><br/><span style="style_1">Y ahora tranquilitos los tres;</span></p>
+<p begin="9567200000t" end="9586800000t" region="Region_00" xml:id="subtitle240"><span style="style_1">si no, culatazo en la cabeza.</span></p>
+<p begin="9606400000t" end="9632800000t" region="Region_04" xml:id="subtitle241"><span style="style_1">(BERLÍN) Conduciréis</span><br/><span style="style_1">con una pistola en los riñones.</span></p>
+<p begin="9633600000t" end="9658800000t" region="Region_04" xml:id="subtitle242"><span style="style_1">Cuando llamen por radio</span><br/><span style="style_1">para saber qué tal va todo,</span></p>
+<p begin="9659600000t" end="9690000000t" region="Region_04" xml:id="subtitle243"><span style="style_1">contestareis con tranquilidad,</span><br/><span style="style_1">como si todo fuera sobre ruedas.</span></p>
+<p begin="9698800000t" end="9708800000t" region="Region_00" xml:id="subtitle244"><span style="style_1">¿Está claro?</span></p>
+<p begin="9751200000t" end="9771600000t" region="Region_04" xml:id="subtitle245"><span style="style_3">"Y en mitad</span><br/><span style="style_3">de aquel caos con pistolas</span></p>
+<p begin="9772400000t" end="9800800000t" region="Region_04" xml:id="subtitle246"><span style="style_3">recordé que la noche anterior</span><br/><span style="style_3">me habían pedido matrimonio</span></p>
+<p begin="9801600000t" end="9828400000t" region="Region_04" xml:id="subtitle247"><span style="style_3">y que hubiera preferido</span><br/><span style="style_3">otros planes.</span></p>
+<p begin="9829200000t" end="9840800000t" region="Region_00" xml:id="subtitle248"><span style="style_3">Pero si lo piensas,</span></p>
+<p begin="9841600000t" end="9867200000t" region="Region_04" xml:id="subtitle249"><span style="style_3">nunca encuentras un buen día</span><br/><span style="style_3">para un atraco".</span></p>
+<p begin="9879200000t" end="9899200000t" region="Region_04" xml:id="subtitle250"><span style="style_1">Ahora ya sabes</span><br/><span style="style_1">lo que tienes que hacer.</span></p>
+<p begin="9907600000t" end="9922000000t" region="Region_00" xml:id="subtitle251"><span style="style_1">No le quites ojo a la niña.</span></p>
+<p begin="9926400000t" end="9949200000t" region="Region_00" xml:id="subtitle252"><span style="style_1">No puede haber errores, ¿estamos?</span></p>
+<p begin="9950000000t" end="9965600000t" region="Region_00" xml:id="subtitle253"><span style="style_3">Tiene 17 años.</span></p>
+<p begin="9978800000t" end="9994400000t" region="Region_00" xml:id="subtitle254"><span style="style_3">Creo que podré con ella.</span></p>
+<p begin="10050400000t" end="10078400000t" region="Region_01" xml:id="subtitle255"><span style="style_1">(Voces a lo lejos)</span></p>
+<p begin="10112800000t" end="10128400000t" region="Region_01" xml:id="subtitle256"><span style="style_1">(Risas)</span></p>
+<p begin="10299200000t" end="10312800000t" region="Region_01" xml:id="subtitle257"><span style="style_1">(Mensaje de móvil)</span></p>
+<p begin="10592400000t" end="10603600000t" region="Region_00" xml:id="subtitle258"><span style="style_1">Hola.</span></p>
+<p begin="10630400000t" end="10640400000t" region="Region_00" xml:id="subtitle259"><span style="style_1">-Hola.</span></p>
+<p begin="10692800000t" end="10707600000t" region="Region_00" xml:id="subtitle260"><span style="style_1">-¿Quieres salir conmigo?</span></p>
+<p begin="10759200000t" end="10772800000t" region="Region_00" xml:id="subtitle261"><span style="style_1">Vale. Te dejo.</span></p>
+<p begin="10779200000t" end="10792000000t" region="Region_00" xml:id="subtitle262"><span style="style_1">-No, no, no.</span></p>
+<p begin="10811200000t" end="10861600000t" region="Region_04" xml:id="subtitle263"><span style="style_1">Que no me lo tengo que pensar.</span><br/><span style="style_1">O sea, que sí.</span></p>
+<p begin="11165600000t" end="11187600000t" region="Region_04" xml:id="subtitle264"><span style="style_1">(MUJER) Bueno, chicos,</span><br/><span style="style_1">ya hemos llegado.</span></p>
+<p begin="11188400000t" end="11217600000t" region="Region_04" xml:id="subtitle265"><span style="style_1">Vamos a ir directamente</span><br/><span style="style_1">al vestíbulo del museo, donde...</span></p>
+<p begin="11218400000t" end="11238400000t" region="Region_04" xml:id="subtitle266"><span style="style_1">Pedro, haz el favor,</span><br/><span style="style_1">no hagas como en clase.</span></p>
+<p begin="11239200000t" end="11268000000t" region="Region_04" xml:id="subtitle267"><span style="style_1">Vamos a salir ordenadamente</span><br/><span style="style_1">por las dos puertas...</span></p>
+<p begin="11355600000t" end="11388800000t" region="Region_04" xml:id="subtitle268"><span style="style_1">Y esta es la fachada</span><br/><span style="style_1">de la Fábrica de la Moneda y Timbre.</span></p>
+<p begin="11458800000t" end="11474800000t" region="Region_00" xml:id="subtitle269"><span style="style_3">El corderito está entrando.</span></p>
+<p begin="11498000000t" end="11511200000t" region="Region_00" xml:id="subtitle270"><span style="style_4">Perfecto.</span></p>
+<p begin="11524400000t" end="11538000000t" region="Region_00" xml:id="subtitle271"><span style="style_4">Berlín, tu turno.</span></p>
+<p begin="11548800000t" end="11578800000t" region="Region_01" xml:id="subtitle272"><span style="style_1">(Sirena)</span></p>
+<p begin="11599600000t" end="11624400000t" region="Region_04" xml:id="subtitle273"><span style="style_1">(BERLÍN) Y ahora,</span><br/><span style="style_1">mucho cuidadito con lo que haces.</span></p>
+<p begin="11649600000t" end="11670000000t" region="Region_04" xml:id="subtitle274"><span style="style_1">-¿Qué tal, Javi?</span><br/><span style="style_1">¿Dónde está Rafita?</span></p>
+<p begin="11675600000t" end="11710000000t" region="Region_04" xml:id="subtitle275"><span style="style_1">-Cambio de turno.</span><br/><span style="style_1">(TOSE)</span></p>
+<p begin="11718000000t" end="11733200000t" region="Region_00" xml:id="subtitle276"><span style="style_1">(ESTORNUDA)</span></p>
+<p begin="11767200000t" end="11793600000t" region="Region_00" xml:id="subtitle277"><span style="style_1">-Eso está muy bien. Tranquilo.</span></p>
+<p begin="11815600000t" end="11838400000t" region="Region_04" xml:id="subtitle278"><span style="style_1">(PROFESORA)</span><br/><span style="style_1">Vale, chicos, vamos entrando.</span></p>
+<p begin="11840400000t" end="11851200000t" region="Region_00" xml:id="subtitle279"><span style="style_1">Despacito.</span></p>
+<p begin="11852000000t" end="11887600000t" region="Region_00" xml:id="subtitle280"><span style="style_1">(HABLA SIN QUE APENAS SE OIGA)</span></p>
+<p begin="11897200000t" end="11925600000t" region="Region_04" xml:id="subtitle281"><span style="style_1">Esto es importante. En cuanto</span><br/><span style="style_1">nos den las acreditaciones...</span></p>
+<p begin="11946000000t" end="11966400000t" region="Region_04" xml:id="subtitle282"><span style="style_1">Las acreditaciones</span><br/><span style="style_1">colgadas del cuello.</span></p>
+<p begin="11967200000t" end="11995600000t" region="Region_04" xml:id="subtitle283"><span style="style_1">Tienen que estar visibles</span><br/><span style="style_1">durante toda la visita, ¿vale?</span></p>
+<p begin="12129600000t" end="12144400000t" region="Region_00" xml:id="subtitle284"><span style="style_5">No te vuelvas.</span></p>
+<p begin="12154800000t" end="12182000000t" region="Region_04" xml:id="subtitle285"><span style="style_5">Cuando estás cerca,</span><br/><span style="style_5">a mí me cuesta hasta respirar.</span></p>
+<p begin="12185200000t" end="12200000000t" region="Region_00" xml:id="subtitle286"><span style="style_6">Pues respira,</span></p>
+<p begin="12203600000t" end="12233200000t" region="Region_04" xml:id="subtitle287"><span style="style_6">porque dentro de nueve meses sí que</span><br/><span style="style_6">se te va a cortar la respiración.</span></p>
+<p begin="12310400000t" end="12323200000t" region="Region_00" xml:id="subtitle288"><span style="style_1">Adelante.</span></p>
+<p begin="12372400000t" end="12401600000t" region="Region_04" xml:id="subtitle289"><span style="style_1">(PROFESORA) Bien visible</span><br/><span style="style_1">durante toda la visita, chicos.</span></p>
+<p begin="12402400000t" end="12440000000t" region="Region_04" xml:id="subtitle290"><span style="style_1">Acreditación colgada al cuello.</span><br/><span style="style_1">Bajad la voz.</span></p>
+<p begin="12507200000t" end="12532800000t" region="Region_04" xml:id="subtitle291"><span style="style_1">Berlín,</span><br/><span style="style_1">la primera cámara, a tu izquierda.</span></p>
+<p begin="12796000000t" end="12810400000t" region="Region_00" xml:id="subtitle292"><span style="style_6">¿No me vas a decir nada? ¿Te digo</span></p>
+<p begin="12811200000t" end="12832400000t" region="Region_04" xml:id="subtitle293"><span style="style_6">que estoy embarazada</span><br/><span style="style_6">y te quedas tan tranquilo?</span></p>
+<p begin="12833200000t" end="12858000000t" region="Region_04" xml:id="subtitle294"><span style="style_5">¿Qué hago, llamo a mi mujer,</span><br/><span style="style_5">le digo que recoja a los niños</span></p>
+<p begin="12858800000t" end="12880000000t" region="Region_04" xml:id="subtitle295"><span style="style_5">y nos vamos todos a celebrarlo?</span><br/><span style="style_5">Por amor de Dios.</span></p>
+<p begin="12896000000t" end="12924800000t" region="Region_00" xml:id="subtitle296"><span style="style_1">(POLICÍA) Tira, tira. Dale, dale.</span></p>
+<p begin="12983600000t" end="12998000000t" region="Region_00" xml:id="subtitle297"><span style="style_1">(RÍO) Entrando.</span></p>
+<p begin="13009200000t" end="13023600000t" region="Region_00" xml:id="subtitle298"><span style="style_4">Atenta, Tokio.</span></p>
+<p begin="13108800000t" end="13118400000t" region="Region_00" xml:id="subtitle299"><span style="style_1">¡Bien!</span></p>
+<p begin="13121200000t" end="13142400000t" region="Region_04" xml:id="subtitle300"><span style="style_1">"Alarmas desconectadas".</span><br/><span style="style_4">Ahora.</span></p>
+<p begin="13186800000t" end="13203600000t" region="Region_00" xml:id="subtitle301"><span style="style_1">Sigue, dale, dale.</span></p>
+<p begin="13214400000t" end="13234800000t" region="Region_04" xml:id="subtitle302"><span style="style_6">Eras tú ayer</span><br/><span style="style_6">el que decías que estabais mal,</span></p>
+<p begin="13235600000t" end="13256000000t" region="Region_04" xml:id="subtitle303"><span style="style_6">que no la aguantas,</span><br/><span style="style_6">que tenéis problemas.</span></p>
+<p begin="13256800000t" end="13275600000t" region="Region_04" xml:id="subtitle304"><span style="style_5">Problemas como cualquier pareja,</span><br/><span style="style_5">Mónica,</span></p>
+<p begin="13276400000t" end="13297600000t" region="Region_04" xml:id="subtitle305"><span style="style_5">como cualquier matrimonio</span><br/><span style="style_5">que tiene tres hijos,</span></p>
+<p begin="13298400000t" end="13309600000t" region="Region_00" xml:id="subtitle306"><span style="style_5">no que me fuera a separar.</span></p>
+<p begin="13409200000t" end="13451200000t" region="Region_04" xml:id="subtitle307"><span style="style_5">Mónica, he tenido tres hijos,</span><br/><span style="style_5">los tres por fecundación in vitro,</span></p>
+<p begin="13452000000t" end="13480400000t" region="Region_04" xml:id="subtitle308"><span style="style_5">llevo más de 20 años manteniendo</span><br/><span style="style_5">relaciones estériles con mi mujer</span></p>
+<p begin="13481200000t" end="13494800000t" region="Region_00" xml:id="subtitle309"><span style="style_5">y ahora vienes a contarme esto.</span></p>
+<p begin="13507200000t" end="13536800000t" region="Region_04" xml:id="subtitle310"><span style="style_5">Tú debes de ser Shiva,</span><br/><span style="style_5">la diosa de la fertilidad.</span></p>
+<p begin="13718800000t" end="13733200000t" region="Region_00" xml:id="subtitle311"><span style="style_6">"¿Qué estás insinuando?".</span></p>
+<p begin="13734000000t" end="13758000000t" region="Region_04" xml:id="subtitle312"><span style="style_6">Yo no he venido aquí</span><br/><span style="style_6">a por una pensión, ¿sabes?</span></p>
+<p begin="13770400000t" end="13784400000t" region="Region_00" xml:id="subtitle313"><span style="style_6">Ni a por un divorcio,</span></p>
+<p begin="13792400000t" end="13818400000t" region="Region_04" xml:id="subtitle314"><span style="style_6">y mucho menos</span><br/><span style="style_6">a por una prueba de paternidad.</span></p>
+<p begin="13897600000t" end="13911600000t" region="Region_00" xml:id="subtitle315"><span style="style_6">Creía que tú me querías.</span></p>
+<p begin="13922400000t" end="13932400000t" region="Region_00" xml:id="subtitle316"><span style="style_6">Y...</span></p>
+<p begin="13945200000t" end="13963200000t" region="Region_00" xml:id="subtitle317"><span style="style_6">Y me parece una idea bonita.</span></p>
+<p begin="14004800000t" end="14029600000t" region="Region_04" xml:id="subtitle318"><span style="style_6">Difícil de encajar</span><br/><span style="style_6">en nuestras vidas, pero...</span></p>
+<p begin="14042400000t" end="14058000000t" region="Region_00" xml:id="subtitle319"><span style="style_6">Pero una idea maravillosa.</span></p>
+<p begin="14242800000t" end="14251600000t" region="Region_00" xml:id="subtitle320"><span style="style_5">¡Escucha!</span></p>
+<p begin="14258800000t" end="14284400000t" region="Region_04" xml:id="subtitle321"><span style="style_6">¿Qué, quieres saber</span><br/><span style="style_6">qué voy a hacer con tu niño?</span></p>
+<p begin="14290800000t" end="14317200000t" region="Region_04" xml:id="subtitle322"><span style="style_6">Eso es lo que quieres, ¿no?</span><br/><span style="style_5">Escúchame, no te precipites.</span></p>
+<p begin="14327200000t" end="14349200000t" region="Region_00" xml:id="subtitle323"><span style="style_6">(GRITA)</span></p>
+<p begin="14350000000t" end="14360000000t" region="Region_00" xml:id="subtitle324"><span style="style_1">¡Quietos!</span></p>
+<p begin="14390800000t" end="14404000000t" region="Region_00" xml:id="subtitle325"><span style="style_1">(BERLÍN) Quieto.</span></p>
+<p begin="14453600000t" end="14479200000t" region="Region_04" xml:id="subtitle326"><span style="style_3">¡Quieto!</span><br/><span style="style_3">¡No te muevas o te reviento!</span></p>
+<p begin="14480000000t" end="14506400000t" region="Region_04" xml:id="subtitle327"><span style="style_1">¿Qué pasa? ¡Haz algo!</span><br/><span style="style_1">-¡Arriba, arriba!</span></p>
+<p begin="14514800000t" end="14527600000t" region="Region_00" xml:id="subtitle328"><span style="style_1">-¡Salgan!</span></p>
+<p begin="14542800000t" end="14557200000t" region="Region_00" xml:id="subtitle329"><span style="style_1">(GRITAN)</span></p>
+<p begin="14558000000t" end="14576000000t" region="Region_01" xml:id="subtitle330"><span style="style_1">(Gritos)</span></p>
+<p begin="14579600000t" end="14598000000t" region="Region_00" xml:id="subtitle331"><span style="style_1">"¡Vamos, vamos!".</span></p>
+<p begin="14606800000t" end="14621600000t" region="Region_00" xml:id="subtitle332"><span style="style_1">¡Rápido! ¡Quietos!</span></p>
+<p begin="14631600000t" end="14647600000t" region="Region_00" xml:id="subtitle333"><span style="style_1">¡Vamos, vamos!</span></p>
+<p begin="14648400000t" end="14661600000t" region="Region_00" xml:id="subtitle334"><span style="style_1">¡Vamos!</span></p>
+<p begin="14664000000t" end="14674400000t" region="Region_00" xml:id="subtitle335"><span style="style_1">¡Sí, sí!</span></p>
+<p begin="14740000000t" end="14749200000t" region="Region_00" xml:id="subtitle336"><span style="style_1">Mierda.</span></p>
+<p begin="14809200000t" end="14822800000t" region="Region_00" xml:id="subtitle337"><span style="style_1">Vamos, vamos.</span></p>
+<p begin="14829600000t" end="14845200000t" region="Region_00" xml:id="subtitle338"><span style="style_1">Por aquí. Vamos.</span></p>
+<p begin="14892400000t" end="14932400000t" region="Region_04" xml:id="subtitle339"><span style="style_1">Y esta escalera maravillosa,</span><br/><span style="style_1">de mármol y granito...</span></p>
+<p begin="14933200000t" end="14950400000t" region="Region_00" xml:id="subtitle340"><span style="style_1">-¡Quietos!</span></p>
+<p begin="14951200000t" end="14965600000t" region="Region_00" xml:id="subtitle341"><span style="style_1">(GRITAN)</span></p>
+<p begin="14977200000t" end="14990400000t" region="Region_00" xml:id="subtitle342"><span style="style_1">¡Quietos!</span></p>
+<p begin="14991200000t" end="15003600000t" region="Region_00" xml:id="subtitle343"><span style="style_1">(GRITAN)</span></p>
+<p begin="15055200000t" end="15068000000t" region="Region_00" xml:id="subtitle344"><span style="style_1">¡Quietos, quietos! ¡Vamos!</span></p>
+<p begin="15068800000t" end="15084400000t" region="Region_00" xml:id="subtitle345"><span style="style_3">¡Atrás!</span></p>
+<p begin="15090800000t" end="15116800000t" region="Region_04" xml:id="subtitle346"><span style="style_1">-¡Por favor, no!</span><br/><span style="style_3">Profesor, tenemos un problema.</span></p>
+<p begin="15117600000t" end="15138000000t" region="Region_04" xml:id="subtitle347"><span style="style_1">¡Ah!</span><br/><span style="style_3">No veo al corderito.</span></p>
+<p begin="15138800000t" end="15157600000t" region="Region_00" xml:id="subtitle348"><span style="style_3">¡No lo veo, coño!</span></p>
+<p begin="15159600000t" end="15204800000t" region="Region_04" xml:id="subtitle349"><span style="style_4">Señorita Parker,</span><br/><span style="style_4">¿adónde se ha metido?</span></p>
+<p begin="15293600000t" end="15309600000t" region="Region_01" xml:id="subtitle350"><span style="style_1">(Gritos)</span></p>
+<p begin="15403200000t" end="15415200000t" region="Region_00" xml:id="subtitle351"><span style="style_1">Espera.</span></p>
+<p begin="15464800000t" end="15497600000t" region="Region_04" xml:id="subtitle352"><span style="style_1">¡Por favor!</span><br/><span style="style_1">-¡Vámonos! ¡Para allá!</span></p>
+<p begin="15582800000t" end="15604400000t" region="Region_00" xml:id="subtitle353"><span style="style_1">Para, para. Para.</span></p>
+<p begin="15610000000t" end="15621200000t" region="Region_00" xml:id="subtitle354"><span style="style_1">-Vale.</span></p>
+<p begin="15640800000t" end="15652800000t" region="Region_00" xml:id="subtitle355"><span style="style_1">Vale, vale.</span></p>
+<p begin="15653600000t" end="15674400000t" region="Region_00" xml:id="subtitle356"><span style="style_1">Estoy yendo muy deprisa. Lo sé.</span></p>
+<p begin="15675200000t" end="15711600000t" region="Region_01" xml:id="subtitle357"><span style="style_1">(Voces y sollozos)</span></p>
+<p begin="15722000000t" end="15743200000t" region="Region_00" xml:id="subtitle358"><span style="style_1">Vamos a inmortalizar esto, ¿no?</span></p>
+<p begin="15801200000t" end="15819200000t" region="Region_04" xml:id="subtitle359"><span style="style_1">Vamos a hacer</span><br/><span style="style_1">una foto con tu móvil.</span></p>
+<p begin="15830000000t" end="15841200000t" region="Region_00" xml:id="subtitle360"><span style="style_3">Joder...</span></p>
+<p begin="15859200000t" end="15883600000t" region="Region_00" xml:id="subtitle361"><span style="style_1">¿Aquí? Es un poco cutre, ¿no?</span></p>
+<p begin="15885200000t" end="15902800000t" region="Region_00" xml:id="subtitle362"><span style="style_1">-Es nuestro primer día.</span></p>
+<p begin="15977600000t" end="15991600000t" region="Region_00" xml:id="subtitle363"><span style="style_1">Estás muy guapa.</span></p>
+<p begin="16008800000t" end="16034800000t" region="Region_00" xml:id="subtitle364"><span style="style_3">No veo a la niña. No la veo, joder.</span></p>
+<p begin="16035600000t" end="16054400000t" region="Region_04" xml:id="subtitle365"><span style="style_1">Ábrete.</span><br/><span style="style_1">Ábrete y ponte un poco sexi.</span></p>
+<p begin="16117600000t" end="16140000000t" region="Region_04" xml:id="subtitle366"><span style="style_1">Que es tu móvil.</span><br/><span style="style_1">Que si quieres, la borras.</span></p>
+<p begin="16140800000t" end="16162000000t" region="Region_04" xml:id="subtitle367"><span style="style_1">Que esto es para nosotros,</span><br/><span style="style_1">para ti y para mí.</span></p>
+<p begin="16188000000t" end="16204000000t" region="Region_00" xml:id="subtitle368"><span style="style_1">Va, va, va.</span></p>
+<p begin="16362000000t" end="16387200000t" region="Region_04" xml:id="subtitle369"><span style="style_1">Con esta foto</span><br/><span style="style_1">lo vas a petar en Internet.</span></p>
+<p begin="16388000000t" end="16414000000t" region="Region_04" xml:id="subtitle370"><span style="style_1">-¡Dame el móvil!</span><br/><span style="style_1">¡Que me des el móvil!</span></p>
+<p begin="16421600000t" end="16434800000t" region="Region_00" xml:id="subtitle371"><span style="style_1">¡Dame el móvil!</span></p>
+<p begin="16435600000t" end="16446000000t" region="Region_00" xml:id="subtitle372"><span style="style_1">¡Dámelo!</span></p>
+<p begin="16446800000t" end="16476800000t" region="Region_04" xml:id="subtitle373"><span style="style_1">¡Que me des el móvil, joder!</span><br/><span style="style_1">¡Que me des el móvil!</span></p>
+<p begin="16477600000t" end="16494000000t" region="Region_00" xml:id="subtitle374"><span style="style_1">¡Dame el móvil!</span></p>
+<p begin="16494800000t" end="16509600000t" region="Region_00" xml:id="subtitle375"><span style="style_1">¡Que me des el móvil!</span></p>
+<p begin="16517200000t" end="16528800000t" region="Region_00" xml:id="subtitle376"><span style="style_1">¡Ah!</span></p>
+<p begin="16863600000t" end="16877600000t" region="Region_01" xml:id="subtitle377"><span style="style_1">(Llantos)</span></p>
+<p begin="16955200000t" end="16970400000t" region="Region_00" xml:id="subtitle378"><span style="style_1">Lo primero...</span></p>
+<p begin="16996400000t" end="17010800000t" region="Region_00" xml:id="subtitle379"><span style="style_1">Buenos días.</span></p>
+<p begin="17066800000t" end="17086400000t" region="Region_00" xml:id="subtitle380"><span style="style_1">Soy la persona que está al mando.</span></p>
+<p begin="17122000000t" end="17143200000t" region="Region_00" xml:id="subtitle381"><span style="style_1">Y, antes de nada, quiero...</span></p>
+<p begin="17151600000t" end="17177200000t" region="Region_00" xml:id="subtitle382"><span style="style_1">presentarles mis disculpas.</span></p>
+<p begin="17206800000t" end="17228800000t" region="Region_04" xml:id="subtitle383"><span style="style_1">Realmente,</span><br/><span style="style_1">no son formas de terminar la semana.</span></p>
+<p begin="17229600000t" end="17241600000t" region="Region_00" xml:id="subtitle384"><span style="style_1">(DENVER) Móvil.</span></p>
+<p begin="17242400000t" end="17267600000t" region="Region_04" xml:id="subtitle385"><span style="style_1">-Pero ustedes están aquí</span><br/><span style="style_1">en calidad de rehenes.</span></p>
+<p begin="17302000000t" end="17312000000t" region="Region_00" xml:id="subtitle386"><span style="style_1">(DENVER) Móvil.</span></p>
+<p begin="17312800000t" end="17337200000t" region="Region_04" xml:id="subtitle387"><span style="style_1">-Si obedecen,</span><br/><span style="style_1">les garantizo que saldrán con vida.</span></p>
+<p begin="17338000000t" end="17358000000t" region="Region_04" xml:id="subtitle388"><span style="style_1">(DENVER) Nombre.</span><br/><span style="style_1">-Alison Parker.</span></p>
+<p begin="17364400000t" end="17384400000t" region="Region_04" xml:id="subtitle389"><span style="style_1">(DENVER) PIN.</span><br/><span style="style_1">(ALISON) 2078.</span></p>
+<p begin="17414000000t" end="17426000000t" region="Region_00" xml:id="subtitle390"><span style="style_1">-Móvil.</span></p>
+<p begin="17456800000t" end="17471600000t" region="Region_00" xml:id="subtitle391"><span style="style_1">-Tranquila, tranquila.</span></p>
+<p begin="17476800000t" end="17492800000t" region="Region_00" xml:id="subtitle392"><span style="style_1">Tranquila.</span></p>
+<p begin="17493600000t" end="17505200000t" region="Region_00" xml:id="subtitle393"><span style="style_1">-PIN.</span></p>
+<p begin="17506000000t" end="17525200000t" region="Region_00" xml:id="subtitle394"><span style="style_5">¿Para qué necesita el PIN?</span></p>
+<p begin="17538400000t" end="17567600000t" region="Region_04" xml:id="subtitle395"><span style="style_1">O me das el puñetero PIN</span><br/><span style="style_1">o te lo saco a culatazos. Tú verás.</span></p>
+<p begin="17577600000t" end="17590000000t" region="Region_00" xml:id="subtitle396"><span style="style_1">-¿De cuánto estás?</span></p>
+<p begin="17590800000t" end="17609200000t" region="Region_00" xml:id="subtitle397"><span style="style_1">-(ATERRADA) De ocho meses.</span></p>
+<p begin="17610000000t" end="17622800000t" region="Region_00" xml:id="subtitle398"><span style="style_1">-De ocho meses.</span></p>
+<p begin="17623600000t" end="17651200000t" region="Region_04" xml:id="subtitle399"><span style="style_1">-PIN.</span><br/><span style="style_5">1234.</span></p>
+<p begin="17680800000t" end="17696800000t" region="Region_04" xml:id="subtitle400"><span style="style_1">Con toda</span><br/><span style="style_1">la cara de listo que tienes</span></p>
+<p begin="17697600000t" end="17722800000t" region="Region_04" xml:id="subtitle401"><span style="style_1">y pones esa mierda de PIN.</span><br/><span style="style_1">Menudo gilipollas. Tu nombre.</span></p>
+<p begin="17723600000t" end="17735200000t" region="Region_04" xml:id="subtitle402"><span style="style_5">Arturo.</span><br/><span style="style_1">-¿Arturo qué?</span></p>
+<p begin="17736000000t" end="17763200000t" region="Region_04" xml:id="subtitle403"><span style="style_5">Arturo Román.</span><br/><span style="style_1">-Arturo Román, muy bien. Arturito.</span></p>
+<p begin="17766800000t" end="17789600000t" region="Region_04" xml:id="subtitle404"><span style="style_1">(BERLÍN) Ustedes son</span><br/><span style="style_1">nuestro salvoconducto aquí,</span></p>
+<p begin="17790400000t" end="17806400000t" region="Region_00" xml:id="subtitle405"><span style="style_1">así que yo les voy a proteger.</span></p>
+<p begin="17850400000t" end="17862000000t" region="Region_00" xml:id="subtitle406"><span style="style_1">-Eh...</span></p>
+<p begin="17889600000t" end="17910400000t" region="Region_00" xml:id="subtitle407"><span style="style_1">Dame las manos. Suelta.</span></p>
+<p begin="17911200000t" end="17936800000t" region="Region_00" xml:id="subtitle408"><span style="style_1">Suelta. Suelta.</span></p>
+<p begin="17971200000t" end="17985200000t" region="Region_00" xml:id="subtitle409"><span style="style_1">¿Cómo te llamas?</span></p>
+<p begin="18006000000t" end="18018800000t" region="Region_00" xml:id="subtitle410"><span style="style_1">-Ariadna.</span></p>
+<p begin="18036400000t" end="18050000000t" region="Region_00" xml:id="subtitle411"><span style="style_1">-Ariadna.</span></p>
+<p begin="18066800000t" end="18083600000t" region="Region_00" xml:id="subtitle412"><span style="style_1">Ven conmigo. Ven.</span></p>
+<p begin="18084400000t" end="18098800000t" region="Region_00" xml:id="subtitle413"><span style="style_1">Tranquila.</span></p>
+<p begin="18099600000t" end="18114000000t" region="Region_00" xml:id="subtitle414"><span style="style_1">Siente mis manos.</span></p>
+<p begin="18125200000t" end="18151600000t" region="Region_04" xml:id="subtitle415"><span style="style_1">¿Son las manos de un monstruo?</span><br/><span style="style_1">-No, no.</span></p>
+<p begin="18152400000t" end="18169200000t" region="Region_00" xml:id="subtitle416"><span style="style_1">-Porque no soy un monstruo.</span></p>
+<p begin="18186000000t" end="18206000000t" region="Region_00" xml:id="subtitle417"><span style="style_1">Sé perfectamente cómo te sientes.</span></p>
+<p begin="18214000000t" end="18230400000t" region="Region_00" xml:id="subtitle418"><span style="style_1">La boca seca, sensación de ahogo...</span></p>
+<p begin="18231200000t" end="18258400000t" region="Region_04" xml:id="subtitle419"><span style="style_1">Tienes que intentar tranquilizarte.</span><br/><span style="style_1">Inspira.</span></p>
+<p begin="18259200000t" end="18271200000t" region="Region_00" xml:id="subtitle420"><span style="style_1">Inspira.</span></p>
+<p begin="18284400000t" end="18295600000t" region="Region_00" xml:id="subtitle421"><span style="style_1">Inspira.</span></p>
+<p begin="18309200000t" end="18330400000t" region="Region_04" xml:id="subtitle422"><span style="style_1">Eso es.</span><br/><span style="style_1">Por favor, respiren todos conmigo.</span></p>
+<p begin="18331200000t" end="18343600000t" region="Region_00" xml:id="subtitle423"><span style="style_1">Inspiren.</span></p>
+<p begin="18356400000t" end="18379200000t" region="Region_00" xml:id="subtitle424"><span style="style_1">Suave, suave.</span></p>
+<p begin="18390400000t" end="18422000000t" region="Region_04" xml:id="subtitle425"><span style="style_1">Hazte responsable</span><br/><span style="style_1">de tu respiración. Espira.</span></p>
+<p begin="18431600000t" end="18459600000t" region="Region_00" xml:id="subtitle426"><span style="style_1">Eso es. Eso es.</span></p>
+<p begin="18478800000t" end="18492800000t" region="Region_01" xml:id="subtitle427"><span style="style_1">(Teléfono)</span></p>
+<p begin="18515200000t" end="18540000000t" region="Region_04" xml:id="subtitle428"><span style="style_1">¿La señorita Mónica Gaztambide,</span><br/><span style="style_1">por favor?</span></p>
+<p begin="18540800000t" end="18561600000t" region="Region_04" xml:id="subtitle429"><span style="style_5">(SUSURRA) No te muevas.</span><br/><span style="style_5">Por favor, no te muevas.</span></p>
+<p begin="18562400000t" end="18592400000t" region="Region_04" xml:id="subtitle430"><span style="style_6">Calla.</span><br/><span style="style_5">Que no te muevas.</span></p>
+<p begin="18593200000t" end="18604000000t" region="Region_00" xml:id="subtitle431"><span style="style_6">Calla.</span></p>
+<p begin="18604800000t" end="18636400000t" region="Region_00" xml:id="subtitle432"><span style="style_1">La señorita Mónica Gaztambide,</span></p>
+<p begin="18637200000t" end="18657600000t" region="Region_04" xml:id="subtitle433"><span style="style_1">¿sería tan amable</span><br/><span style="style_1">de dar un paso al frente?</span></p>
+<p begin="18688400000t" end="18698800000t" region="Region_00" xml:id="subtitle434"><span style="style_6">Soy yo.</span></p>
+<p begin="18825200000t" end="18844400000t" region="Region_01" xml:id="subtitle435"><span style="style_1">(Pieza de metal cayendo)</span></p>
+<p begin="19210800000t" end="19229200000t" region="Region_00" xml:id="subtitle436"><span style="style_1">(DENVER) Eres un crack, papa.</span></p>
+<p begin="19230000000t" end="19243600000t" region="Region_00" xml:id="subtitle437"><span style="style_1">Eres "mu" grande.</span></p>
+<p begin="19561600000t" end="19586800000t" region="Region_00" xml:id="subtitle438"><span style="style_1">(GRITA ENLOQUECIDO)</span></p>
+<p begin="19616400000t" end="19638000000t" region="Region_04" xml:id="subtitle439"><span style="style_1">Aquí se tiene que dormir muy bien,</span><br/><span style="style_1">papa.</span></p>
+<p begin="19638800000t" end="19663200000t" region="Region_00" xml:id="subtitle440"><span style="style_1">Aquí se tiene que dormir de lujo.</span></p>
+<p begin="19664000000t" end="19682800000t" region="Region_00" xml:id="subtitle441"><span style="style_1">¡Oh! ¡Papa, papa, papa, papa!</span></p>
+<p begin="19688800000t" end="19716000000t" region="Region_00" xml:id="subtitle442"><span style="style_1">Follar. Aquí, pum.</span></p>
+<p begin="19716800000t" end="19729200000t" region="Region_00" xml:id="subtitle443"><span style="style_1">Pum, pum...</span></p>
+<p begin="19730000000t" end="19758800000t" region="Region_04" xml:id="subtitle444"><span style="style_1">-Venga, déjate de hacer el tonto</span><br/><span style="style_1">y a trabajar. Venga, coño.</span></p>
+<p begin="19771200000t" end="19784800000t" region="Region_00" xml:id="subtitle445"><span style="style_1">-Esto huele de puta madre.</span></p>
+<p begin="19785600000t" end="19813600000t" region="Region_04" xml:id="subtitle446"><span style="style_1">Huele mejor que el cordero asado,</span><br/><span style="style_1">papa, que el cordero asado.</span></p>
+<p begin="19814400000t" end="19834400000t" region="Region_04" xml:id="subtitle447"><span style="style_1">Túmbate aquí, cojones.</span><br/><span style="style_1">-Venga, coño.</span></p>
+<p begin="19835200000t" end="19854800000t" region="Region_04" xml:id="subtitle448"><span style="style_1">-¿Cuándo has tenido tú</span><br/><span style="style_1">una cama como esta?</span></p>
+<p begin="19855600000t" end="19867200000t" region="Region_00" xml:id="subtitle449"><span style="style_1">En el talego no la tenías.</span></p>
+<p begin="19868000000t" end="19895600000t" region="Region_04" xml:id="subtitle450"><span style="style_1">¿Has visto dónde estamos, papa?</span><br/><span style="style_1">Que somos muy grandes.</span></p>
+<p begin="19896400000t" end="19909600000t" region="Region_00" xml:id="subtitle451"><span style="style_1">Que somos muy grandes.</span></p>
+<p begin="19910400000t" end="19924400000t" region="Region_00" xml:id="subtitle452"><span style="style_1">-Chaval, no te equivoques.</span></p>
+<p begin="19943600000t" end="19957200000t" region="Region_00" xml:id="subtitle453"><span style="style_1">Somos pequeños.</span></p>
+<p begin="19980000000t" end="19994000000t" region="Region_00" xml:id="subtitle454"><span style="style_1">¿Tú sabes hacer algo?</span></p>
+<p begin="20000800000t" end="20014400000t" region="Region_00" xml:id="subtitle455"><span style="style_1">¿Has trabajado alguna vez?</span></p>
+<p begin="20015200000t" end="20038400000t" region="Region_04" xml:id="subtitle456"><span style="style_1">¿Has presentado</span><br/><span style="style_1">el currículum en algún sitio?</span></p>
+<p begin="20045200000t" end="20062400000t" region="Region_00" xml:id="subtitle457"><span style="style_1">Ah. Venga, coño.</span></p>
+<p begin="20096800000t" end="20110000000t" region="Region_00" xml:id="subtitle458"><span style="style_1">-El currículum.</span></p>
+<p begin="20126400000t" end="20142400000t" region="Region_00" xml:id="subtitle459"><span style="style_1">¿El currículum para qué?</span></p>
+<p begin="20152000000t" end="20172000000t" region="Region_00" xml:id="subtitle460"><span style="style_1">¿Para sacarte a ti de Alcalá Meco?</span></p>
+<p begin="20279600000t" end="20298800000t" region="Region_04" xml:id="subtitle461"><span style="style_1">-¿Crees que me siento</span><br/><span style="style_1">orgulloso de eso?</span></p>
+<p begin="20321200000t" end="20348000000t" region="Region_04" xml:id="subtitle462"><span style="style_1">12 años de mi vida</span><br/><span style="style_1">entrando y saliendo de la cárcel.</span></p>
+<p begin="20354000000t" end="20367600000t" region="Region_00" xml:id="subtitle463"><span style="style_1">¿Y sabes por qué?</span></p>
+<p begin="20376000000t" end="20389200000t" region="Region_00" xml:id="subtitle464"><span style="style_1">-¿Por qué?</span></p>
+<p begin="20421600000t" end="20441600000t" region="Region_00" xml:id="subtitle465"><span style="style_1">-Porque no soy muy listo, hijo.</span></p>
+<p begin="20447200000t" end="20460000000t" region="Region_00" xml:id="subtitle466"><span style="style_1">Y tú tampoco.</span></p>
+<p begin="20472800000t" end="20506800000t" region="Region_04" xml:id="subtitle467"><span style="style_1">Pero en este golpe</span><br/><span style="style_1">el cerebro lo pone otro.</span></p>
+<p begin="20514400000t" end="20538400000t" region="Region_04" xml:id="subtitle468"><span style="style_1">Y si tenemos suerte</span><br/><span style="style_1">y no haces mucho el gilipollas,</span></p>
+<p begin="20539200000t" end="20555600000t" region="Region_04" xml:id="subtitle469"><span style="style_1">saldrás de aquí</span><br/><span style="style_1">con la vida resuelta.</span></p>
+<p begin="20556400000t" end="20580800000t" region="Region_04" xml:id="subtitle470"><span style="style_1">-No voy a hacer el gilipollas.</span><br/><span style="style_1">-Venga, coño.</span></p>
+<p begin="20591200000t" end="20602400000t" region="Region_00" xml:id="subtitle471"><span style="style_1">Llena esto.</span></p>
+<p begin="20620800000t" end="20631600000t" region="Region_01" xml:id="subtitle472"><span style="style_1">(Teléfono)</span></p>
+<p begin="20652400000t" end="20667200000t" region="Region_00" xml:id="subtitle473"><span style="style_1">Quiero que conteste al teléfono</span></p>
+<p begin="20668000000t" end="20688800000t" region="Region_04" xml:id="subtitle474"><span style="style_1">y convenza a quien sea</span><br/><span style="style_1">de que estamos cerrados</span></p>
+<p begin="20689600000t" end="20707200000t" region="Region_00" xml:id="subtitle475"><span style="style_1">por un problema técnico. ¿Entendido?</span></p>
+<p begin="20708000000t" end="20719200000t" region="Region_00" xml:id="subtitle476"><span style="style_6">Sí.</span></p>
+<p begin="20753200000t" end="20782400000t" region="Region_04" xml:id="subtitle477"><span style="style_1">No me va a quedar más remedio</span><br/><span style="style_1">que apuntarle con una pistola.</span></p>
+<p begin="20783200000t" end="20802800000t" region="Region_04" xml:id="subtitle478"><span style="style_1">¿La siente?</span><br/><span style="style_6">Sí.</span></p>
+<p begin="20812800000t" end="20823200000t" region="Region_00" xml:id="subtitle479"><span style="style_1">Bien.</span></p>
+<p begin="20826400000t" end="20844000000t" region="Region_01" xml:id="subtitle480"><span style="style_1">(Teléfono)</span></p>
+<p begin="20844800000t" end="20856400000t" region="Region_00" xml:id="subtitle481"><span style="style_1">Ahora.</span></p>
+<p begin="20932400000t" end="20954400000t" region="Region_04" xml:id="subtitle482"><span style="style_6">Fábrica Nacional</span><br/><span style="style_6">de Moneda y Timbre, dígame.</span></p>
+<p begin="20963600000t" end="20995200000t" region="Region_04" xml:id="subtitle483"><span style="style_6">No, lo siento, no le puedo pasar</span><br/><span style="style_6">con don Arturo en este momento.</span></p>
+<p begin="21012400000t" end="21028000000t" region="Region_00" xml:id="subtitle484"><span style="style_6">Se ha caído el sistema.</span></p>
+<p begin="21035600000t" end="21052000000t" region="Region_00" xml:id="subtitle485"><span style="style_6">No, no puedo hacerle que suba.</span></p>
+<p begin="21058800000t" end="21080400000t" region="Region_04" xml:id="subtitle486"><span style="style_6">No, no puede subir</span><br/><span style="style_6">a coger el teléfono, no.</span></p>
+<p begin="21098800000t" end="21112400000t" region="Region_00" xml:id="subtitle487"><span style="style_6">No, no va a poder ser.</span></p>
+<p begin="21116000000t" end="21126000000t" region="Region_00" xml:id="subtitle488"><span style="style_6">No, por...</span></p>
+<p begin="21148000000t" end="21178800000t" region="Region_04" xml:id="subtitle489"><span style="style_6">¡Pues porque no,</span><br/><span style="style_6">porque no sé dónde está ahora mismo,</span></p>
+<p begin="21179600000t" end="21208800000t" region="Region_04" xml:id="subtitle490"><span style="style_6">porque no sé si está en la fábrica,</span><br/><span style="style_6">en el museo, en la cafetería</span></p>
+<p begin="21209600000t" end="21234400000t" region="Region_04" xml:id="subtitle491"><span style="style_6">o donde esté! ¡Y, además,</span><br/><span style="style_6">no es mi trabajo, señorita!</span></p>
+<p begin="21306400000t" end="21330800000t" region="Region_04" xml:id="subtitle492"><span style="style_1">Esa ha sido</span><br/><span style="style_1">una interpretación de Oscar,</span></p>
+<p begin="21336000000t" end="21350000000t" region="Region_00" xml:id="subtitle493"><span style="style_1">señorita Gaztambide.</span></p>
+<p begin="21350800000t" end="21372400000t" region="Region_00" xml:id="subtitle494"><span style="style_6">(RESPIRA ENTRECORTADAMENTE)</span></p>
+<p begin="21491200000t" end="21518800000t" region="Region_04" xml:id="subtitle495"><span style="style_3">"A los 20 minutos de entrar,</span><br/><span style="style_3">comenzamos a cablear el sistema</span></p>
+<p begin="21519600000t" end="21544000000t" region="Region_04" xml:id="subtitle496"><span style="style_3">de comunicación analógica</span><br/><span style="style_3">para hablar con el Profesor".</span></p>
+<p begin="21546800000t" end="21569200000t" region="Region_00" xml:id="subtitle497"><span style="style_1">(CANTA EN SU IDIOMA)</span></p>
+<p begin="21570000000t" end="21611200000t" region="Region_04" xml:id="subtitle498"><span style="style_3">"Sin móviles, sin radiofrecuencia,</span><br/><span style="style_3">sin que nadie pudiera oírnos.</span></p>
+<p begin="21612000000t" end="21650800000t" region="Region_04" xml:id="subtitle499"><span style="style_3">Habíamos sellado las puertas</span><br/><span style="style_3">y las alarmas no habían saltado.</span></p>
+<p begin="21651600000t" end="21682400000t" region="Region_04" xml:id="subtitle500"><span style="style_3">Estábamos como en un limbo</span><br/><span style="style_3">del tiempo, sin que nadie supiera</span></p>
+<p begin="21683200000t" end="21709600000t" region="Region_04" xml:id="subtitle501"><span style="style_3">que habíamos tomado</span><br/><span style="style_3">la Fábrica de Moneda y Timbre.</span></p>
+<p begin="21723200000t" end="21742800000t" region="Region_04" xml:id="subtitle502"><span style="style_3">Y en esa dulce paz,</span><br/><span style="style_3">antes de la tormenta,</span></p>
+<p begin="21743600000t" end="21789600000t" region="Region_04" xml:id="subtitle503"><span style="style_3">parecía, sencillamente,</span><br/><span style="style_3">un día corriente".</span></p>
+<p begin="21928400000t" end="21944400000t" region="Region_00" xml:id="subtitle504"><span style="style_3">Estás guapo tú, ¿eh?</span></p>
+<p begin="22073200000t" end="22084000000t" region="Region_01" xml:id="subtitle505"><span style="style_1">(Puerta)</span></p>
+<p begin="22159600000t" end="22170400000t" region="Region_00" xml:id="subtitle506"><span style="style_3">¿Quién es?</span></p>
+<p begin="22171200000t" end="22187600000t" region="Region_00" xml:id="subtitle507"><span style="style_1">(RÍO) Soy yo, déjame pasar.</span></p>
+<p begin="22308800000t" end="22342400000t" region="Region_04" xml:id="subtitle508"><span style="style_3">Río, tío, nos pilla el Profesor</span><br/><span style="style_3">y nos mata, ¿lo sabes?</span></p>
+<p begin="22343200000t" end="22370400000t" region="Region_04" xml:id="subtitle509"><span style="style_1">Lo sé, lo sé, lo sé.</span><br/><span style="style_1">Tengo que hablar contigo. Siéntate.</span></p>
+<p begin="22371200000t" end="22388400000t" region="Region_04" xml:id="subtitle510"><span style="style_3">¿Qué pasa?</span><br/><span style="style_1">Siéntate, coño.</span></p>
+<p begin="22389200000t" end="22402400000t" region="Region_00" xml:id="subtitle511"><span style="style_1">(RESOPLA)</span></p>
+<p begin="22403200000t" end="22414400000t" region="Region_00" xml:id="subtitle512"><span style="style_3">¿Qué pasa?</span></p>
+<p begin="22417200000t" end="22433600000t" region="Region_00" xml:id="subtitle513"><span style="style_1">Mañana es el atraco.</span></p>
+<p begin="22449200000t" end="22472400000t" region="Region_04" xml:id="subtitle514"><span style="style_1">Y no tenemos ni puta idea</span><br/><span style="style_1">de lo que va a pasar.</span></p>
+<p begin="22500400000t" end="22532000000t" region="Region_04" xml:id="subtitle515"><span style="style_1">Por eso quiero que sepas</span><br/><span style="style_1">que voy en serio contigo</span></p>
+<p begin="22532800000t" end="22556400000t" region="Region_04" xml:id="subtitle516"><span style="style_1">y entiendo perfectamente</span><br/><span style="style_1">que, bueno,</span></p>
+<p begin="22557200000t" end="22578400000t" region="Region_00" xml:id="subtitle517"><span style="style_1">que tú ya tienes una edad y...</span></p>
+<p begin="22589600000t" end="22620400000t" region="Region_04" xml:id="subtitle518"><span style="style_1">y que puede que busques un...</span><br/><span style="style_1">un compromiso más serio.</span></p>
+<p begin="22647200000t" end="22664000000t" region="Region_00" xml:id="subtitle519"><span style="style_1">Por eso quiero darte algo.</span></p>
+<p begin="22710400000t" end="22736400000t" region="Region_04" xml:id="subtitle520"><span style="style_1">No te he comprado un anillo</span><br/><span style="style_1">porque estamos encerrados,</span></p>
+<p begin="22737200000t" end="22762800000t" region="Region_04" xml:id="subtitle521"><span style="style_1">pero, en cuanto salga,</span><br/><span style="style_1">te voy a regalar un pedruscazo</span></p>
+<p begin="22763600000t" end="22793600000t" region="Region_04" xml:id="subtitle522"><span style="style_1">que vas a tener que llevar la mano</span><br/><span style="style_1">en una puta carretilla.</span></p>
+<p begin="22804000000t" end="22817200000t" region="Region_00" xml:id="subtitle523"><span style="style_3">¿Qué es esto?</span></p>
+<p begin="22827600000t" end="22857200000t" region="Region_00" xml:id="subtitle524"><span style="style_3">¿Una chapa de pedida?</span></p>
+<p begin="22858000000t" end="22880000000t" region="Region_04" xml:id="subtitle525"><span style="style_1">Ahora por lo menos</span><br/><span style="style_1">sabrás mi nombre de verdad.</span></p>
+<p begin="22891200000t" end="22916800000t" region="Region_04" xml:id="subtitle526"><span style="style_3">Ya, pero es que está prohibido</span><br/><span style="style_3">saber nuestros nombres.</span></p>
+<p begin="22918800000t" end="22938000000t" region="Region_00" xml:id="subtitle527"><span style="style_1">Bueno, pues no lo mires.</span></p>
+<p begin="22949600000t" end="22960400000t" region="Region_00" xml:id="subtitle528"><span style="style_1">Pero es tuyo.</span></p>
+<p begin="22988400000t" end="23010800000t" region="Region_00" xml:id="subtitle529"><span style="style_3">A ver cómo te cuento esto.</span></p>
+<p begin="23037600000t" end="23076000000t" region="Region_04" xml:id="subtitle530"><span style="style_3">Lo nuestro ha estado muy bien,</span><br/><span style="style_3">¿vale? Genial.</span></p>
+<p begin="23090000000t" end="23112000000t" region="Region_04" xml:id="subtitle531"><span style="style_3">Nos hemos enrollado</span><br/><span style="style_3">algunas noches...</span></p>
+<p begin="23112800000t" end="23152400000t" region="Region_04" xml:id="subtitle532"><span style="style_1">¿Cómo que algunas? Joder, todas,</span><br/><span style="style_1">todas. Menos cuatro o cinco...</span></p>
+<p begin="23165200000t" end="23207200000t" region="Region_04" xml:id="subtitle533"><span style="style_3">Sinceramente,</span><br/><span style="style_3">no creo que seamos la pareja ideal.</span></p>
+<p begin="23211600000t" end="23245600000t" region="Region_04" xml:id="subtitle534"><span style="style_1">¿No follamos bien?</span><br/><span style="style_3">Sí, sí follamos bien, fantástico.</span></p>
+<p begin="23246400000t" end="23259600000t" region="Region_00" xml:id="subtitle535"><span style="style_1">Por algo se empieza, ¿no?</span></p>
+<p begin="23260400000t" end="23280800000t" region="Region_04" xml:id="subtitle536"><span style="style_3">Pero hace falta</span><br/><span style="style_3">algo más que follar bien</span></p>
+<p begin="23281600000t" end="23298000000t" region="Region_00" xml:id="subtitle537"><span style="style_3">para ser una pareja, ¿no?</span></p>
+<p begin="23316000000t" end="23338000000t" region="Region_04" xml:id="subtitle538"><span style="style_1">¿Lo dices porque soy</span><br/><span style="style_1">12 años más joven que tú?</span></p>
+<p begin="23353600000t" end="23371600000t" region="Region_04" xml:id="subtitle539"><span style="style_1">Voy a tener</span><br/><span style="style_1">300 millones de euros, ¿eh?</span></p>
+<p begin="23372400000t" end="23394400000t" region="Region_04" xml:id="subtitle540"><span style="style_1">No soy ningún chaval,</span><br/><span style="style_1">tengo la vida resuelta.</span></p>
+<p begin="23395200000t" end="23423200000t" region="Region_04" xml:id="subtitle541"><span style="style_3">De verdad, Río, ojalá hubiéramos...</span><br/><span style="style_1">Eh, ¿cómo que hubiéramos?</span></p>
+<p begin="23434400000t" end="23460400000t" region="Region_04" xml:id="subtitle542"><span style="style_1">Amor había.</span><br/><span style="style_1">Amor había, que estaba yo ahí.</span></p>
+<p begin="23546800000t" end="23557600000t" region="Region_00" xml:id="subtitle543"><span style="style_1">Hay otro, ¿no?</span></p>
+<p begin="23590800000t" end="23602400000t" region="Region_00" xml:id="subtitle544"><span style="style_3">Ya no.</span></p>
+<p begin="23619200000t" end="23630800000t" region="Region_00" xml:id="subtitle545"><span style="style_3">Mira, Río,</span></p>
+<p begin="23644400000t" end="23679600000t" region="Region_04" xml:id="subtitle546"><span style="style_3">cuando todo esto termine,</span><br/><span style="style_3">igual tú y yo nos vamos a Tahití</span></p>
+<p begin="23680400000t" end="23717600000t" region="Region_04" xml:id="subtitle547"><span style="style_3">y vemos si funciona, pero mañana</span><br/><span style="style_3">yo solo quiero pensar en una cosa:</span></p>
+<p begin="23718400000t" end="23731200000t" region="Region_00" xml:id="subtitle548"><span style="style_3">que no me maten.</span></p>
+<p begin="23842800000t" end="23853200000t" region="Region_00" xml:id="subtitle549"><span style="style_3">Río.</span></p>
+<p begin="24214000000t" end="24234800000t" region="Region_00" xml:id="subtitle550"><span style="style_3">Río, no.</span></p>
+<p begin="24242400000t" end="24254400000t" region="Region_00" xml:id="subtitle551"><span style="style_3">No, no.</span></p>
+<p begin="24255200000t" end="24274800000t" region="Region_00" xml:id="subtitle552"><span style="style_1">Te has dejado un móvil encendido.</span></p>
+<p begin="24284400000t" end="24297200000t" region="Region_00" xml:id="subtitle553"><span style="style_3">Pues apágalo.</span></p>
+<p begin="24432400000t" end="24450400000t" region="Region_00" xml:id="subtitle554"><span style="style_1">-Cámara acorazada abierta.</span></p>
+<p begin="24475600000t" end="24499600000t" region="Region_04" xml:id="subtitle555"><span style="style_1">-Poneos los chalecos</span><br/><span style="style_1">y preparaos para salir.</span></p>
+<p begin="24500400000t" end="24520400000t" region="Region_04" xml:id="subtitle556"><span style="style_1">En cuanto estéis,</span><br/><span style="style_1">activaremos la alarma.</span></p>
+<p begin="24543200000t" end="24570800000t" region="Region_04" xml:id="subtitle557"><span style="style_4">Berlín,</span><br/><span style="style_4">preparados para abrir las puertas.</span></p>
+<p begin="24571600000t" end="24615200000t" region="Region_04" xml:id="subtitle558"><span style="style_1">¡Rehenes, por su seguridad,</span><br/><span style="style_1">todos tres pasos para atrás!</span></p>
+<p begin="24624000000t" end="24651600000t" region="Region_00" xml:id="subtitle559"><span style="style_1">Un poquito más por aquí. Eso es.</span></p>
+<p begin="24652400000t" end="24673200000t" region="Region_00" xml:id="subtitle560"><span style="style_1">Ahí estamos. Todo va a salir bien.</span></p>
+<p begin="24698800000t" end="24714800000t" region="Region_00" xml:id="subtitle561"><span style="style_1">Un poquito más juntos.</span></p>
+<p begin="24822400000t" end="24848400000t" region="Region_00" xml:id="subtitle562"><span style="style_5">Chist. Tranquilos.</span></p>
+<p begin="24857600000t" end="24878400000t" region="Region_00" xml:id="subtitle563"><span style="style_5">Tranquilos. Estoy viendo las bolsas.</span></p>
+<p begin="24879200000t" end="24893600000t" region="Region_00" xml:id="subtitle564"><span style="style_5">Las tienen llenas de dinero.</span></p>
+<p begin="24894400000t" end="24915200000t" region="Region_04" xml:id="subtitle565"><span style="style_5">Ahora se largarán</span><br/><span style="style_5">y aquí no ha pasado nada.</span></p>
+<p begin="24946000000t" end="24975600000t" region="Region_01" xml:id="subtitle566"><span style="style_1">(Radio)</span></p>
+<p begin="25036400000t" end="25069200000t" region="Region_01" xml:id="subtitle567"><span style="style_1">(Alarma)</span></p>
+<p begin="25144400000t" end="25159600000t" region="Region_00" xml:id="subtitle568"><span style="style_1">(EMISORA) "Tenemos un 10-33</span></p>
+<p begin="25160400000t" end="25182000000t" region="Region_04" xml:id="subtitle569"><span style="style_1">en la Fábrica Nacional</span><br/><span style="style_1">de Moneda y Timbre.</span></p>
+<p begin="25182800000t" end="25206800000t" region="Region_04" xml:id="subtitle570"><span style="style_1">-Z24 en camino.</span><br/><span style="style_1">Estamos allí en dos minutos".</span></p>
+<p begin="25207600000t" end="25216800000t" region="Region_00" xml:id="subtitle571"><span style="style_4">Dos minutos.</span></p>
+<p begin="25217600000t" end="25235600000t" region="Region_00" xml:id="subtitle572"><span style="style_1">-Dos minutos.</span></p>
+<p begin="25236400000t" end="25276800000t" region="Region_01" xml:id="subtitle573"><span style="style_1">(Alarma)</span></p>
+<p begin="25278400000t" end="25312000000t" region="Region_04" xml:id="subtitle574"><span style="style_1">¿Por qué ha saltado la alarma?</span><br/><span style="style_5">No lo sé.</span></p>
+<p begin="25327600000t" end="25347600000t" region="Region_04" xml:id="subtitle575"><span style="style_5">Están parados sin hacer nada,</span><br/><span style="style_5">no lo entiendo.</span></p>
+<p begin="25348400000t" end="25367600000t" region="Region_04" xml:id="subtitle576"><span style="style_1">¿Por qué no cogen el dinero</span><br/><span style="style_1">y se van?</span></p>
+<p begin="25368400000t" end="25379600000t" region="Region_00" xml:id="subtitle577"><span style="style_5">¡No lo sé!</span></p>
+<p begin="25402800000t" end="25424000000t" region="Region_00" xml:id="subtitle578"><span style="style_4">Un minuto, 40 segundos.</span></p>
+<p begin="25434000000t" end="25449600000t" region="Region_00" xml:id="subtitle579"><span style="style_1">-Un minuto...</span></p>
+<p begin="25498400000t" end="25512000000t" region="Region_00" xml:id="subtitle580"><span style="style_1">¿Cómo te llamas?</span></p>
+<p begin="25526000000t" end="25537200000t" region="Region_00" xml:id="subtitle581"><span style="style_5">Arturo.</span></p>
+<p begin="25544000000t" end="25554800000t" region="Region_00" xml:id="subtitle582"><span style="style_1">Arturo, ¿verdad?</span></p>
+<p begin="25555600000t" end="25567600000t" region="Region_00" xml:id="subtitle583"><span style="style_5">Sí. ¡No, no he visto nada!</span></p>
+<p begin="25568400000t" end="25599200000t" region="Region_04" xml:id="subtitle584"><span style="style_5">¡No he visto nada, lo juro,</span><br/><span style="style_5">no he visto nada, no he visto nada!</span></p>
+<p begin="25600000000t" end="25616000000t" region="Region_04" xml:id="subtitle585"><span style="style_1">Mírame.</span><br/><span style="style_5">No he visto nada.</span></p>
+<p begin="25616800000t" end="25628800000t" region="Region_00" xml:id="subtitle586"><span style="style_1">Venga, Arturo, mírame.</span></p>
+<p begin="25633200000t" end="25653600000t" region="Region_00" xml:id="subtitle587"><span style="style_1">Mírame, mírame.</span></p>
+<p begin="25655200000t" end="25684000000t" region="Region_00" xml:id="subtitle588"><span style="style_1">Eh, eh, venga, va.</span></p>
+<p begin="25684800000t" end="25698400000t" region="Region_00" xml:id="subtitle589"><span style="style_5">(LLORA)</span></p>
+<p begin="25707200000t" end="25716800000t" region="Region_00" xml:id="subtitle590"><span style="style_1">Eh.</span></p>
+<p begin="25742000000t" end="25755200000t" region="Region_00" xml:id="subtitle591"><span style="style_1">¿Te gusta el cine?</span></p>
+<p begin="25792400000t" end="25803200000t" region="Region_00" xml:id="subtitle592"><span style="style_1">¿Te gusta?</span></p>
+<p begin="25819600000t" end="25849600000t" region="Region_04" xml:id="subtitle593"><span style="style_5">(SOLLOZANDO) Soy...</span><br/><span style="style_5">Soy muy aficionado.</span></p>
+<p begin="25885600000t" end="25911200000t" region="Region_04" xml:id="subtitle594"><span style="style_1">¿Y tú te has dado cuenta</span><br/><span style="style_1">que en las películas de miedo</span></p>
+<p begin="25912000000t" end="25946400000t" region="Region_04" xml:id="subtitle595"><span style="style_1">siempre sale uno al principio,</span><br/><span style="style_1">así, majete como tú,</span></p>
+<p begin="25947200000t" end="25979600000t" region="Region_00" xml:id="subtitle596"><span style="style_1">que tú dices: "Este huele a muerto",</span></p>
+<p begin="26016000000t" end="26034000000t" region="Region_04" xml:id="subtitle597"><span style="style_1">y luego no falla?</span><br/><span style="style_5">No...</span></p>
+<p begin="26034800000t" end="26047600000t" region="Region_00" xml:id="subtitle598"><span style="style_1">Siempre cae.</span></p>
+<p begin="26086400000t" end="26122400000t" region="Region_00" xml:id="subtitle599"><span style="style_1">Arturo, créeme, hueles a muerto.</span></p>
+<p begin="26123200000t" end="26142000000t" region="Region_00" xml:id="subtitle600"><span style="style_5">(LLORA)</span></p>
+<p begin="26152400000t" end="26176800000t" region="Region_04" xml:id="subtitle601"><span style="style_1">(EMISORA) "Z24 a central,</span><br/><span style="style_1">estamos en 30 segundos".</span></p>
+<p begin="26177600000t" end="26189200000t" region="Region_00" xml:id="subtitle602"><span style="style_4">30 segundos.</span></p>
+<p begin="26204400000t" end="26214400000t" region="Region_00" xml:id="subtitle603"><span style="style_1">30 segundos.</span></p>
+<p begin="26242000000t" end="26258800000t" region="Region_00" xml:id="subtitle604"><span style="style_4">"Es fundamental que la policía"</span></p>
+<p begin="26259600000t" end="26290000000t" region="Region_04" xml:id="subtitle605"><span style="style_4">no tenga ni la más mínima idea</span><br/><span style="style_4">de lo que estamos haciendo.</span></p>
+<p begin="26299200000t" end="26328400000t" region="Region_04" xml:id="subtitle606"><span style="style_4">Vamos a hacerles creer</span><br/><span style="style_4">que entramos a robar,</span></p>
+<p begin="26329200000t" end="26357200000t" region="Region_04" xml:id="subtitle607"><span style="style_4">que nos sorprendieron huyendo</span><br/><span style="style_4">con el dinero y que todo se jodió,</span></p>
+<p begin="26358000000t" end="26379200000t" region="Region_04" xml:id="subtitle608"><span style="style_4">que sacamos las armas,</span><br/><span style="style_4">disparamos a bocajarro</span></p>
+<p begin="26380000000t" end="26415600000t" region="Region_04" xml:id="subtitle609"><span style="style_4">y no tuvimos más remedio...</span><br/><span style="style_4">que recular.</span></p>
+<p begin="26439600000t" end="26470000000t" region="Region_00" xml:id="subtitle610"><span style="style_4">"Y entonces, sin haber herido"</span></p>
+<p begin="26470800000t" end="26483200000t" region="Region_00" xml:id="subtitle611"><span style="style_4">a nadie,</span></p>
+<p begin="26508000000t" end="26522000000t" region="Region_00" xml:id="subtitle612"><span style="style_4">nos metemos dentro.</span></p>
+<p begin="26536000000t" end="26569600000t" region="Region_04" xml:id="subtitle613"><span style="style_4">"Que piensen</span><br/><span style="style_4">que estamos acorralados como ratas".</span></p>
+<p begin="26570400000t" end="26580400000t" region="Region_01" xml:id="subtitle614"><span style="style_1">(Sirena)</span></p>
+<p begin="26581200000t" end="26600400000t" region="Region_04" xml:id="subtitle615"><span style="style_4">"Que piensen</span><br/><span style="style_4">que estamos improvisando".</span></p>
+<p begin="26601200000t" end="26612000000t" region="Region_00" xml:id="subtitle616"><span style="style_3">¡Ahora!</span></p>
+<p begin="26620400000t" end="26647200000t" region="Region_04" xml:id="subtitle617"><span style="style_1">-¡Tokio!</span><br/><span style="style_1">¡Tokio, espera, joder, vas antes!</span></p>
+<p begin="26648000000t" end="26660000000t" region="Region_00" xml:id="subtitle618"><span style="style_1">¡Tokio!</span></p>
+<p begin="26660800000t" end="26681600000t" region="Region_01" xml:id="subtitle619"><span style="style_1">(Sirena)</span></p>
+<p begin="26682400000t" end="26730000000t" region="Region_04" xml:id="subtitle620"><span style="style_3">"Salir, tirar el dinero,</span><br/><span style="style_3">disparar al suelo y volver".</span></p>
+<p begin="26730800000t" end="26747600000t" region="Region_00" xml:id="subtitle621"><span style="style_1">(GRITAN)</span></p>
+<p begin="26748400000t" end="26768000000t" region="Region_04" xml:id="subtitle622"><span style="style_3">"Lo había escuchado</span><br/><span style="style_3">más de 30 veces".</span></p>
+<p begin="26768800000t" end="26787600000t" region="Region_01" xml:id="subtitle623"><span style="style_1">(Disparos)</span></p>
+<p begin="26798400000t" end="26816800000t" region="Region_04" xml:id="subtitle624"><span style="style_3">"Pero lo que no nos dijo</span><br/><span style="style_3">el Profesor</span></p>
+<p begin="26817600000t" end="26839600000t" region="Region_04" xml:id="subtitle625"><span style="style_3">es que ellos</span><br/><span style="style_3">también dispararían a bocajarro".</span></p>
+<p begin="26846400000t" end="26861200000t" region="Region_00" xml:id="subtitle626"><span style="style_3">¡Río, Río!</span></p>
+<p begin="26878800000t" end="26904400000t" region="Region_01" xml:id="subtitle627"><span style="style_1">(Disparos)</span></p>
+<p begin="26936400000t" end="26950800000t" region="Region_00" xml:id="subtitle628"><span style="style_1">¡Cago en la puta, tío!</span></p>
+<p begin="26951600000t" end="26979200000t" region="Region_01" xml:id="subtitle629"><span style="style_1">(Disparos)</span></p>
+<p begin="27022800000t" end="27049600000t" region="Region_01" xml:id="subtitle630"><span style="style_1">(Disparos)</span></p>
+<p begin="27394000000t" end="27412000000t" region="Region_00" xml:id="subtitle631"><span style="style_3">(HABLA ENTRE SOLLOZOS)</span></p>
+<p begin="27412800000t" end="27422400000t" region="Region_00" xml:id="subtitle632"><span style="style_1">¡Me cago en la puta!</span></p>
+<p begin="27423200000t" end="27452800000t" region="Region_04" xml:id="subtitle633"><span style="style_1">¡La primera en la frente, tío,</span><br/><span style="style_1">la puta primera en la frente!</span></p>
+<p begin="27651600000t" end="27665200000t" region="Region_00" xml:id="subtitle634"><span style="style_1">¡Joder!</span></p>
+<p begin="27676800000t" end="27700800000t" region="Region_04" xml:id="subtitle635"><span style="style_1">(RADIO) "Apoyo urgente.</span><br/><span style="style_1">Solicito apoyo urgente.</span></p>
+<p begin="27701600000t" end="27718400000t" region="Region_00" xml:id="subtitle636"><span style="style_1">En la Fábrica de Moneda y Timbre.</span></p>
+<p begin="27719200000t" end="27742000000t" region="Region_04" xml:id="subtitle637"><span style="style_1">Hemos recibido fuego hostil.</span><br/><span style="style_1">Agente herido.</span></p>
+<p begin="27742800000t" end="27756400000t" region="Region_00" xml:id="subtitle638"><span style="style_1">Repito, agente herido".</span></p>
+<p begin="27757200000t" end="27803200000t" region="Region_04" xml:id="subtitle639"><span style="style_3">"La bala de un M16</span><br/><span style="style_3">sale disparada a 3510 km/h.</span></p>
+<p begin="27808400000t" end="27831200000t" region="Region_04" xml:id="subtitle640"><span style="style_3">Vuela más rápido</span><br/><span style="style_3">que la velocidad del sonido.</span></p>
+<p begin="27848800000t" end="27869600000t" region="Region_00" xml:id="subtitle641"><span style="style_3">Así que si te disparan al corazón</span></p>
+<p begin="27874800000t" end="27896800000t" region="Region_04" xml:id="subtitle642"><span style="style_3">ni siquiera oirás</span><br/><span style="style_3">la bala que te ha matado.</span></p>
+<p begin="27910800000t" end="27937200000t" region="Region_04" xml:id="subtitle643"><span style="style_3">De esa manera supe</span><br/><span style="style_3">que lo había jodido todo,</span></p>
+<p begin="27938000000t" end="27956000000t" region="Region_00" xml:id="subtitle644"><span style="style_3">en una milésima de segundo</span></p>
+<p begin="27962400000t" end="27984400000t" region="Region_00" xml:id="subtitle645"><span style="style_3">y de la misma forma que siempre".</span></p>
+<p begin="28002400000t" end="28018400000t" region="Region_01" xml:id="subtitle646"><span style="style_1">(Trueno)</span></p>
+</div>
+</body>
+</tt>
