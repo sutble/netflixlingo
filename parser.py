@@ -17,8 +17,8 @@ class SpanishTutor:
         self.spanish_text = ''
         self.translation_text = ''
         self.paragraphs = []
-        self.spanish_dict = DictDB()
-        self.cached_spanish_dict = {}
+        self.spanish_dict = json.load(open('spanish_dict.json'))
+        import pdb; pdb.set_trace()
 
     def make_noun_equals_caption(self,spanish_text,translated_text,tagged_words):
         nouns = []
@@ -28,32 +28,30 @@ class SpanishTutor:
 
         for noun in nouns:
             lowered_noun = noun.lower()
-            if not self.spanish_dict.hasdef(lowered_noun):
+            if lowered_noun not in self.spanish_dict:
                 print(noun, " NOT IN MAIN DICTIONARY")
-                if lowered_noun in self.cached_spanish_dict:
-                    definitions = self.cached_spanish_dict[lowered_noun]
-                else:
-                    print(noun, " NOT IN CACHED DICTIONARY")
-                    definitions = [self.translator.translate(lowered_noun,dest='en').text]
-                    self.cached_spanish_dict[lowered_noun] = definitions
+                definitions = [self.translator.translate(lowered_noun,dest='en').text]
+                self.spanish_dict[lowered_noun] = definitions
             else:
-                definitions = self.spanish_dict.getdef(lowered_noun)
+                definitions = self.spanish_dict[lowered_noun]
 
             for definition in definitions: 
                 if definition.lower() in translated_text.lower():
-                    return_str = " " + noun + " = " + definition + "|"
+                    return_str = " " + noun + " = " + definition + " |"
                     print(return_str)
                     return return_str
                 else:
-                    print(definition, "NOT IN TEXT ", translated_text)                
-        return " "
+                    print(definition, "NOT IN TEXT ", translated_text)
+            return_str = " " + noun + " = " + definitions[0] + " |"
+            print(return_str)
+            return return_str
         
 
-    def make_caption_efficient(self,spanish_text,translated_text):
+    def make_caption(self,spanish_text,translated_text):
         tagged_words = self.nlp(spanish_text)
         return self.make_noun_equals_caption(spanish_text,translated_text,tagged_words)
 
-    def make_caption(self,spanish_text,translated_text):
+    def make_hangman_caption_inefficient(self,spanish_text,translated_text):
         tagged_words = self.nlp(spanish_text)
         part_of_speeches =  [word.pos_ for word in tagged_words]
         nouns = []
@@ -121,17 +119,16 @@ class SpanishTutor:
 
     def main(self):
         
-        self.populate_spanish_and_translation_text()
-        self.transform_doc()
-        self.write_file.write(xmltodict.unparse(self.doc))
-
-
-        json_dict = json.dumps(dict)
+        # self.populate_spanish_and_translation_text()
+        # self.transform_doc()
+        # self.write_file.write(xmltodict.unparse(self.doc))
+        # self.read_file.close()
+        # self.write_file.close()  
+        import pdb; pdb.set_trace()
+        json_dict = json.dumps(self.spanish_dict)
         f = open("spanish_dict.json","w+")
         f.write(json_dict)
         f.close()
-        self.read_file.close()
-        self.write_file.close()  
 
 
         

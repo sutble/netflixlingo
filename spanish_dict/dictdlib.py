@@ -16,7 +16,7 @@
 #    along with this program; if not, write to the Free Software
 #    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 
-import sys, string, gzip, os
+import sys, string, gzip, os, re
 
 b64_list = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
 url_headword = "00-database-url"
@@ -313,4 +313,7 @@ class DictDB:
         for start, length in self.indexentries[word]:
             self.dictfile.seek(start)
             retval.append(self.dictfile.read(length))
-        return retval[0].decode('utf-8').split("\n")[1:-1][0].split(",")
+        definitions = retval[0].decode('utf-8').split("\n")[1:-1][0].split(",")
+        to_remove = ['1.','2.','3.']
+        p = re.compile('|'.join(map(re.escape, to_remove)))
+        return [p.sub('', s).lstrip() for s in definitions]
