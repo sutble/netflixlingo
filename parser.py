@@ -18,7 +18,6 @@ class SpanishTutor:
         self.translation_text = ''
         self.paragraphs = []
         self.spanish_dict = json.load(open('spanish_dict.json'))
-        import pdb; pdb.set_trace()
 
     def make_noun_equals_caption(self,spanish_text,translated_text,tagged_words):
         nouns = []
@@ -48,12 +47,23 @@ class SpanishTutor:
         
 
     def make_caption(self,spanish_text,translated_text):
-        tagged_words = self.nlp(spanish_text)
-        return self.make_noun_equals_caption(spanish_text,translated_text,tagged_words)
+        return self.make_hangman_caption(spanish_text,translated_text)
 
-    def make_hangman_caption_inefficient(self,spanish_text,translated_text):
+    
+    def translate_word(self,chosen_word,translated_text):
+        if chosen_word not in self.spanish_dict:
+            definitions = [self.translator.translate(chosen_word,dest='en').text]
+            self.spanish_dict[chosen_word] = definitions
+        else:
+            definitions = self.spanish_dict[chosen_word]
+        for definition in definitions:
+            if definition.lower() in translated_text.lower():
+                return definition
+        return definitions[0]
+
+    def make_hangman_caption(self,spanish_text,translated_text):
         tagged_words = self.nlp(spanish_text)
-        part_of_speeches =  [word.pos_ for word in tagged_words]
+        part_of_speeches = [word.pos_ for word in tagged_words]
         nouns = []
         verbs = []
         punctuation = []
@@ -64,14 +74,16 @@ class SpanishTutor:
                 verbs.append(word.text)
             if word.pos_ == 'PUNCT':
                 punctuation.append(word.text)
+        word_list = []
         if nouns:
             word_list = nouns
         else:
             word_list = verbs
         if not word_list:
+            #print("NO NOUNS OR VERBS?")
             return " "
         chosen_word = random.choice(word_list)
-        translated_word = self.translator.translate(chosen_word,dest='en').text
+        translated_word = self.translate_word(chosen_word,translated_text)
         caption = ''
         substring_starting_index = spanish_text.find(chosen_word)
         substring_ending_index = substring_starting_index + len(chosen_word)
@@ -83,8 +95,8 @@ class SpanishTutor:
                 caption += char
             else:
                 caption += '_'
-        caption = caption[:substring_ending_index] + " (" + translated_word + ")" + caption[substring_ending_index:]
-        print(caption)
+        caption = caption[:substring_ending_index] + "(" + translated_word + ")" + caption[substring_ending_index:]
+        #print(caption)
         return caption
 
 
@@ -119,11 +131,11 @@ class SpanishTutor:
 
     def main(self):
         
-        # self.populate_spanish_and_translation_text()
-        # self.transform_doc()
-        # self.write_file.write(xmltodict.unparse(self.doc))
-        # self.read_file.close()
-        # self.write_file.close()  
+        self.populate_spanish_and_translation_text()
+        self.transform_doc()
+        self.write_file.write(xmltodict.unparse(self.doc))
+        self.read_file.close()
+        self.write_file.close()  
         import pdb; pdb.set_trace()
         json_dict = json.dumps(self.spanish_dict)
         f = open("spanish_dict.json","w+")
@@ -138,4 +150,4 @@ class SpanishTutor:
 
 
 if __name__ == "__main__":
-    SpanishTutor('subtitles/s1e1spanish.xml','subtitles/hangman.xml').main()
+    SpanishTutor('subtitles/s1e1spanish.xml','subtitles/hangman_efficient.xml').main()
