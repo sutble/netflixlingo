@@ -1,5 +1,7 @@
 # netflixlingo
 
+![netflixlingo](https://user-images.githubusercontent.com/10662653/121195697-aeaec800-c824-11eb-8b62-ec55988d475d.png)
+
 
 
 Hey guys, I was doing DuoLingo when I noticed something.
